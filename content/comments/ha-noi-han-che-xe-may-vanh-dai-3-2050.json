@@ -1,0 +1,198 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Văn Đạt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:12:00+07:00",
+    "body": "Lần thứ 11 rồi. Cứ trình rồi rút, trình rồi rút. Đến năm 2080 chắc vẫn còn họp.",
+    "likes": 8472,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Trần Quốc Bảo",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T10:34:00+07:00",
+        "body": "Đến 2080 thì còn ai đi xe máy nữa đâu mà cấm bác ơi. Tự nhiên hết.",
+        "likes": 2104
+      },
+      {
+        "id": "c1-r2",
+        "username": "Lê Văn Phúc",
+        "location": "Hải Phòng",
+        "timestamp": "2045-04-25T11:01:00+07:00",
+        "body": "Em nghe câu này từ hồi học cấp 2.",
+        "likes": 1567
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Phạm Thị Lan",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:18:00+07:00",
+    "body": "Tôi ủng hộ. Mỗi sáng đi qua phố Khâm Thiên thấy chen chúc kinh khủng. Không khí ngột ngạt, vỉa hè không còn. Đến lúc rồi.",
+    "likes": 4231,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Hoàng Minh Tú",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T10:52:00+07:00",
+        "body": "Cô có ô tô riêng nên cô nói thế thôi.",
+        "likes": 6892
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Nguyễn Hoàng Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:25:00+07:00",
+    "body": "Trong Sài Gòn 6 triệu xe máy điện. Cấm đi đâu được?",
+    "likes": 3215,
+    "replies": []
+  },
+  {
+    "id": "c4",
+    "username": "Marisa Salvador",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:33:00+07:00",
+    "body": "Tôi và chồng đều theo chương trình Hữu Nghị, cả hai đều chạy đơn ở Cầu Giấy. Một ngày 14 tiếng trên xe máy. Cấm thì chúng tôi sống thế nào?",
+    "likes": 7891,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Đỗ Minh Quân",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T11:14:00+07:00",
+        "body": "Cố lên chị. Việt Nam mình mang ơn các anh chị shipper Hữu Nghị nhiều lắm.",
+        "likes": 4521
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Trần Văn Hải",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:41:00+07:00",
+    "body": "AI phạt nguội thì còn lâu mới đáng tin. Năm ngoái bố tôi bị phạt 4 lần, khiếu nại được 3 lần huỷ. Lần cuối đến giờ chưa được giải quyết.",
+    "likes": 2876,
+    "replies": []
+  },
+  {
+    "id": "c6",
+    "username": "le.thu.huong.45",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T10:47:00+07:00",
+    "body": "đứng",
+    "likes": 412,
+    "replies": []
+  },
+  {
+    "id": "c7",
+    "username": "Vũ Đình Thắng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:55:00+07:00",
+    "body": "Sao không cấm ô tô luôn cho xong? Một ô tô chiếm chỗ bằng 6 xe máy điện mà các bác cứ nhằm vào xe máy.",
+    "likes": 9214,
+    "replies": [
+      {
+        "id": "c7-r1",
+        "username": "Bùi Thanh Hằng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T11:23:00+07:00",
+        "body": "Vì cấm ô tô đụng vào quan chức, còn cấm xe máy thì đụng vào dân.",
+        "likes": 12104
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "username": "Đặng Thị Mai",
+    "location": "Quảng Bình",
+    "timestamp": "2045-04-25T11:02:00+07:00",
+    "body": "Năm 2034 nhà tôi mất cả thuyền cả nhà sau cơn bão. Lên Hà Nội ở với con gái. Chiếc xe máy là phương tiện duy nhất tôi tự đi được. Cấm rồi chắc tôi ngồi nhà.",
+    "likes": 5478,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "Trần Thu Trang",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T11:35:00+07:00",
+        "body": "Cô ơi, đề án có miễn trừ cho người trên 65 mà. Đọc kỹ giúp con nhé.",
+        "likes": 1843
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "Pham Quang Minh",
+    "location": "Khác",
+    "timestamp": "2045-04-25T11:08:00+07:00",
+    "body": "Đứng từ Sydney, em xa nhà 17 năm rồi, mỗi lần về thăm vẫn thèm cảm giác leo lên Cub 81 đi vòng quanh hồ Hoàn Kiếm. Cấm xong là mất một phần Hà Nội thật sự.",
+    "likes": 3621,
+    "replies": []
+  },
+  {
+    "id": "c10",
+    "username": "ngocha2017",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:16:00+07:00",
+    "body": "đằng sau là tập đoàn ô tô nội địa nào đề xuất cái này? đừng nói tôi đa nghi",
+    "likes": 7245,
+    "replies": [
+      {
+        "id": "c10-r1",
+        "username": "Nguyễn Thanh",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T11:48:00+07:00",
+        "body": "Bạn đoán đi.",
+        "likes": 2317
+      },
+      {
+        "id": "c10-r2",
+        "username": "Tô Văn Khánh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T12:02:00+07:00",
+        "body": "Hỏi thế hỏi cả vạn lần rồi. Có ai trả lời đâu.",
+        "likes": 1124
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "username": "Hoàng Văn Nam",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:24:00+07:00",
+    "body": "Tôi ở Cầu Giấy, làm văn phòng quận Hoàn Kiếm. Đi Metro số 3 thì 47 phút, đi xe máy 22 phút. Bao giờ Metro chạy đúng giờ thì hẵng cấm.",
+    "likes": 6428,
+    "replies": []
+  },
+  {
+    "id": "c12",
+    "username": "Lương Anh Tuấn",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:31:00+07:00",
+    "body": "Đến đời con tôi vẫn tranh cãi. Đọc xong chỉ biết thở dài.",
+    "likes": 4156,
+    "replies": []
+  },
+  {
+    "id": "c13",
+    "username": "khanh.linh.nguyen",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T11:39:00+07:00",
+    "body": "ở bd có cấm đâu mà yên ổn lắm 🙏",
+    "likes": 892,
+    "replies": []
+  },
+  {
+    "id": "c14",
+    "username": "Đỗ Minh Châu",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:46:00+07:00",
+    "body": "Đề án 47 trang, riêng phần miễn trừ là 18 trang. Đọc xong tôi không biết ai bị cấm thật sự.",
+    "likes": 5314,
+    "replies": []
+  }
+]
