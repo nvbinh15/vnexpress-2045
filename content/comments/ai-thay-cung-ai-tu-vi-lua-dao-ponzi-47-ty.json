@@ -1,0 +1,216 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Văn Hậu",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:42:00+07:00",
+    "body": "1.184 nạn nhân, 87% trên 55 tuổi. Đau lòng. Bố tôi cũng từng bị một vụ tương tự năm ngoái, mất 320 triệu. Đến giờ ông vẫn không tin đó là deepfake giọng mẹ.",
+    "likes": 24523,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Mai",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T15:08:00+07:00",
+        "body": "Anh ơi 320 triệu là cả đời tích góp của bác. Em rất tiếc.",
+        "likes": 8923
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Trần Hà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:58:00+07:00",
+    "body": "Lại lừa đảo. Dân mình bao giờ mới tỉnh. Mỗi ngày một vụ.",
+    "likes": 18234
+  },
+  {
+    "id": "c3",
+    "username": "Hoàng Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:15:00+07:00",
+    "body": "Tội nghiệp các bác lớn tuổi. Người đã mất rồi còn bị lôi ra để lừa con cháu. Mong toà xử nghiêm.",
+    "likes": 21456
+  },
+  {
+    "id": "c4",
+    "username": "Phạm Quốc Hùng",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T15:32:00+07:00",
+    "body": "Chứng nhận Đan Sa 'cấp 3' không tồn tại - chi tiết này đáng nhớ. Khi nghe ai nói 'đã có Đan Sa cấp X' với X > 2, hãy nghi ngờ ngay.",
+    "likes": 14892
+  },
+  {
+    "id": "c5",
+    "username": "Bà cụ 71",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:48:00+07:00",
+    "body": "Tôi là bà Hạnh trong bài. Phóng viên xin phép gọi tôi để phỏng vấn, tôi cảm ơn báo đã đưa tin. Nhưng tôi xin nói thêm: tôi không bao giờ nghĩ giọng đó là giả. Đến giờ trong đầu tôi nó vẫn là giọng nhà tôi. Đau lòng.",
+    "likes": 38923,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Mọi người ơi",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T16:15:00+07:00",
+        "body": "Cô ơi cô khoẻ. Đừng tự trách. Lừa đảo công nghệ cao, ai cũng có thể bị.",
+        "likes": 12567
+      },
+      {
+        "id": "c5-r2",
+        "username": "Trần Hà",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T16:32:00+07:00",
+        "body": "Cô gửi gắm giùm cho các bác cao tuổi: hãy gọi cho con cháu trước khi chuyển tiền. Đừng tin một mình.",
+        "likes": 7892
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Lê Anh",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T16:05:00+07:00",
+    "body": "990.000 đồng phí 'khai thông' - giá rẻ để tạo niềm tin. Sau đó là chuyển 1,84 tỷ. Mô hình kinh điển. Cảnh giác cao.",
+    "likes": 9234
+  },
+  {
+    "id": "c7",
+    "username": "Đoàn Tuấn",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T16:22:00+07:00",
+    "body": "Đề nghị cấm tất cả ứng dụng tử vi-tâm linh trên kho ứng dụng. Không có giá trị xã hội, chỉ có hại cho người cao tuổi.",
+    "likes": 28923,
+    "replies": [
+      {
+        "id": "c7-r1",
+        "username": "Tự do tín ngưỡng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T16:48:00+07:00",
+        "body": "Bác cấm hơi cực đoan. Có ứng dụng tử vi đàng hoàng. Cấm thì người ta sang lừa kênh khác.",
+        "likes": 4521
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "username": "Vũ Linh",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T16:38:00+07:00",
+    "body": "Tôi là kỹ sư AI giọng nói. Tôi xin được nói: hiện tại 30 giây ghi âm + 2 phút video là đủ để tổng hợp giọng giống 92%. Đề nghị mọi người không đăng giọng người thân trên mạng xã hội.",
+    "likes": 18923
+  },
+  {
+    "id": "c9",
+    "username": "Mẹ Bống",
+    "location": "Hải Dương",
+    "timestamp": "2045-04-25T16:55:00+07:00",
+    "body": "Tôi có nhà bị lừa. Mẹ chồng tôi mất 460 triệu. Cả nhà sốc. Đến giờ mẹ vẫn xấu hổ, không kể với ai. Đọc bài này mẹ đỡ nặng lòng. Cảm ơn báo.",
+    "likes": 22456
+  },
+  {
+    "id": "c10",
+    "username": "Phong Đỗ",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T17:12:00+07:00",
+    "body": "9 bị can là đường dây nhỏ. Sau lưng có ai? Avatar 'Thầy An' livestream 318 ngàn fan - tổ chức kiểu này chắc chắn không phải 9 người.",
+    "likes": 11456
+  },
+  {
+    "id": "c11",
+    "username": "Trần Phương",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T17:28:00+07:00",
+    "body": "Đệ nhất bình luận tử tế: ai có người thân lớn tuổi, hôm nay gọi điện hỏi thăm. Đó là cách phòng chống tốt nhất.",
+    "likes": 14523
+  },
+  {
+    "id": "c12",
+    "username": "Hà Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T17:45:00+07:00",
+    "body": "Cảnh sát điều tra nhanh, khen. Nhưng phòng chống vẫn chưa đủ. VNeID 8 cần có chế độ 'cảnh báo cuộc gọi giọng người mất' - dùng AI chống AI.",
+    "likes": 8923
+  },
+  {
+    "id": "c13",
+    "username": "anh ba",
+    "location": "Long An",
+    "timestamp": "2045-04-25T18:02:00+07:00",
+    "body": "miền tây mình cũng bị nhiều, nhất là các bác sống một mình. con cháu xa, thương lắm",
+    "likes": 12892
+  },
+  {
+    "id": "c14",
+    "username": "Lê Đức Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T18:18:00+07:00",
+    "body": "47 tỷ là số đã chứng minh. Số thật chắc gấp đôi. Nhiều nạn nhân không dám trình báo vì xấu hổ.",
+    "likes": 5672
+  },
+  {
+    "id": "c15",
+    "username": "Phạm Thị Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T18:35:00+07:00",
+    "body": "Hộp thông tin về Đan Sa thật rất hữu ích. In ra dán ở nhà cho mẹ. Cảm ơn ban biên tập.",
+    "likes": 14892
+  },
+  {
+    "id": "c16",
+    "username": "Đặng Quốc",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T18:52:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c17",
+    "username": "Bùi Thanh",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T19:08:00+07:00",
+    "body": "Cụ bà 71 tuổi mất 1,84 tỷ - tiền 3 lần bốc thăm chung cư trượt. Trời ơi. Đời cụ giờ tính sao? Mong toà yêu cầu bồi thường, nhưng tiền nào trả lại được năm tháng?",
+    "likes": 21456
+  },
+  {
+    "id": "c18",
+    "username": "Hoàng Việt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T19:25:00+07:00",
+    "body": "Đằng sau là gì? Có thể là một tổ chức quốc tế. Việt Nam là thị trường người cao tuổi trên 25 triệu, dễ bị tổn thương. Bộ Công an cần phối hợp INTERPOL.",
+    "likes": 9234
+  },
+  {
+    "id": "c19",
+    "username": "Mẹ Cún",
+    "location": "Khác",
+    "timestamp": "2045-04-25T19:42:00+07:00",
+    "body": "Đọc xong tôi gọi mẹ tôi luôn, cảnh báo mẹ không nhận cuộc gọi lạ. Cảm ơn báo đã viết bài này.",
+    "likes": 6789
+  },
+  {
+    "id": "c20",
+    "username": "Trí",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T19:58:00+07:00",
+    "body": "share để mọi người cùng biết. cảnh báo gấp.",
+    "likes": 18923
+  },
+  {
+    "id": "c21",
+    "username": "Phong V.",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T20:15:00+07:00",
+    "body": "Đến đời cháu chắt cũng không hết lừa đảo. Cảnh giác, cảnh giác, cảnh giác.",
+    "likes": 4521
+  },
+  {
+    "id": "c22",
+    "username": "Hà My",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T20:32:00+07:00",
+    "body": "Mong các kênh livestream tâm linh bị xoá hết. 318 ngàn fan của 'Thầy An' - bà con xin tỉnh táo.",
+    "likes": 14523
+  }
+]

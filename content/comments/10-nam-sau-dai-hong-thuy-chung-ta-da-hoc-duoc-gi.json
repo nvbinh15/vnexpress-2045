@@ -1,0 +1,108 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Trung Hiếu",
+    "location": "Quảng Trị",
+    "timestamp": "2045-04-25T06:02:00+07:00",
+    "body": "11 năm rồi. Tôi vẫn không bước qua được khúc sông cạnh nhà. Mọi người bảo phải buông bỏ. Tôi không biết buông cái gì.",
+    "likes": 12456
+  },
+  {
+    "id": "c2",
+    "username": "Đặng Phương",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T06:18:00+07:00",
+    "body": "Tác giả viết rất công bằng. Cái chúng ta đã học: hệ thống cảnh báo. Cái chưa học: cách sống chung với nỗi mất.",
+    "likes": 5678
+  },
+  {
+    "id": "c3",
+    "username": "Hoàng Mai",
+    "location": "Huế",
+    "timestamp": "2045-04-25T06:35:00+07:00",
+    "body": "Tôi mất em trai. Đến giờ vẫn để sim của nó. Mỗi tháng vẫn nạp tiền. Có lẽ đó là việc 'chưa học được' mà tác giả nói.",
+    "likes": 18234
+  },
+  {
+    "id": "c4",
+    "username": "Trần Văn Phú",
+    "location": "Quảng Nam",
+    "timestamp": "2045-04-25T06:52:00+07:00",
+    "body": "Đại hồng thuỷ là một từ quá to. Đôi khi tôi thấy chúng ta nói nhiều quá về nó. Có những người không muốn nhớ. Hãy để họ quên.",
+    "likes": 3245,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Mẹ Linh",
+        "location": "Quảng Trị",
+        "timestamp": "2045-04-25T07:18:00+07:00",
+        "body": "Bác nói đúng một nửa. Có người muốn quên, có người không quên được dù muốn.",
+        "likes": 4521
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Lê Hồng Anh",
+    "location": "Thừa Thiên Huế",
+    "timestamp": "2045-04-25T07:08:00+07:00",
+    "body": "Cảm ơn tác giả. Bài viết bình tĩnh, không khai thác cảm xúc. Đó là cách viết về Đại hồng thuỷ tôi mong báo chí làm nhiều hơn.",
+    "likes": 6892
+  },
+  {
+    "id": "c6",
+    "username": "Phong N.",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:25:00+07:00",
+    "body": "Cái chúng ta đã học: dự án đê biển 487 nghìn tỷ. Cái chưa học: chăm sóc tâm lý cho 1,2 triệu người sống sót. Ngân sách cho cái sau đâu?",
+    "likes": 9234
+  },
+  {
+    "id": "c7",
+    "username": "Thanh Hà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:42:00+07:00",
+    "body": "Đệ nhất bình luận. Bài hay. Đọc xong thấy nhẹ và buồn cùng lúc.",
+    "likes": 567
+  },
+  {
+    "id": "c8",
+    "username": "Đoàn Quân",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T07:58:00+07:00",
+    "body": "Bộ Y tế từng có chương trình tham vấn miễn phí cho người sống sót, nhưng đến 2040 đã ngừng vì thiếu ngân sách. Mong báo chí điều tra việc này.",
+    "likes": 4521
+  },
+  {
+    "id": "c9",
+    "username": "anh nông dân",
+    "location": "Hà Tĩnh",
+    "timestamp": "2045-04-25T08:15:00+07:00",
+    "body": "tui không phải nạn nhân nhưng cô tui mất cả nhà. mỗi đám giỗ tui không biết nói gì với cô. có khi im lặng cũng được",
+    "likes": 7892
+  },
+  {
+    "id": "c10",
+    "username": "Vũ Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:32:00+07:00",
+    "body": "Bài này phải có trong sách giáo khoa Lịch sử lớp 9. Không phải để học, mà để đứa trẻ nào cũng đọc 1 lần.",
+    "likes": 3892
+  },
+  {
+    "id": "c11",
+    "username": "Một độc giả lặng lẽ",
+    "location": "Khác",
+    "timestamp": "2045-04-25T08:48:00+07:00",
+    "body": "Cảm ơn anh. Đọc xong tôi đi pha một ấm chè.",
+    "likes": 5672
+  },
+  {
+    "id": "c12",
+    "username": "Phạm Đức Hùng",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T09:05:00+07:00",
+    "body": "Đứng đầu nhận sai: 11 năm rồi tôi vẫn chưa lên thắp hương. Bài viết này nhắc tôi.",
+    "likes": 1234
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "c1",
+    "username": "Đặng Thuỳ Linh (mẹ bé Su)",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:08:00+07:00",
+    "body": "Tôi là chị Linh trong bài. Su sáng nay vừa hỏi tôi 'mẹ ơi yêu là gì.' Tôi đang nghĩ câu trả lời. Nếu tôi trả lời chậm, cô giáo ảo sẽ trả lời trước. Đó là một cuộc đua tôi không nghĩ là tôi sẽ phải tham gia khi sinh con.",
+    "likes": 27892
+  },
+  {
+    "id": "c2",
+    "username": "Bố hai con",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:25:00+07:00",
+    "body": "Đứa lớn nhà tôi 7 tuổi, đứa nhỏ 2 tuổi. Đứa lớn (sinh 2038) lớn lên với màn hình tablet. Đứa nhỏ (sinh 2042) lớn lên với cô giáo ảo nói chuyện. Khoảng cách 4 năm thôi mà như hai thế hệ. Đôi khi đứa lớn nhìn đứa nhỏ nói chuyện với máy, nó cũng thấy lạ.",
+    "likes": 8923
+  },
+  {
+    "id": "c3",
+    "username": "Bà nội đời 1962",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T12:42:00+07:00",
+    "body": "Cháu tôi 18 tháng. Mỗi lần tôi sang chơi nó kéo tôi đến chỗ cái máy bảo 'cô ơi bà đến chơi.' Tôi đứng đó nghe cô giáo ảo chào tôi rất ngọt. Tôi không biết tôi vừa được giới thiệu hay vừa được kiểm tra. Tôi 83 tuổi. Tôi không hiểu thời này.",
+    "likes": 19234,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Mai con",
+        "location": "Hải Phòng",
+        "timestamp": "2045-04-25T13:08:00+07:00",
+        "body": "Bà ơi, bà cứ chơi với cháu là được. Cô giáo ảo không cạnh tranh với bà. Cô đó không có tay để bế cháu.",
+        "likes": 14567
+      },
+      {
+        "id": "c3-r2",
+        "username": "Đan",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T13:25:00+07:00",
+        "body": "Bà nói câu đó, bà hiểu thời này hơn nhiều người trẻ rồi.",
+        "likes": 5234
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Vũ Hải Anh (đã phỏng vấn)",
+    "location": "Đà Lạt",
+    "timestamp": "2045-04-25T13:00:00+07:00",
+    "body": "Tôi là chị Hải Anh trong bài. Tôi không phán xét nhà nào. Mỗi nhà một hoàn cảnh. Nhưng nếu có ai cũng đang phân vân như tôi 6 tháng trước, tôi nói thật: việc tắt cô giáo ảo trong 90 ngày đầu là đáng thử. Sau đó bật lại hay không là chuyện riêng của bạn. Tôi tắt hẳn vì tôi may mắn làm việc tại nhà. Không phải ai cũng vậy.",
+    "likes": 16234
+  },
+  {
+    "id": "c5",
+    "username": "Hà Trang",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:18:00+07:00",
+    "body": "Vợ chồng tôi đi làm 10 tiếng/ngày. Bà nội ở quê, ông ngoại đã mất. Không có cô giáo ảo thì ai dạy con tôi nói? Đừng kết luận vội vàng. Đặc quyền là một thứ không phải ai cũng có.",
+    "likes": 12892,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Mẹ Sóc",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T13:45:00+07:00",
+        "body": "Cảm ơn chị nói câu này. Tôi cũng vậy. Đọc bài này nhiều khi cảm thấy mình là mẹ tệ.",
+        "likes": 6234
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "GS Tâm lý học",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:35:00+07:00",
+    "body": "Câu cuối bài rất quan trọng: 'Tôi sợ con tôi sẽ yêu tôi đúng theo cách cô giáo ảo dạy.' Đây là vấn đề về 'attachment imitative' - trẻ học cách thể hiện cảm xúc trước khi học cảm xúc. Khi cách thể hiện đến từ một mô hình thay vì từ trải nghiệm sống, có nguy cơ trẻ trở thành 'ngữ pháp cảm xúc' - đúng cấu trúc, mất nội dung. Khoa học chưa kết luận, nhưng câu hỏi xác đáng.",
+    "likes": 9234
+  },
+  {
+    "id": "c7",
+    "username": "thị dân số 9",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:52:00+07:00",
+    "body": "đệ nhất bình luận chung cư 9 quận 7. nhà tôi hai vợ chồng, hai cô giáo ảo. con tôi nói với cô giáo ảo nhiều hơn nói với tôi. tôi không biết có buồn không.",
+    "likes": 4521
+  },
+  {
+    "id": "c8",
+    "username": "Phạm Quốc Toàn (đã phỏng vấn)",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:08:00+07:00",
+    "body": "Tôi là anh Toàn IT trong bài. Vợ tôi đọc xong bài đã giận tôi 4 tiếng vì 'sao anh trả lời báo nhẹ tênh thế.' Tôi không nói nhẹ tênh đâu - tôi nói chân thật. Đứa nhỏ học từ nhiều nguồn. Nếu tôi không yên tâm cô giáo ảo dạy, tôi sẽ tự dạy. Tôi không sợ AI thay thế tôi. Tôi sợ tôi không xuất hiện đủ trong đời con.",
+    "likes": 18234
+  },
+  {
+    "id": "c9",
+    "username": "Cô giáo mầm non",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T14:25:00+07:00",
+    "body": "Tôi dạy mầm non 17 năm. 5 năm nay tôi nhận ra: bé vào lớp tôi nói chuyện rõ ràng hơn, biết nhiều khái niệm hơn, nhưng ít sờ vào bạn hơn, ít cười với cô hơn. Cô giáo ảo dạy ngữ pháp tốt. Nhưng cô không có thân thể. Bé thì có. Đó là khoảng trống không lấp được bằng phần mềm.",
+    "likes": 23892
+  },
+  {
+    "id": "c10",
+    "username": "Đệ nhất",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T14:42:00+07:00",
+    "body": "Đệ nhất Hải Phòng. Con tôi 3 tuổi gọi cô giáo ảo là 'mẹ hai.' Tôi không sửa nó. Có sao đâu.",
+    "likes": 567,
+    "replies": [
+      {
+        "id": "c10-r1",
+        "username": "Hằng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T15:08:00+07:00",
+        "body": "Bạn nên sửa nó. Một mẹ là một mẹ. Không có mẹ hai.",
+        "likes": 8923
+      },
+      {
+        "id": "c10-r2",
+        "username": "Quân",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T15:25:00+07:00",
+        "body": "Để con gọi gì kệ con. 3 tuổi không cần lý luận giáo dục.",
+        "likes": 1567
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "username": "anh hai",
+    "location": "Tiền Giang",
+    "timestamp": "2045-04-25T15:00:00+07:00",
+    "body": "miền tây không có cô giáo ảo. con cháu tôi học nói với chó với gà, lớn lên cũng yêu mẹ. mấy bác đô thị lo nhiều quá thì sinh ra vấn đề. con người là con người, máy là máy.",
+    "likes": 6234
+  },
+  {
+    "id": "c12",
+    "username": "Mai Phương",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:18:00+07:00",
+    "body": "Câu trả lời 'yêu là khi mình muốn ngồi gần một người, và mình cảm thấy ấm' - thật ra rất hay. Tôi 35 tuổi không định nghĩa được sạch như thế. Nếu cô giáo ảo dạy con tôi câu đó, tôi không khó chịu. Tôi chỉ buồn vì câu đó không phải tôi nghĩ ra.",
+    "likes": 11234
+  },
+  {
+    "id": "c13",
+    "username": "Bố Quân",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:35:00+07:00",
+    "body": "BS Yến nói 90 phút tương tác/ngày. Tôi đi làm về 8h tối, tắm cho con, ăn cơm, đọc sách 30 phút, ngủ. Cộng dồn được 60 phút thôi. 30 phút thiếu, ai bù? Cô giáo ảo bù. Đó là thực tế, không phải lựa chọn đạo đức.",
+    "likes": 7892
+  },
+  {
+    "id": "c14",
+    "username": "L.K.",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:52:00+07:00",
+    "body": "Đoạn cuối bài bị xoá khỏi nhóm Zalo phụ huynh sau 3 tiếng. Tôi đọc xong rớt nước mắt. Bài này nên được dạy ở các lớp tiền hôn nhân.",
+    "likes": 5234
+  },
+  {
+    "id": "c15",
+    "username": "Mẹ Sun",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T16:08:00+07:00",
+    "body": "Đúng",
+    "likes": 412
+  }
+]

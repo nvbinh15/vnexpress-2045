@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Quốc Đạt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:48:00+07:00",
+    "body": "Đệ nhất bình luận từ Hà Nội. Em Hân 14 tuổi, tự học bằng sách thầy Đào Thiên Hải, thắng engine có quỹ Pháp đầu tư. Tôi xúc động.",
+    "likes": 8923
+  },
+  {
+    "id": "c2",
+    "username": "Trần Bình",
+    "location": "Quảng Ninh",
+    "timestamp": "2045-04-25T11:02:00+07:00",
+    "body": "Vân Đồn hôm nay vui. Bà ngoại Hân ngoài bến cá đang khoe cả chợ. Cả lớp 38 đứa chia 1 bộ cờ - bài viết chân thực.",
+    "likes": 6234
+  },
+  {
+    "id": "c3",
+    "username": "Đỗ Quốc Việt",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:18:00+07:00",
+    "body": "VCF từ chối Đan Sa cho Voltaire-3 vì dữ liệu huấn luyện không minh bạch - quyết định đúng. Engine nuốt ván cờ trẻ con Việt Nam mà không trả phí, không hỏi - phản đối.",
+    "likes": 7456
+  },
+  {
+    "id": "c4",
+    "username": "Hoàng Vân",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:35:00+07:00",
+    "body": "Anh Lê Quang Liêm vẫn là thần tượng của các kỳ thủ trẻ - thấy ấm lòng. Không phải thế hệ nào cũng quên người đi trước.",
+    "likes": 4521
+  },
+  {
+    "id": "c5",
+    "username": "Phạm Đức",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:52:00+07:00",
+    "body": "10 ván blitz 3+2 thắng 6-4 engine - đỉnh thật sự. Voltaire-3 không phải engine yếu. Em Hân mạnh hơn tôi tưởng.",
+    "likes": 5723
+  },
+  {
+    "id": "c6",
+    "username": "thầy cờ",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:08:00+07:00",
+    "body": "Tôi dạy cờ 30 năm. Em Hân là kỳ thủ đặc biệt - nhịp ra quân chậm, suy nghĩ kỹ, không vội. Đó là phong cách Liêm. Tương lai sáng.",
+    "likes": 11456
+  },
+  {
+    "id": "c7",
+    "username": "Mai Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:25:00+07:00",
+    "body": "47 triệu đem mua bộ cờ cho lớp - đứa trẻ này tử tế. Bố mẹ nuôi dạy tốt. Chúc em đi Manila thuận lợi.",
+    "likes": 18923
+  },
+  {
+    "id": "c8",
+    "username": "Đặng Tuấn",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T12:42:00+07:00",
+    "body": "Cờ vua VN có truyền thống tốt. Thiếu mỗi đầu tư cơ sở. Hi vọng VinAI hay tập đoàn nào trong nước mạnh tay tài trợ thay vì để Pháp.",
+    "likes": 3245
+  },
+  {
+    "id": "c9",
+    "username": "Bùi Thanh",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T12:58:00+07:00",
+    "body": "Câu cuối hài: 'em đã xem thầy Liêm hướng dẫn cách qua hải quan trên YouTube'. 14 tuổi, tự lo. Phụ huynh Việt Nam có thể yên tâm về thế hệ này.",
+    "likes": 12567
+  },
+  {
+    "id": "c10",
+    "username": "Hà Đan",
+    "location": "Khác",
+    "timestamp": "2045-04-25T13:15:00+07:00",
+    "body": "Đọc từ Paris. Caïssa Capital là quỹ tốt thật, nhưng họ đầu tư engine với mục đích thương mại. VCF đúng. Châu Á cần engine châu Á.",
+    "likes": 4892
+  },
+  {
+    "id": "c11",
+    "username": "Phong Đỗ",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:32:00+07:00",
+    "body": "share để bố mẹ thấy không cần gói trợ lý số 4,8 triệu/tháng cũng có thể nuôi con giỏi",
+    "likes": 6789
+  },
+  {
+    "id": "c12",
+    "username": "Lê Quân",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:48:00+07:00",
+    "body": "Bộ cờ thi đấu 2039 - 6 năm rồi. Trường THCS Vân Đồn 2 nên được tỉnh quan tâm hơn. Bài này có giá trị vận động chính sách.",
+    "likes": 2891
+  }
+]

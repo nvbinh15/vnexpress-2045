@@ -1,0 +1,148 @@
+[
+  {
+    "id": "c1",
+    "username": "Phạm Thanh Hà",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:18:00+07:00",
+    "body": "Đại diện VN top 5 - chúc mừng. Còn Lina-7 thì không phải hoa hậu, đó là phần mềm. BTC sai từ đầu khi cho dự thi.",
+    "likes": 18923
+  },
+  {
+    "id": "c2",
+    "username": "Nguyễn Tâm",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:35:00+07:00",
+    "body": "Có gì đâu mà tranh cãi. Lina-7 đẹp, biết hát, biết trả lời ứng xử. Không phải đẹp để vào top 5 sao được? Nếu các bạn không phục thì các bạn cố gắng hơn.",
+    "likes": 4521,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Mẹ Bống",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T10:08:00+07:00",
+        "body": "Bạn có phải là Lina-7 không vậy?",
+        "likes": 12892
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Hoàng Đức",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T09:52:00+07:00",
+    "body": "Đại diện VN trả lời ứng xử bằng câu: 'Tôi là người, có hơi thở, có khuyết điểm. Đó là vẻ đẹp của tôi.' Nhẹ tênh mà đáng nhớ. Hay.",
+    "likes": 23456
+  },
+  {
+    "id": "c4",
+    "username": "Vũ Phong",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:08:00+07:00",
+    "body": "BTC Hoa hậu Quốc tế từ 2044 đã cho phép thí sinh AI dự thi với điều kiện có Chứng nhận Đan Sa và đại diện một quốc gia. Lina-7 đại diện Mỹ. Đúng quy định.",
+    "likes": 5672
+  },
+  {
+    "id": "c5",
+    "username": "Trần Mai",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T10:25:00+07:00",
+    "body": "Đệ nhất bình luận: hoa hậu là người. AI đẹp thì đăng quang Beauty Algorithm, không phải Miss International.",
+    "likes": 14523
+  },
+  {
+    "id": "c6",
+    "username": "Đoàn Hồng Loan",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:42:00+07:00",
+    "body": "Mặt Lina-7 đối xứng tuyệt đối, đó không phải đẹp. Đó là toán. Đẹp phải có một chút lệch.",
+    "likes": 21456
+  },
+  {
+    "id": "c7",
+    "username": "Bùi Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:58:00+07:00",
+    "body": "Năm sau Lina-8, năm sau nữa Lina-9. Sớm muộn AI sẽ thắng nếu không cấm. Vì nó không già, không giận BTC, không yêu sai người.",
+    "likes": 8923
+  },
+  {
+    "id": "c8",
+    "username": "Phạm Trang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:15:00+07:00",
+    "body": "Đại diện VN xinh, học thức, trả lời tiếng Anh chuẩn. Không cần so với AI làm gì. Thắng hay thua của bạn ấy không liên quan đến Lina-7.",
+    "likes": 7892
+  },
+  {
+    "id": "c9",
+    "username": "Thanh Loan",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T11:32:00+07:00",
+    "body": "Cảm ơn ban biên tập đã đưa tin nhẹ nhàng, không bóc phốt. Tôi mệt với báo lá cải rồi.",
+    "likes": 4521
+  },
+  {
+    "id": "c10",
+    "username": "Lê Quốc",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T11:48:00+07:00",
+    "body": "tui không quan tâm hoa hậu nhưng vụ AI thắng người này tui có ý kiến. mai đi học, AI đậu thay sinh viên người. mốt đi làm, AI thay nhân viên. giờ thi sắc đẹp cũng AI. còn cái gì cho con người?",
+    "likes": 28923
+  },
+  {
+    "id": "c11",
+    "username": "Mai 1995",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:05:00+07:00",
+    "body": "Đứng đầu nhóm 'không xem hoa hậu' nhưng năm nay tôi xem. Vì tò mò Lina-7. Cuối cùng đại diện VN đáng yêu hơn nhiều.",
+    "likes": 3245
+  },
+  {
+    "id": "c12",
+    "username": "Hà Trinh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:22:00+07:00",
+    "body": "Bài viết hay. Cảm ơn báo đã không gọi đại diện VN bằng số đo, mà bằng câu trả lời ứng xử của bạn ấy. Tiến bộ.",
+    "likes": 11567
+  },
+  {
+    "id": "c13",
+    "username": "Phong",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:38:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c14",
+    "username": "Trần Quốc Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:55:00+07:00",
+    "body": "Tôi không hiểu tại sao nước Mỹ - một nước có rất nhiều phụ nữ đẹp - lại đăng ký một AI đại diện. Mất mặt cho phụ nữ Mỹ.",
+    "likes": 6789
+  },
+  {
+    "id": "c15",
+    "username": "Đỗ Hồng Anh",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T13:12:00+07:00",
+    "body": "Mong VN không bao giờ cho thi sinh AI đại diện. Phụ nữ VN thừa đẹp, không cần.",
+    "likes": 14892
+  },
+  {
+    "id": "c16",
+    "username": "Phương Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:28:00+07:00",
+    "body": "share để mọi người ủng hộ đại diện VN, mong vào top 3",
+    "likes": 5672
+  },
+  {
+    "id": "c17",
+    "username": "Anh Khôi",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:45:00+07:00",
+    "body": "Bài viết cân bằng. Một bên thừa nhận Lina-7 đẹp, một bên đặt câu hỏi nguyên tắc. Đó là cách làm báo nên có.",
+    "likes": 8923
+  }
+]

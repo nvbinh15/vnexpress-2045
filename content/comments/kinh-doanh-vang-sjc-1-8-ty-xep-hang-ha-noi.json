@@ -1,0 +1,142 @@
+[
+  {
+    "id": "c1",
+    "username": "Bà Hảo (đã được phỏng vấn)",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:14:00+07:00",
+    "body": "Tôi là bà Hảo trong bài. Con gái tôi gửi cho tôi đường link, đọc cho tôi nghe vì tôi không nhìn được màn hình lâu. Tôi xin nói một câu thôi: 67 năm nay tôi không tin gì khác ngoài cái nhẫn cầm trong tay. Cám ơn báo đã viết đúng lời tôi nói.",
+    "likes": 19234
+  },
+  {
+    "id": "c2",
+    "username": "Nguyễn Văn Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:31:00+07:00",
+    "body": "198 triệu/lượng. Năm tôi cưới vợ 2018 vàng 36 triệu. Bao giờ vàng giảm thì kinh tế mới ổn, ai bảo vàng tăng là tốt thì sai bét.",
+    "likes": 5234
+  },
+  {
+    "id": "c3",
+    "username": "F0 vàng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:48:00+07:00",
+    "body": "tôi mua đỉnh tháng 11/2044 (196,2tr). gồng 5 tháng. hôm nay vừa tích đủ tiền lãi để xếp hàng mua thêm. nghiện vàng giống nghiện bốc thăm chung cư. cùng một virus",
+    "likes": 8923
+  },
+  {
+    "id": "c4",
+    "username": "Trần Mai",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T13:05:00+07:00",
+    "body": "Chênh 4,7 triệu so với thế giới. Buôn lậu vàng đường biên Móng Cái lại sôi động. NHNN nên xem xét, không thì ai làm tử tế cũng nản.",
+    "likes": 2341
+  },
+  {
+    "id": "c5",
+    "username": "thầy Năm",
+    "location": "Tiền Giang",
+    "timestamp": "2045-04-25T13:22:00+07:00",
+    "body": "Ngày xưa cưới vợ 4 cây vàng. Bây giờ 4 cây vàng mua được nửa cái toilet ở Cần Giờ. Vàng vẫn là vàng, chỉ có nhà là khác.",
+    "likes": 6892,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Hùng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T13:48:00+07:00",
+        "body": "Thầy Năm khắp nơi đều thấy. Năm nào cũng đúng câu này.",
+        "likes": 1567
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Đặng Lan",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:38:00+07:00",
+    "body": "4h sáng xếp hàng. 6h30 tiệm mở. Mưa phùn 17 độ. Tay tê. Mua được 1 chỉ. Về nhà chồng hỏi 'mua làm gì, lãi vài triệu thì lãng phí thời gian.' Tôi không trả lời. Có những thứ không phải để lãi.",
+    "likes": 11234
+  },
+  {
+    "id": "c7",
+    "username": "Anh Trần Vũ (đã phỏng vấn)",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:55:00+07:00",
+    "body": "Tôi là anh Vũ trong bài. Sáng nay tôi đi mua hộ mẹ. Buồn cười là sau khi mua xong, tôi đăng tin lên Zalo gia đình thì bị chú út comment 'sao không mua qua app cho rẻ.' Mẹ tôi đọc xong nhắn riêng tôi: 'Đừng nghe chú út.' OK mẹ.",
+    "likes": 9234
+  },
+  {
+    "id": "c8",
+    "username": "Lê Văn Phước",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:12:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c9",
+    "username": "Cô Huệ",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T14:28:00+07:00",
+    "body": "Năm ngoái cô tôi bị lừa 6 chỉ vàng livestream avatar AI. Đến giờ chưa lấy lại được. Các cụ cứ ra tiệm trực tiếp, đừng nghe trên mạng.",
+    "likes": 4521
+  },
+  {
+    "id": "c10",
+    "username": "Phạm Đông",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T14:45:00+07:00",
+    "body": "TS Cấn Văn Lực phát biểu chuẩn. 'Tài sản trú ẩn duy trì bằng văn hoá' - một câu định nghĩa cả nền tài chính cá nhân Việt Nam.",
+    "likes": 1892
+  },
+  {
+    "id": "c11",
+    "username": "Đệ nhất bình luận",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T15:02:00+07:00",
+    "body": "Đệ nhất miền Tây vào hóng. Em bán 5 công đất mua 2 lượng vàng. Cám ơn các anh.",
+    "likes": 423,
+    "replies": [
+      {
+        "id": "c11-r1",
+        "username": "Khôi",
+        "location": "Cần Thơ",
+        "timestamp": "2045-04-25T15:25:00+07:00",
+        "body": "Đất công 5 thằng nào trả 2 lượng vàng nói tôi nghe.",
+        "likes": 234
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "username": "Lê Bích",
+    "location": "Khác",
+    "timestamp": "2045-04-25T15:18:00+07:00",
+    "body": "Đọc từ Sydney. Vàng bên này lưu thông tự do, mua online giao tận nhà. Việt Nam 2045 vẫn xếp hàng trên vỉa hè - không phải lạc hậu, là văn hoá. Lạ mà thương.",
+    "likes": 2341
+  },
+  {
+    "id": "c13",
+    "username": "Mẹ Bún",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:35:00+07:00",
+    "body": "Tôi đẻ 3 đứa, mỗi đứa cho 1 chỉ vàng làm hồi môn. Bây giờ vàng 198 triệu, tôi tính đẻ thêm đứa nữa lấy lý do mua vàng. Chồng nói không.",
+    "likes": 6234
+  },
+  {
+    "id": "c14",
+    "username": "anh ba",
+    "location": "Long An",
+    "timestamp": "2045-04-25T15:52:00+07:00",
+    "body": "vàng tăng, đất tăng, chứng giảm, lương đứng yên. miền nam vẫn nắng. cứ vậy mà sống thôi mấy bác",
+    "likes": 1567
+  },
+  {
+    "id": "c15",
+    "username": "Trần Hằng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:08:00+07:00",
+    "body": "Mẹ tôi 73 tuổi vẫn đi xếp hàng từ 5h. Tôi đi cùng để dìu bà. Mỗi lần xếp hàng bà gặp các bà khác, kể chuyện cháu ngoại, kể chuyện rau ngoài chợ. Tiệm vàng giờ là sân khấu cuối cùng cho thế hệ bà tôi gặp nhau ngoài đời. Mua vàng chỉ là cái cớ.",
+    "likes": 23892
+  }
+]

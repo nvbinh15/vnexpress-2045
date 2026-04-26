@@ -1,0 +1,134 @@
+[
+  {
+    "id": "c1",
+    "username": "Mai Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:18:00+07:00",
+    "body": "Cười đau ruột. Mẹ phát hiện vì mùi nước hoa - cách phá án thiên tài. Cảm ơn tác giả.",
+    "likes": 18923
+  },
+  {
+    "id": "c2",
+    "username": "Hoàng Đức",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:35:00+07:00",
+    "body": "Tôi cũng thuê chú rể về ra mắt một lần. Mẹ tôi không phát hiện. Nhưng tôi tự thú sau 3 ngày. Đời ai có lúc khổ như vậy.",
+    "likes": 8923
+  },
+  {
+    "id": "c3",
+    "username": "Phạm Trang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:52:00+07:00",
+    "body": "Đệ nhất bình luận: nước hoa Acqua di Parma giả vẫn không lừa được mẹ. Mẹ hơn cả chuyên gia pháp y mùi.",
+    "likes": 14523
+  },
+  {
+    "id": "c4",
+    "username": "Đặng Hà",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T12:08:00+07:00",
+    "body": "Đoạn 'mẹ ngửi tay anh ấy 3 giây rồi quay sang tôi: con lừa mẹ' - cười nhưng cũng tê tái. Mẹ luôn là FBI gia đình.",
+    "likes": 12892
+  },
+  {
+    "id": "c5",
+    "username": "Trần Phương",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T12:25:00+07:00",
+    "body": "Bài hay. Mục Thư giãn của VnExpress năm nay chất lượng. Cảm ơn ban biên tập.",
+    "likes": 4521
+  },
+  {
+    "id": "c6",
+    "username": "Vũ Hoà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:42:00+07:00",
+    "body": "Năm 2045 vẫn còn người thuê chú rể về ra mắt - đó là điểm đáng nói. Áp lực gia đình chưa hề giảm dù xã hội tiến lên.",
+    "likes": 11456
+  },
+  {
+    "id": "c7",
+    "username": "Phong Đỗ",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:58:00+07:00",
+    "body": "Tôi 36 tuổi, độc thân. Đọc xong thấy mình không cô đơn vì có những đồng đạo. Cảm ơn chị.",
+    "likes": 7892
+  },
+  {
+    "id": "c8",
+    "username": "Mẹ Bống",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T13:15:00+07:00",
+    "body": "Là mẹ, tôi nói thẳng: bọn mẹ luôn biết. Bọn mẹ giả vờ không biết để con đỡ ngại.",
+    "likes": 32456,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "Cô gái 32",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T13:42:00+07:00",
+        "body": "Cô ơi cô làm con khóc giữa văn phòng.",
+        "likes": 9234
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "Lê Văn Long",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T13:32:00+07:00",
+    "body": "Có dịch vụ thuê chú rể thật à? Nhiều người cần à? Tôi thiếu thông tin.",
+    "likes": 1789,
+    "replies": [
+      {
+        "id": "c9-r1",
+        "username": "Đông",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T14:02:00+07:00",
+        "body": "Bác ơi có. Giá 4-8 triệu/lần ra mắt, tuỳ ngoại hình và độ giả thực tế.",
+        "likes": 3245
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "username": "Hà Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:48:00+07:00",
+    "body": "Đoạn cuối: 'Mẹ chỉ nói: con gái mẹ đẹp, mẹ chờ được' - tự nhiên rớt nước mắt giữa lúc đang cười.",
+    "likes": 21456
+  },
+  {
+    "id": "c11",
+    "username": "Trần Mai",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:05:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c12",
+    "username": "Đoàn Phong",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:22:00+07:00",
+    "body": "share để mọi người cùng đọc và đừng ép con cái lấy chồng nữa",
+    "likes": 14892
+  },
+  {
+    "id": "c13",
+    "username": "Phạm Hồng",
+    "location": "Khác",
+    "timestamp": "2045-04-25T14:38:00+07:00",
+    "body": "Đọc từ Singapore. Cười đến nỗi đồng nghiệp Sing hỏi tôi có sao không. Bài viết Việt Nam nhẹ nhàng nhất tôi đọc tháng này.",
+    "likes": 5672
+  },
+  {
+    "id": "c14",
+    "username": "Mai Anh",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T14:55:00+07:00",
+    "body": "Câu cuối hay nhất bài: 'Tôi hối hận. Nhưng tôi cũng nhẹ lòng.' Đôi khi bị mẹ phát hiện lại là phép giải thoát.",
+    "likes": 11234
+  }
+]

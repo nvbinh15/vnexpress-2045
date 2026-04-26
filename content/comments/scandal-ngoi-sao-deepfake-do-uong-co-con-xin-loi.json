@@ -1,0 +1,180 @@
+[
+  {
+    "id": "c1",
+    "username": "Phương Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:18:00+07:00",
+    "body": "31% deepfake nghĩa là 69% thật. Anh xin lỗi vì cái 69% chứ không phải vì cái 31%. Đừng đánh tráo.",
+    "likes": 32456
+  },
+  {
+    "id": "c2",
+    "username": "Hoàng Linh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:35:00+07:00",
+    "body": "Câu 'dùng nhiều đồ uống có cồn' - cái lối nói tránh kinh điển của ngành giải trí Việt. Sao không nói 'tôi say xỉn, tôi sai'? Đó mới là xin lỗi.",
+    "likes": 28923
+  },
+  {
+    "id": "c3",
+    "username": "Trần Đức Hùng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:52:00+07:00",
+    "body": "Phương Đình lương 1 tỷ/show. Phá hỏng hợp đồng. Sống có trách nhiệm chút đi anh.",
+    "likes": 14523
+  },
+  {
+    "id": "c4",
+    "username": "Bùi Mai",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T16:08:00+07:00",
+    "body": "Tôi vẫn yêu Phương Đình. Anh ấy đã xin lỗi. Mọi người ai mà không có lúc lỡ. Tha thứ đi.",
+    "likes": 5672,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Linh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T16:35:00+07:00",
+        "body": "Bạn fan thì cứ fan, đừng bảo người khác tha thứ.",
+        "likes": 12892
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Đặng Phong",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:25:00+07:00",
+    "body": "Vấn đề lớn hơn: ai làm 31% deepfake? Có động cơ? Đó cũng cần điều tra. Không thể đổ tất cho ngôi sao.",
+    "likes": 18923
+  },
+  {
+    "id": "c6",
+    "username": "Mai Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T16:42:00+07:00",
+    "body": "Mỗi vụ scandal showbiz là một bài học deepfake. Phải có kiểm định độc lập. Cảm ơn báo đã đưa con số 31% từ Trung tâm Pháp y số.",
+    "likes": 11456
+  },
+  {
+    "id": "c7",
+    "username": "Phạm Quốc Tuấn",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T16:58:00+07:00",
+    "body": "Đệ nhất bình luận. Phương Đình về quê đi.",
+    "likes": 234
+  },
+  {
+    "id": "c8",
+    "username": "Trần Hà",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T17:15:00+07:00",
+    "body": "Anh xin lỗi vợ, xin lỗi con, xin lỗi ekip - hay. Nhưng quên xin lỗi 12.000 fan đã mua vé tour bị huỷ.",
+    "likes": 22456
+  },
+  {
+    "id": "c9",
+    "username": "Vũ Hoàng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T17:32:00+07:00",
+    "body": "Đọc xong chỉ biết thở dài. Showbiz Việt 2045 vẫn y 2025. Khác mỗi cái deepfake.",
+    "likes": 14892
+  },
+  {
+    "id": "c10",
+    "username": "anh tài",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T17:48:00+07:00",
+    "body": "say xỉn ai chả có lúc, nhưng làm nghệ sĩ thì phải biết kiểm soát. ý kiến cá nhân.",
+    "likes": 7892
+  },
+  {
+    "id": "c11",
+    "username": "Bích Thuỷ",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T18:05:00+07:00",
+    "body": "Vợ anh ấy đăng story 'gia đình tôi vẫn ổn'. Tôi đọc xong thương chị quá. Không phải scandal, đó là cuộc đời của chị.",
+    "likes": 18234
+  },
+  {
+    "id": "c12",
+    "username": "Nguyễn Trang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T18:22:00+07:00",
+    "body": "Bài viết hay. Cảm ơn báo đã không tung ảnh. Báo chính thống khác báo lá cải ở chỗ này.",
+    "likes": 12567
+  },
+  {
+    "id": "c13",
+    "username": "Hà Đan",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T18:38:00+07:00",
+    "body": "Đúng",
+    "likes": 567
+  },
+  {
+    "id": "c14",
+    "username": "Lê Quang Khôi",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T18:55:00+07:00",
+    "body": "Trung tâm Pháp y số xác nhận 31% - tôi tin con số này hơn báo cáo PR của ekip. Cảm ơn các kỹ thuật viên đã phân tích.",
+    "likes": 9234
+  },
+  {
+    "id": "c15",
+    "username": "Mai Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T19:12:00+07:00",
+    "body": "Tôi là fan 12 năm. Hôm nay tôi gỡ poster trong phòng. Không vì giận, vì buồn. Cố lên anh.",
+    "likes": 14523
+  },
+  {
+    "id": "c16",
+    "username": "Hoàng Mạnh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T19:28:00+07:00",
+    "body": "31% deepfake là một dạng cứu cánh quá tiện. Năm sau ai cũng dùng. 'Em xin lỗi 50%, vì 50% còn lại là deepfake.' Cười.",
+    "likes": 21456
+  },
+  {
+    "id": "c17",
+    "username": "Phong",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T19:45:00+07:00",
+    "body": "showbiz mãi vậy thôi, qua mùa lại có người khác. nhớ lo việc nhà mình mà sống.",
+    "likes": 5672
+  },
+  {
+    "id": "c18",
+    "username": "Vũ Tú",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T20:02:00+07:00",
+    "body": "Tôi không biết anh ấy là ai. Đọc bài này lần đầu. Chúc anh ấy khoẻ. Chúc vợ anh ấy mạnh mẽ. Chúc các fan biết yêu mình hơn.",
+    "likes": 11892
+  },
+  {
+    "id": "c19",
+    "username": "Mẹ ba con",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T20:18:00+07:00",
+    "body": "Cô đào Phương Đình ngoài đời ăn chay - lời nói nghệ sĩ Tâm Linh trên livestream. Vậy mà có clip uống rượu. Đời.",
+    "likes": 4521
+  },
+  {
+    "id": "c20",
+    "username": "Đoàn Phong",
+    "location": "Khác",
+    "timestamp": "2045-04-25T20:35:00+07:00",
+    "body": "Đọc từ Tokyo. Bên này showbiz có quy định: scandal thì rút lui 3 năm, không bồi đắp PR. Việt Nam mình thì 3 tháng. Đó là khác biệt.",
+    "likes": 8923
+  },
+  {
+    "id": "c21",
+    "username": "Hà Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T20:52:00+07:00",
+    "body": "share để các bạn fan nhỏ tuổi thấy thần tượng cũng là người bình thường",
+    "likes": 3245
+  }
+]

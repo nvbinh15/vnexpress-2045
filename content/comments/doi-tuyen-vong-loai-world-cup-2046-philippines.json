@@ -1,0 +1,174 @@
+[
+  {
+    "id": "c1",
+    "username": "Hoàng Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T22:42:00+07:00",
+    "body": "Việt Nam 2-1 Philippines. 4 cầu thủ con em lao động nhập cư. Đây mới là đội tuyển 2045: đa dạng, thực sự đa dạng. Tự hào.",
+    "likes": 28923
+  },
+  {
+    "id": "c2",
+    "username": "Nguyễn Văn Đức",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T22:58:00+07:00",
+    "body": "Tôi vẫn không quen với việc cầu thủ tên Aldrin, Mateo, Renato khoác áo VN. Nhưng nó hợp lý. Bố mẹ họ đã sống ở đây 10-15 năm. Họ là Việt Nam.",
+    "likes": 12567,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Anh Tâm",
+        "location": "Bình Dương",
+        "timestamp": "2045-04-25T23:18:00+07:00",
+        "body": "Bác nói đúng. Tôi sống cạnh khu nhà công nhân Bicol ở Bình Dương 12 năm. Bọn nhỏ nói tiếng Việt còn sõi hơn con tôi.",
+        "likes": 8923
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Phạm Quốc Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T23:12:00+07:00",
+    "body": "Trận này hay. HLV chơi tactic 4-2-3-1 chuẩn. Chuyển trạng thái từ Mateo (xăng xái phải) sang Aldrin (số 10) cực mượt. World Cup 2046 không xa.",
+    "likes": 9234
+  },
+  {
+    "id": "c4",
+    "username": "Lão Nông",
+    "location": "Hà Tĩnh",
+    "timestamp": "2045-04-25T23:28:00+07:00",
+    "body": "Tôi 73 tuổi, lần đầu xem một trận có 4 cháu nhập cư đá. Lúc đầu hơi lạ, đến phút 60 quên hẳn. Bóng đá vô tư lắm.",
+    "likes": 18923
+  },
+  {
+    "id": "c5",
+    "username": "Trần Phong",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T23:45:00+07:00",
+    "body": "Đệ nhất bình luận. Việt Nam vô địch.",
+    "likes": 567
+  },
+  {
+    "id": "c6",
+    "username": "Vũ Đoàn Khôi",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-26T00:02:00+07:00",
+    "body": "Aldrin đá đẹp nhưng tôi để ý trên VAR cảnh kẹp ngoài vòng cấm phút 73 - hơi nguy hiểm. Mong cháu giữ chân.",
+    "likes": 3245
+  },
+  {
+    "id": "c7",
+    "username": "Đặng Thuý",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-26T00:18:00+07:00",
+    "body": "Mẹ Aldrin sống cùng khu chung cư công nhân với tôi. Hôm nay bà cờ Việt Nam và cờ Philippines treo cùng cửa sổ. Đẹp lắm.",
+    "likes": 21456
+  },
+  {
+    "id": "c8",
+    "username": "anh không tên",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-26T00:35:00+07:00",
+    "body": "thật ra MK7 yêu VN nhưng anh ấy biết bản thân toàn đoán sai nên luôn cổ vũ đội bạn",
+    "likes": 14523
+  },
+  {
+    "id": "c9",
+    "username": "Bùi Hoàng",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-26T00:52:00+07:00",
+    "body": "Bóng đá Đông Nam Á dạo này khó lường. Lào, Campuchia cũng đã có dàn cầu thủ trẻ rất ổn. Mình không thể chủ quan như giai đoạn 2030 được nữa.",
+    "likes": 5672
+  },
+  {
+    "id": "c10",
+    "username": "Mẹ Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-26T01:08:00+07:00",
+    "body": "Con tôi 14 tuổi, hôm nay nó nói: 'Mẹ ơi sau này con muốn vô U19, đá như Aldrin.' Tôi vui chứ không buồn, dù con tôi không phải con lai. Bóng đá là vậy, phải có hình mẫu.",
+    "likes": 12892
+  },
+  {
+    "id": "c11",
+    "username": "Phong VN",
+    "location": "Khác",
+    "timestamp": "2045-04-26T01:25:00+07:00",
+    "body": "Đọc từ Berlin. Ngồi xem một mình lúc 6h chiều giờ Đức. Hét lên ầm cả căn hộ. Hàng xóm sang gõ cửa. Tôi xin lỗi rồi cười suốt đêm.",
+    "likes": 9234
+  },
+  {
+    "id": "c12",
+    "username": "Nguyễn Văn Tâm",
+    "location": "Nghệ An",
+    "timestamp": "2045-04-26T01:42:00+07:00",
+    "body": "Có người bảo cầu thủ nhập cư không phải VN. Tôi không đồng ý. Bọn nó học ở trường VN, nói tiếng VN, ăn phở VN. Bọn nó là VN. Còn người Việt định cư nước ngoài về đá thì sao? Cũng VN. Mở lòng đi mọi người.",
+    "likes": 22456,
+    "replies": [
+      {
+        "id": "c12-r1",
+        "username": "Chú Hai",
+        "location": "Cần Thơ",
+        "timestamp": "2045-04-26T02:05:00+07:00",
+        "body": "Anh Tâm nói chuẩn quá. Tôi 64 tuổi, tôi đồng ý.",
+        "likes": 4521
+      },
+      {
+        "id": "c12-r2",
+        "username": "X",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-26T02:18:00+07:00",
+        "body": "Tôi vẫn không quen được, nhưng tôn trọng quan điểm anh.",
+        "likes": 1234
+      }
+    ]
+  },
+  {
+    "id": "c13",
+    "username": "Trần Mai Anh",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-26T02:00:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c14",
+    "username": "Lê Quốc Hưng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-26T02:15:00+07:00",
+    "body": "Bàn thắng phút 88 của Mateo - đá penalty trong áp lực 60.000 khán giả Philippines la ó. Bản lĩnh. Chúc các cầu thủ giữ phong độ đến vòng loại tháng 9.",
+    "likes": 7892
+  },
+  {
+    "id": "c15",
+    "username": "Cờ đỏ",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-26T02:32:00+07:00",
+    "body": "Mong VFF tiếp tục tạo điều kiện cho cầu thủ con em lao động nhập cư. Đó là tài nguyên thật sự cho bóng đá VN 10-20 năm tới.",
+    "likes": 11567
+  },
+  {
+    "id": "c16",
+    "username": "Phạm Thị Hằng",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-26T02:48:00+07:00",
+    "body": "Bài viết hay. Cảm ơn phóng viên đã ghi lại chi tiết về gia đình các cháu. Đó là cái cần đọc, không chỉ tỉ số.",
+    "likes": 5672
+  },
+  {
+    "id": "c17",
+    "username": "Hùng Anh",
+    "location": "Quảng Ninh",
+    "timestamp": "2045-04-26T03:05:00+07:00",
+    "body": "trong nam ăn mừng đốt pháo, ngoài bắc ăn mừng nhậu khuya, miền trung ăn mừng yên lặng. mỗi vùng một kiểu. nhưng chung một cờ.",
+    "likes": 14892
+  },
+  {
+    "id": "c18",
+    "username": "Đoàn Hoàng Long",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-26T03:22:00+07:00",
+    "body": "Hôm nay tôi đứng đầu khu phố hô khẩu hiệu. Lần đầu trong 10 năm. Cảm ơn các cháu.",
+    "likes": 3245
+  }
+]

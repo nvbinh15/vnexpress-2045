@@ -1,0 +1,200 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Văn Hải",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T07:42:00+07:00",
+    "body": "Đứng ở Sơn Trà nhìn ra biển bây giờ thật sự khác. Cảm ơn các thế hệ đã làm tuyến đê này, dù tôi biết có những giai đoạn dân ven biển phải dời đi, không phải ai cũng vui vẻ.",
+    "likes": 1247,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Hoàng Mai",
+        "location": "Quảng Trị",
+        "timestamp": "2045-04-25T08:11:00+07:00",
+        "body": "Bác nói trúng. Nhà tôi mất năm 2034, lên Đà Nẵng định cư. Cảm xúc trộn lẫn lắm.",
+        "likes": 312
+      },
+      {
+        "id": "c1-r2",
+        "username": "Lê Đức Trung",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T08:30:00+07:00",
+        "body": "Đồng ý. Cái gì cũng có giá của nó.",
+        "likes": 88
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Phạm Quốc Bình",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:01:00+07:00",
+    "body": "487 nghìn tỷ là con số công bố, chưa kể tái định cư. Mong các bác minh bạch thêm cả phần đó. Dân tin thì dân ủng hộ.",
+    "likes": 892
+  },
+  {
+    "id": "c3",
+    "username": "Trần Thị Lan Phương",
+    "location": "Bến Tre",
+    "timestamp": "2045-04-25T08:15:00+07:00",
+    "body": "Khát vọng 2050 lại đến. 2045 chưa ai tổng kết hết mà. Tôi không phản đối, chỉ là hơi mệt với việc cứ vài năm lại có một bộ chỉ tiêu mới.",
+    "likes": 1103,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Vũ Hùng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T08:40:00+07:00",
+        "body": "Chuyện thường ở huyện thôi chị.",
+        "likes": 421
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Đỗ Minh Khôi",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T08:22:00+07:00",
+    "body": "Bác Tâm 33 tuổi đưa con gái ra xem ông nội đã làm gì - đoạn này đọc xong chỉ biết thở dài. Đẹp.",
+    "likes": 678
+  },
+  {
+    "id": "c5",
+    "username": "anh nông dân",
+    "location": "Hà Tĩnh",
+    "timestamp": "2045-04-25T08:35:00+07:00",
+    "body": "ngoài bắc thì lễ to, trong nam thì lễ vui, miền trung thì cứ giữ nhà giữ biển là được",
+    "likes": 522
+  },
+  {
+    "id": "c6",
+    "username": "Nguyễn Hữu Tài",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T08:48:00+07:00",
+    "body": "Đê biển 6,2m là đủ với tần suất triều hiện tại nhưng nếu mực nước biển tiếp tục tăng theo kịch bản RCP 8.5 thì sau 2055 phải nâng tiếp. Đề nghị Bộ công bố lộ trình nâng cấp.",
+    "likes": 1456
+  },
+  {
+    "id": "c7",
+    "username": "Bùi Thanh",
+    "location": "Khánh Hoà",
+    "timestamp": "2045-04-25T09:02:00+07:00",
+    "body": "Đứng đầu tiên. Chúc mừng đất nước.",
+    "likes": 12
+  },
+  {
+    "id": "c8",
+    "username": "Lê Phương Thảo",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:14:00+07:00",
+    "body": "Bài viết hay. Cảm ơn phóng viên đã ghi lại lời các bác lớn tuổi - đó mới là phần lễ kỷ niệm thật sự, không phải bài phát biểu.",
+    "likes": 743
+  },
+  {
+    "id": "c9",
+    "username": "Phan Quang",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T09:30:00+07:00",
+    "body": "Tôi vẫn nhớ năm 2039 đứa em họ đi làm công trình đê ở Hội An, mỗi tuần về một lần, ăn vội rồi đi. Cuối năm đó nó được thưởng 8 triệu, gọi điện cho mẹ khoe. Cái đó mới là tuyến đê.",
+    "likes": 2189,
+    "replies": [
+      {
+        "id": "c9-r1",
+        "username": "Trần Bích",
+        "location": "Quảng Nam",
+        "timestamp": "2045-04-25T09:55:00+07:00",
+        "body": "Đúng rồi anh. Nhà em cũng vậy.",
+        "likes": 67
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "username": "Một độc giả",
+    "location": "Khác",
+    "timestamp": "2045-04-25T09:48:00+07:00",
+    "body": "Mong các chỉ tiêu Khát vọng 2050 lần này đo đếm được cụ thể, không phải khẩu hiệu. Đó là điều dân muốn nhất.",
+    "likes": 1832
+  },
+  {
+    "id": "c11",
+    "username": "Hồ Văn Sáu",
+    "location": "Bình Định",
+    "timestamp": "2045-04-25T10:05:00+07:00",
+    "body": "Tôi 67 tuổi, con tôi làm trong ngành xây dựng đê 6 năm. Tóc nó bạc nhanh. Hôm nay coi tivi lại không thấy ai nhắc đến công nhân thi công. Hơi tiếc.",
+    "likes": 1574
+  },
+  {
+    "id": "c12",
+    "username": "Linh Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:20:00+07:00",
+    "body": "đệ nhất bình luận. chúc mừng VN",
+    "likes": 4
+  },
+  {
+    "id": "c13",
+    "username": "Nguyễn Thuỳ Anh",
+    "location": "Hải ngoại",
+    "timestamp": "2045-04-25T10:33:00+07:00",
+    "body": "Đọc bài này từ Berlin. Tự nhiên nhớ Việt Nam. Năm sau về.",
+    "likes": 489
+  },
+  {
+    "id": "c14",
+    "username": "Trần Khoa",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:48:00+07:00",
+    "body": "Đằng sau con số 487.000 tỷ là gì? Đại biểu Quốc hội nào theo dõi vốn đầu tư công có bao giờ giải trình chưa? Hỏi thật.",
+    "likes": 921
+  },
+  {
+    "id": "c15",
+    "username": "Phong",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T11:02:00+07:00",
+    "body": "Đúng",
+    "likes": 156
+  },
+  {
+    "id": "c16",
+    "username": "Mẹ Bống",
+    "location": "Nghệ An",
+    "timestamp": "2045-04-25T11:18:00+07:00",
+    "body": "Share để mọi người cùng đọc. Cháu nội tôi 8 tuổi xem ảnh đê biển bảo: 'Bà ơi, sau này con sẽ làm kỹ sư cảm biến.' Tôi không biết đó là gì nhưng tôi vui.",
+    "likes": 2367
+  },
+  {
+    "id": "c17",
+    "username": "Long T.",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T11:35:00+07:00",
+    "body": "Ý kiến cá nhân: tuyến đê là cần thiết, nhưng các đô thị nội địa cũng cần đê sông. Đại hồng thuỷ 2034 không vào từ biển mà vào từ thượng nguồn. Đừng quên bài học đó.",
+    "likes": 1284
+  },
+  {
+    "id": "c18",
+    "username": "Hà Thu",
+    "location": "Huế",
+    "timestamp": "2045-04-25T11:50:00+07:00",
+    "body": "Bà cụ Nguyễn Thị Hảo 71 tuổi nói 'không còn sợ nữa, cái đó là đủ rồi' - câu này hay hơn cả bài phát biểu. Cảm ơn phóng viên đã chọn được câu đó.",
+    "likes": 1789
+  },
+  {
+    "id": "c19",
+    "username": "Người Đà Nẵng",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T12:08:00+07:00",
+    "body": "Hôm nay đường tắc khủng khiếp. Tổ chức lớn quá. Nhưng OK, một năm một lần thôi.",
+    "likes": 312
+  },
+  {
+    "id": "c20",
+    "username": "Hoàng Đạt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:22:00+07:00",
+    "body": "Bốn trụ cột Khát vọng 2050 nghe hay nhưng 'đời sống văn hoá tinh thần thích ứng' là cái gì cụ thể? Mong báo có bài giải thích.",
+    "likes": 567
+  }
+]

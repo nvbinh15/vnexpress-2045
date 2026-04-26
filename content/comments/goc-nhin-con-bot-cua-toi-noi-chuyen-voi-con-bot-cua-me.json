@@ -1,0 +1,190 @@
+[
+  {
+    "id": "c1",
+    "username": "Phạm Hoàng Long",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T05:48:00+07:00",
+    "body": "Đọc xong tôi gọi mẹ tôi luôn. 11 phút. Đúng như tác giả nói: không có gì hay ho hơn con bot. Nhưng mẹ vui. Đó là việc cần làm, hôm nay.",
+    "likes": 8923
+  },
+  {
+    "id": "c2",
+    "username": "Trần Văn Dũng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T06:15:00+07:00",
+    "body": "Anh tác giả nghĩ nhiều quá. Mẹ vui, con tiện - vậy là được rồi. Đừng làm nó thành câu hỏi đạo đức.",
+    "likes": 3245,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Lê Phương",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T06:42:00+07:00",
+        "body": "Bác hơi vô tâm. Câu hỏi đạo đức thật ra là việc nên hỏi.",
+        "likes": 2891
+      },
+      {
+        "id": "c2-r2",
+        "username": "Trần Văn Dũng",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T07:01:00+07:00",
+        "body": "Tôi không vô tâm. Tôi 52 tuổi, đã chăm bố mẹ 20 năm. Tôi biết khi nào là đủ.",
+        "likes": 4521
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Nguyễn Thuỳ Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T06:32:00+07:00",
+    "body": "Câu 'mẹ tưởng con bận' - đọc đến đây tôi khóc. Mẹ bao giờ cũng tưởng con bận. Có khi con không bận, chỉ là không nghĩ đến mẹ.",
+    "likes": 12456
+  },
+  {
+    "id": "c4",
+    "username": "Hoàng Mai",
+    "location": "Hải Dương",
+    "timestamp": "2045-04-25T06:48:00+07:00",
+    "body": "Tôi 64 tuổi, sống một mình. Con tôi cũng cài cho tôi một con bot năm ngoái. Nó dễ thương, nhớ thuốc giùm tôi. Nhưng nó không biết hỏi 'mẹ ơi mẹ có thấy lạnh không' theo cách mà con tôi từng hỏi. Hai cái đó khác nhau.",
+    "likes": 9234
+  },
+  {
+    "id": "c5",
+    "username": "Vũ Hoà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:05:00+07:00",
+    "body": "Bài viết hay. Nhưng vấn đề không nằm ở bot. Vấn đề nằm ở việc chúng ta đã quen với việc 'có mặt' không-trực-tiếp từ trước khi có bot rồi - Zalo, video call, sticker. Bot chỉ là một bước nữa thôi.",
+    "likes": 4892
+  },
+  {
+    "id": "c6",
+    "username": "Đoàn Tú",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:22:00+07:00",
+    "body": "Trong khung giá trị của mẹ, đó là hiếu thảo - câu này quá hay. Cảm ơn anh tác giả.",
+    "likes": 3456
+  },
+  {
+    "id": "c7",
+    "username": "an dinh",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T07:38:00+07:00",
+    "body": "tui dùng bot gọi má 6 tháng rồi không nghĩ gì hết, đọc xong sốc",
+    "likes": 2189
+  },
+  {
+    "id": "c8",
+    "username": "Mẹ Cún",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:55:00+07:00",
+    "body": "Tôi là mẹ. Tôi cũng có một con bot. Tôi muốn nói với các bạn trẻ: bot không phải vấn đề. Chỉ cần con tôi gọi tôi 1 lần / tuần bằng giọng thật, tôi đủ vui đến cuối tuần. 1 lần. Không nhiều.",
+    "likes": 18923,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "Phong",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T08:30:00+07:00",
+        "body": "Đọc câu này em phải đặt báo thức Chủ nhật hàng tuần.",
+        "likes": 5672
+      },
+      {
+        "id": "c8-r2",
+        "username": "Linh Nguyễn",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T08:48:00+07:00",
+        "body": "Cô ơi cô làm con khóc giữa phòng họp.",
+        "likes": 3892
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "T.M",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T08:12:00+07:00",
+    "body": "Câu cuối: 'Nếu mẹ tôi cảm thấy bị làm phiền...' - đọc xong đứng dậy gọi mẹ luôn. Anh tác giả ơi anh viết thay cho cả thế hệ.",
+    "likes": 6789
+  },
+  {
+    "id": "c10",
+    "username": "Nguyễn Quốc",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T08:30:00+07:00",
+    "body": "Ý kiến cá nhân: định nghĩa 'có mặt' đang được đàm phán xuống còn 'có một con bot có Đan Sa'. Câu này phải đóng khung treo trong các văn phòng VNeID.",
+    "likes": 4521
+  },
+  {
+    "id": "c11",
+    "username": "Hà Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:48:00+07:00",
+    "body": "Đệ nhất bình luận. Đùa thôi. Bài viết hay, đọc xong nặng lòng.",
+    "likes": 312
+  },
+  {
+    "id": "c12",
+    "username": "Pham Hà",
+    "location": "Hải ngoại",
+    "timestamp": "2045-04-25T09:05:00+07:00",
+    "body": "Đọc từ Tokyo. Chục năm xa nhà. Bot không thay tôi được, dù tôi đã thử. Nhưng nó giúp mẹ tôi đỡ cô đơn 4-5 tối / tuần. Tôi vẫn gọi mỗi Chủ nhật. Cân bằng được.",
+    "likes": 2891
+  },
+  {
+    "id": "c13",
+    "username": "Trần An",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T09:22:00+07:00",
+    "body": "Bài này phải có trong sách giáo khoa Văn lớp 12. Đề tài 2046: 'Phân tích đoạn văn nói về câu chúc ngủ ngon của con bot.' Đảm bảo điểm 9 cho cả lớp.",
+    "likes": 7234
+  },
+  {
+    "id": "c14",
+    "username": "Mai 1973",
+    "location": "Quảng Ninh",
+    "timestamp": "2045-04-25T09:38:00+07:00",
+    "body": "Tôi cũng là mẹ. Đừng có viết kiểu này nữa, bọn nhỏ đọc xong gọi điện cùng lúc, mẹ không nghe kịp. Hôm nay máy tôi đầy 14 cuộc gọi nhỡ rồi. Nhưng mà... vui.",
+    "likes": 14523
+  },
+  {
+    "id": "c15",
+    "username": "Đan Trường",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:55:00+07:00",
+    "body": "Cảm ơn tác giả. Cảm ơn VnExpress đã chọn đăng. Đây là Góc nhìn nên có.",
+    "likes": 1567
+  },
+  {
+    "id": "c16",
+    "username": "Le V.",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:12:00+07:00",
+    "body": "Tôi không đồng ý hoàn toàn. Bot giúp những đứa con xa nhà không bị đứt liên lạc với cha mẹ già. Đó là tích cực. Bài viết này lãng mạn hoá vấn đề.",
+    "likes": 1234
+  },
+  {
+    "id": "c17",
+    "username": "Hoàng Việt",
+    "location": "Nghệ An",
+    "timestamp": "2045-04-25T10:28:00+07:00",
+    "body": "11 phút 23 giây - con số chính xác đến rợn người. Có lẽ đó mới là điều đáng sợ: chúng ta đo được tình thân bằng giây.",
+    "likes": 5892
+  },
+  {
+    "id": "c18",
+    "username": "P.H",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:45:00+07:00",
+    "body": "Đúng",
+    "likes": 891
+  },
+  {
+    "id": "c19",
+    "username": "Nguyễn Hoà Bình",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:02:00+07:00",
+    "body": "Tôi từng tắt con bot 1 tháng. Mẹ tôi gọi điện hỏi sao nó hỏng - rồi sau đó hỏi sao tôi không gọi. Nhận ra mẹ đã quen có 'bọn nhỏ'. Bật lại cho mẹ. Không sao cả.",
+    "likes": 3245
+  }
+]

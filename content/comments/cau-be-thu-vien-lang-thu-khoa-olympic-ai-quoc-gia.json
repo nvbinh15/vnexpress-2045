@@ -1,0 +1,146 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Văn Long",
+    "location": "Nghệ An",
+    "timestamp": "2045-04-25T07:18:00+07:00",
+    "body": "Cháu giỏi, làng thư viện đáng được tôn vinh, nhưng câu chuyện này nhắc một sự thật buồn: nếu agent AI cá nhân thành điều kiện tiêu chuẩn để học giỏi thì 60% trẻ em Việt Nam sẽ thua cuộc trước khi vào thi.",
+    "likes": 23892
+  },
+  {
+    "id": "c2",
+    "username": "Bùi Thị Hằng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:35:00+07:00",
+    "body": "Đọc xong tôi đứng dậy. Ngày mai tôi đăng ký làm tình nguyện viên cho thư viện làng nơi quê tôi. Đủ rồi cho việc xem mạng xã hội.",
+    "likes": 18234
+  },
+  {
+    "id": "c3",
+    "username": "Phạm Quốc Anh",
+    "location": "Hà Tĩnh",
+    "timestamp": "2045-04-25T07:52:00+07:00",
+    "body": "Ngày xưa con nhà nghèo cố gắng vẫn đỗ thủ khoa được. Bây giờ vẫn vậy. Câu chuyện này đẹp. Chúc cháu giữ vững tâm.",
+    "likes": 8923
+  },
+  {
+    "id": "c4",
+    "username": "Cô giáo làng",
+    "location": "Yên Bái",
+    "timestamp": "2045-04-25T08:08:00+07:00",
+    "body": "Tôi dạy ở một xã miền núi. Lớp tôi 23 cháu, chỉ 4 cháu có agent AI riêng. Còn lại dùng máy chung trên xã. Cháu thủ khoa Olympic AI quốc gia mà còn dùng chung - cảm ơn báo đã đưa tin. Tôi sẽ in bài này dán trong lớp.",
+    "likes": 34567
+  },
+  {
+    "id": "c5",
+    "username": "Đặng Tuấn",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:25:00+07:00",
+    "body": "Câu hỏi: tại sao Bộ Giáo dục không cấp agent AI miễn phí cho tất cả học sinh THPT? Đó là điều kiện tối thiểu cho một xã hội công bằng năm 2045.",
+    "likes": 21456
+  },
+  {
+    "id": "c6",
+    "username": "Mẹ ba con",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T08:42:00+07:00",
+    "body": "Cháu giỏi nhưng đừng để truyền thông tâng bốc cháu quá. 17 tuổi gánh nặng gì cũng nhanh sập. Mong gia đình cháu chú ý.",
+    "likes": 12892
+  },
+  {
+    "id": "c7",
+    "username": "Hoàng Việt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T08:58:00+07:00",
+    "body": "Bài viết hay. Cảm ơn phóng viên đã đến tận thư viện làng. Tôi muốn thấy nhiều bài như thế này hơn.",
+    "likes": 5672
+  },
+  {
+    "id": "c8",
+    "username": "Lê Văn Thành",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T09:15:00+07:00",
+    "body": "Tôi từng quyên góp 12 triệu cho dự án 'Thư viện làng kết nối' năm 2042. Hôm nay đọc bài này tôi cảm thấy đó là số tiền có ích nhất tôi từng tiêu. Tiếp tục đóng góp.",
+    "likes": 14523
+  },
+  {
+    "id": "c9",
+    "username": "Trần Mạnh",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T09:32:00+07:00",
+    "body": "đệ nhất chúc mừng cháu",
+    "likes": 234
+  },
+  {
+    "id": "c10",
+    "username": "Phương Lan",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:48:00+07:00",
+    "body": "Bố cháu chạy xe ôm công nghệ, mẹ làm tạp vụ. Đọc đoạn đó tôi xót. Cảm ơn ông trời đã cho cháu có đôi mắt và đôi tay làm việc tốt như vậy. Cố gắng học lên.",
+    "likes": 9234
+  },
+  {
+    "id": "c11",
+    "username": "Vũ Đức",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T10:05:00+07:00",
+    "body": "Olympic AI 2045 đề toán năm nay tôi đọc rồi - rất khó. Cháu giải được trong thời gian 4 giờ với máy tính chung là điều phi thường. Em là kỹ sư cấp 7, em cúi đầu.",
+    "likes": 18923
+  },
+  {
+    "id": "c12",
+    "username": "anh ba miền tây",
+    "location": "Bến Tre",
+    "timestamp": "2045-04-25T10:22:00+07:00",
+    "body": "share để mọi người cùng biết, để nhà nước cấp học bổng cho cháu",
+    "likes": 7892
+  },
+  {
+    "id": "c13",
+    "username": "Hồng Loan",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:38:00+07:00",
+    "body": "Bài viết hay. Nhưng cũng đáng buồn: cháu giỏi vì cháu là ngoại lệ. Hãy đừng dùng câu chuyện ngoại lệ để che lấp vấn đề hệ thống.",
+    "likes": 11234
+  },
+  {
+    "id": "c14",
+    "username": "Đoàn Thị Thuỷ",
+    "location": "Quảng Ninh",
+    "timestamp": "2045-04-25T10:55:00+07:00",
+    "body": "Mẹ cháu bảo 'cháu hay đến thư viện vì nhà chật, không có chỗ ngồi học' - chi tiết này. Tự nhiên thương quá. Mong sau này cháu có một bàn học thật rộng.",
+    "likes": 22456
+  },
+  {
+    "id": "c15",
+    "username": "Lương Văn Chiến",
+    "location": "Hoà Bình",
+    "timestamp": "2045-04-25T11:12:00+07:00",
+    "body": "Tôi là trưởng thư viện làng ở xã Mỹ Lý. Đọc bài này lương tâm tôi áy náy: thư viện tôi giờ vẫn dùng laptop 2032, AI miễn phí thì lâu lâu mới có. Sẽ kiến nghị xã đầu tư thêm. Cảm ơn báo.",
+    "likes": 13892
+  },
+  {
+    "id": "c16",
+    "username": "Tâm",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:28:00+07:00",
+    "body": "Đúng",
+    "likes": 567
+  },
+  {
+    "id": "c17",
+    "username": "Hà Linh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:45:00+07:00",
+    "body": "Doanh nghiệp công nghệ lớn nào đó - VinAI, FPT, VnAlpha - đề nghị các bác cấp gói AI miễn phí cho thư viện làng cả nước. PR thật, ý nghĩa thật.",
+    "likes": 8923
+  },
+  {
+    "id": "c18",
+    "username": "Mẹ Cún",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T12:02:00+07:00",
+    "body": "Cảm ơn tác giả. Mong cháu sau này không quên thư viện làng đã nuôi mình.",
+    "likes": 4521
+  }
+]

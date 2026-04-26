@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c1",
+    "username": "Trần Quốc Đạt",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T06:11:00+07:00",
+    "body": "1 phần 847. Đến đời cháu chắt cũng không mua nổi. Tôi đi bốc thăm 5 năm liên tiếp rồi, năm thứ 5 này coi như xong, không bốc nữa.",
+    "likes": 5234,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Nguyễn Hằng",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T06:42:00+07:00",
+        "body": "Tôi cũng vậy anh. Năm thứ 6 ở đây.",
+        "likes": 412
+      },
+      {
+        "id": "c1-r2",
+        "username": "Vũ Mạnh",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T07:01:00+07:00",
+        "body": "Đặt vé số có khi còn dễ trúng hơn.",
+        "likes": 1289
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Lê Thuỷ",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T06:33:00+07:00",
+    "body": "2,3 triệu hồ sơ là con số gì vậy trời. Nửa số người trưởng thành TP.HCM đi nộp à? Hay trong đó có 1,5 triệu là bot đặt thay?",
+    "likes": 3782
+  },
+  {
+    "id": "c3",
+    "username": "Phạm Đình Khôi",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T06:48:00+07:00",
+    "body": "Floating City - nghe thì hay nhưng nhà nổi mà hỏng phao thì sao? Bảo trì 30 năm sau ai chịu? Đọc hợp đồng mẫu thấy trách nhiệm dồn về cư dân.",
+    "likes": 2156
+  },
+  {
+    "id": "c4",
+    "username": "Hoàng Vân",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:02:00+07:00",
+    "body": "Người Bắc đứng ngoài bình luận thôi. Cho đỡ buồn.",
+    "likes": 678
+  },
+  {
+    "id": "c5",
+    "username": "Đặng Tuấn",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T07:18:00+07:00",
+    "body": "Tôi làm môi giới 12 năm. Nói thật: bốc thăm là để hợp thức hoá việc giữ chỗ cho khách lớn. Tỷ lệ trúng cho dân thường thật ra thấp hơn 1/847 nhiều. Anh em đừng tin con số đó.",
+    "likes": 4521,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Người mua nhà",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T07:48:00+07:00",
+        "body": "Bác có bằng chứng thì gửi báo. Nói chung không thì cũng chỉ là cảm tính.",
+        "likes": 234
+      },
+      {
+        "id": "c5-r2",
+        "username": "X",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T08:02:00+07:00",
+        "body": "Em cũng nghi vậy. Năm ngoái có người quen trúng 3 căn liền.",
+        "likes": 1102
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Mai Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:35:00+07:00",
+    "body": "Đọc xong chỉ biết thở dài. Lương 28 triệu, hai vợ chồng cộng lại 55, tích góp 12 năm được 2,1 tỷ. Căn rẻ nhất 6,8 tỷ. Tính sao đây?",
+    "likes": 6892
+  },
+  {
+    "id": "c7",
+    "username": "Phạm Văn Long",
+    "location": "Cần Giờ",
+    "timestamp": "2045-04-25T07:50:00+07:00",
+    "body": "Tôi sinh ra ở Cần Giờ. Bố mẹ tôi làm nghề muối. Năm 2041 đất nhà tôi bị thu để làm dự án này. Đền bù 4,2 tỷ. Bây giờ tôi không đủ tiền mua lại một căn ngay trên chính mảnh đất đó. Chuyện đời.",
+    "likes": 8923
+  },
+  {
+    "id": "c8",
+    "username": "thị dân số 9",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:08:00+07:00",
+    "body": "lại lừa đảo, dân mình bao giờ mới tỉnh",
+    "likes": 1567
+  },
+  {
+    "id": "c9",
+    "username": "Nguyễn Thanh Hằng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:22:00+07:00",
+    "body": "Tôi không phản đối doanh nghiệp BĐS. Tôi chỉ hỏi: Nhà ở xã hội đâu? Quận 7 có mấy dự án rồi đứng yên 4 năm. Cứ làm Floating City, Galaxy City, Dream City - dân thật đi đâu?",
+    "likes": 3245
+  },
+  {
+    "id": "c10",
+    "username": "Bùi Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T08:38:00+07:00",
+    "body": "Tôi đứng đầu tiên trong nhóm bạn nói câu này: thế hệ chúng ta sẽ không có nhà. Đó là sự thật. Học cách chấp nhận và sống tốt thôi.",
+    "likes": 2189
+  },
+  {
+    "id": "c11",
+    "username": "Hà Đan",
+    "location": "Vũng Tàu",
+    "timestamp": "2045-04-25T08:55:00+07:00",
+    "body": "Bài viết hay. Nhưng phóng viên không phỏng vấn người đã trúng năm ngoái xem họ giờ thế nào. Tôi nghe nói nhiều người trúng rồi không vào ở, sang tay lấy chênh.",
+    "likes": 1456
+  },
+  {
+    "id": "c12",
+    "username": "Trí Lê",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:12:00+07:00",
+    "body": "Có khả năng cao là sang tay 70%, ở thật 30%.",
+    "likes": 892
+  },
+  {
+    "id": "c13",
+    "username": "Một người mẹ",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:28:00+07:00",
+    "body": "Con gái tôi 16 tuổi hỏi: 'Mẹ ơi sau này con đi làm bao lâu mới mua được nhà?' Tôi không biết trả lời. Lần đầu tiên tôi không biết trả lời con.",
+    "likes": 7234
+  },
+  {
+    "id": "c14",
+    "username": "Hoàng",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T09:45:00+07:00",
+    "body": "Đệ nhất bình luận miền Bắc. Vào hóng.",
+    "likes": 23
+  },
+  {
+    "id": "c15",
+    "username": "Vũ Thị Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:01:00+07:00",
+    "body": "Tôi đã quyết định không đẻ con. Một lý do trong nhiều lý do là cái này. Không có nhà thì đẻ con để khổ.",
+    "likes": 4892,
+    "replies": [
+      {
+        "id": "c15-r1",
+        "username": "Anh Tâm",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T10:30:00+07:00",
+        "body": "Buồn quá chị. Em hiểu.",
+        "likes": 412
+      }
+    ]
+  },
+  {
+    "id": "c16",
+    "username": "thầy Năm",
+    "location": "Tiền Giang",
+    "timestamp": "2045-04-25T10:18:00+07:00",
+    "body": "Ngày xưa nhà 80m2 ở quận 3 mua bằng 4 cây vàng. Bây giờ 4 cây vàng mua được toilet. Đời đổi thay nhanh quá.",
+    "likes": 2456
+  },
+  {
+    "id": "c17",
+    "username": "Phương",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:35:00+07:00",
+    "body": "Thắc mắc: 'Floating' ở đây có nghĩa nổi trên nước thật hay là tên gọi marketing? Vì nếu là nổi thật thì trên giấy phép xây dựng có chứng nhận chống bão Cấp 16 không?",
+    "likes": 1789
+  },
+  {
+    "id": "c18",
+    "username": "Tâm",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:52:00+07:00",
+    "body": "Bốc thăm trượt 5 năm rồi. Năm nay tôi nộp hồ sơ kèm tờ giấy viết tay 'Cảm ơn các bác.' Coi như tôi tham gia lễ hội văn hoá thường niên của TP.",
+    "likes": 5672
+  },
+  {
+    "id": "c19",
+    "username": "Lê Văn Phước",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:08:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c20",
+    "username": "anh ba",
+    "location": "Long An",
+    "timestamp": "2045-04-25T11:25:00+07:00",
+    "body": "trong nam thì bốc thăm, ngoài bắc thì xếp hàng từ 3h sáng. cuối cùng cũng có nhà thôi mấy bác à, cứ kiên trì",
+    "likes": 723,
+    "replies": [
+      {
+        "id": "c20-r1",
+        "username": "Nguyễn Mạnh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T11:48:00+07:00",
+        "body": "Anh ba nói nhẹ tênh. Em xin phép không đồng ý.",
+        "likes": 1567
+      }
+    ]
+  },
+  {
+    "id": "c21",
+    "username": "Đan Trần",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:42:00+07:00",
+    "body": "VinHomes Cần Giờ Floating City - tên dài như chính sách. Mong các bác làm nhà nhỏ hơn, gần hơn, rẻ hơn, ít hơn cái 'City' phía sau.",
+    "likes": 3421
+  },
+  {
+    "id": "c22",
+    "username": "Trang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:01:00+07:00",
+    "body": "Đứng đầu danh sách trượt 6 năm. Vẫn ổn. Vẫn đi làm.",
+    "likes": 1289
+  },
+  {
+    "id": "c23",
+    "username": "Phong N.",
+    "location": "Khác",
+    "timestamp": "2045-04-25T12:18:00+07:00",
+    "body": "Đọc từ Singapore. Bên này còn khó hơn. Đừng so sánh quá tệ với Việt Nam. Cứ làm việc, tiết kiệm, một ngày sẽ có nhà - hoặc thuê nguyên đời cũng không sao.",
+    "likes": 567
+  }
+]

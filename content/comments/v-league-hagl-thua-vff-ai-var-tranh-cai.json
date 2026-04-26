@@ -1,0 +1,116 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Bảo Minh",
+    "location": "Pleiku",
+    "timestamp": "2045-04-25T12:08:00+07:00",
+    "body": "Đệ nhất bình luận từ Pleiku. Đá thắng trên sân, thua trong phòng máy chủ. Đời cầu thủ V-League 2045.",
+    "likes": 4892
+  },
+  {
+    "id": "c2",
+    "username": "Trần Hữu Đạt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:22:00+07:00",
+    "body": "Lỗi đồng bộ giữa Sở Tư pháp và VFF mà cầu thủ phải gánh. Ai chịu trách nhiệm? Câu hỏi muôn năm cũ.",
+    "likes": 6234
+  },
+  {
+    "id": "c3",
+    "username": "Vũ Thị Hằng",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T12:38:00+07:00",
+    "body": "Em Phúc đá hay thật, vào sân là gỡ ngay 1 quả. Tội em quá. Mong VFF xử lại.",
+    "likes": 3245,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Lê Tuấn",
+        "location": "Bình Định",
+        "timestamp": "2045-04-25T12:55:00+07:00",
+        "body": "Tội thì tội nhưng luật là luật chị. Cảm xúc không thay được điều lệ.",
+        "likes": 1456
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Bầu Đức tin đồn",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:52:00+07:00",
+    "body": "HAGL mỗi mùa một drama. Năm 2010 là VAR chưa có. 2045 VAR-AI tự đi soi giấy tờ hộ tịch. Bóng đá Việt Nam tiến hoá theo hướng kỳ lạ.",
+    "likes": 5723
+  },
+  {
+    "id": "c5",
+    "username": "Phạm Quốc Hùng",
+    "location": "Pleiku",
+    "timestamp": "2045-04-25T13:08:00+07:00",
+    "body": "Tôi cổ động viên HAGL 22 năm. Năm nay không bỏ. Mai vẫn lên Pleiku xem trận với CAHN.",
+    "likes": 2189
+  },
+  {
+    "id": "c6",
+    "username": "Maricel Phạm",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T13:25:00+07:00",
+    "body": "Tôi là mẹ một cháu thế hệ Hữu nghị. Đọc bài này lo. Lúc nào hồ sơ cũng đồng bộ chậm hơn cuộc đời con tôi 6 ngày, 6 tháng, 6 năm.",
+    "likes": 8923
+  },
+  {
+    "id": "c7",
+    "username": "Đoàn Mạnh",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T13:42:00+07:00",
+    "body": "AI VAR liêm chính - cái tên hài hước nhất 2045. Nó liêm với HAGL, mà sao mùa trước Hải Phòng bị 3 quả việt vị nó im?",
+    "likes": 7456
+  },
+  {
+    "id": "c8",
+    "username": "Bùi Thanh",
+    "location": "Bình Định",
+    "timestamp": "2045-04-25T13:58:00+07:00",
+    "body": "0-3 trên giấy. 2-1 trên sân. Bóng đá đẹp.",
+    "likes": 1892
+  },
+  {
+    "id": "c9",
+    "username": "Reza fan",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:15:00+07:00",
+    "body": "Năm ngoái Reza Quang của Viettel. Năm nay Imran Phúc. Sang năm là ai. VFF đào tạo các em rồi VFF lại xử các em - logic kỳ lạ.",
+    "likes": 4521
+  },
+  {
+    "id": "c10",
+    "username": "Đỗ Quang Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:32:00+07:00",
+    "body": "Phúc nói 'em chỉ biết em đá tốt hôm đó' - câu hay nhất bài. Cầu thủ trẻ, tâm sạch.",
+    "likes": 3245
+  },
+  {
+    "id": "c11",
+    "username": "anh ba",
+    "location": "Long An",
+    "timestamp": "2045-04-25T14:48:00+07:00",
+    "body": "đẩy mạnh đồng bộ phấn đấu - cứ nói hoài mấy chữ này nghe quen quá. làm thật đi các bác",
+    "likes": 6789
+  },
+  {
+    "id": "c12",
+    "username": "Hà Đan",
+    "location": "Khác",
+    "timestamp": "2045-04-25T15:05:00+07:00",
+    "body": "Đọc từ Bangkok. Giải Thai League cũng vừa có vụ tương tự. Đông Nam Á đang lúng túng với thế hệ con em lao động nhập cư đá bóng. Không ai có quy chế chuẩn.",
+    "likes": 1567
+  },
+  {
+    "id": "c13",
+    "username": "Phượng",
+    "location": "Quảng Bình",
+    "timestamp": "2045-04-25T15:22:00+07:00",
+    "body": "Bố em Phúc người Quảng Bình. Cả làng đêm qua xem. Cả làng hôm nay buồn.",
+    "likes": 5234
+  }
+]

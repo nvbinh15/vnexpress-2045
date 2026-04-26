@@ -1,0 +1,140 @@
+[
+  {
+    "id": "c1",
+    "username": "Phạm Đức Long",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:18:00+07:00",
+    "body": "Yamal 38 tuổi, giải nghệ là hợp lý. Nhưng lý do 'không muốn làm đồng đội của một AI' - cái này mới sốc. Bóng đá thật sự đang chuyển sang giai đoạn khác.",
+    "likes": 18923
+  },
+  {
+    "id": "c2",
+    "username": "Trần Khoa",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:35:00+07:00",
+    "body": "Real Madrid ký với Amadou-AI từ tháng 3, giờ Yamal đi. Đó là một cú trả lời, không phải nghỉ hưu. Đẹp.",
+    "likes": 12567
+  },
+  {
+    "id": "c3",
+    "username": "Hoàng Việt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:52:00+07:00",
+    "body": "Tôi 42 tuổi, lớn lên với Messi-Ronaldo, rồi Mbappé-Yamal. Giờ thế hệ Yamal nghỉ. Bóng đá tôi yêu đang chết dần. Hơi buồn.",
+    "likes": 23456
+  },
+  {
+    "id": "c4",
+    "username": "Đặng Tuấn",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T15:08:00+07:00",
+    "body": "Bóng đá là môn thể thao của con người. Tôi không hiểu vì sao FIFA cho phép cầu thủ AI thi đấu chính thức. Đề nghị cấm. Trở về gốc.",
+    "likes": 31234
+  },
+  {
+    "id": "c5",
+    "username": "Lê Văn Phúc",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:25:00+07:00",
+    "body": "Cầu thủ AI Amadou đá hay - không phủ nhận. Nhưng nó không có bồ đội, không có đòi tăng lương, không có mệt mỏi. Đó là gì? Đó là hệ thống thi đấu, không phải bóng đá.",
+    "likes": 24523
+  },
+  {
+    "id": "c6",
+    "username": "Vũ Mạnh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:42:00+07:00",
+    "body": "Đệ nhất bình luận. Yamal forever.",
+    "likes": 234
+  },
+  {
+    "id": "c7",
+    "username": "Phong B.",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T15:58:00+07:00",
+    "body": "Yamal nói rất hay trong họp báo: 'Tôi không muốn dạy con tôi rằng cha nó là cầu thủ thuê chỗ cho một thuật toán.' Câu này phải đặt làm khẩu hiệu chống AI hoá thể thao.",
+    "likes": 18923
+  },
+  {
+    "id": "c8",
+    "username": "Nguyễn Quốc Hùng",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T16:15:00+07:00",
+    "body": "FIFA cho phép tối đa 1 AI/đội từ 2042. Nhưng các CLB lớn đã lobby tăng lên 3. Yamal đi là dấu hiệu. Tiếp theo sẽ là ai?",
+    "likes": 9234
+  },
+  {
+    "id": "c9",
+    "username": "Đoàn Phong",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T16:32:00+07:00",
+    "body": "Tôi mua áo Yamal số 19 năm ngoái. Hôm nay treo cẩn thận. Đó là một thời đại khép lại.",
+    "likes": 11456
+  },
+  {
+    "id": "c10",
+    "username": "Mai Trang",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:48:00+07:00",
+    "body": "Cảm ơn Yamal đã giữ tự trọng. 38 tuổi nghỉ ở đỉnh, không vì tiền. Hiếm.",
+    "likes": 14892
+  },
+  {
+    "id": "c11",
+    "username": "Trần An",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T17:05:00+07:00",
+    "body": "Bài viết của VnExpress dịch lại từ El País rất chuẩn. Cảm ơn ban biên tập.",
+    "likes": 5672
+  },
+  {
+    "id": "c12",
+    "username": "anh hai",
+    "location": "Long An",
+    "timestamp": "2045-04-25T17:22:00+07:00",
+    "body": "tui không phải fan bóng đá nhưng đọc bài này muốn coi lại 1 trận yamal đá. ai chỉ giúp trận hay nhất",
+    "likes": 3245,
+    "replies": [
+      {
+        "id": "c12-r1",
+        "username": "fan Yamal",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T17:48:00+07:00",
+        "body": "Trận chung kết Champions League 2032 - Real Madrid 3-2 PSG. Anh ấy ghi 2 bàn. Coi đi không phí thời gian.",
+        "likes": 1234
+      }
+    ]
+  },
+  {
+    "id": "c13",
+    "username": "Lê Hà",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T17:38:00+07:00",
+    "body": "Đúng",
+    "likes": 678
+  },
+  {
+    "id": "c14",
+    "username": "Bùi Hoàng",
+    "location": "Khác",
+    "timestamp": "2045-04-25T17:55:00+07:00",
+    "body": "Đọc từ Madrid. Hôm nay thành phố buồn. Nhiều người treo cờ Yamal. Trẻ con khóc trên xe bus. Đó là cái bóng đá làm được mà AI không làm được.",
+    "likes": 27892
+  },
+  {
+    "id": "c15",
+    "username": "Hoàng Mạnh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T18:12:00+07:00",
+    "body": "Real không tiếc. Họ vẫn còn Amadou. Nhưng cổ động viên tiếc. Đó là sự khác biệt giữa CLB và người yêu bóng đá.",
+    "likes": 8923
+  },
+  {
+    "id": "c16",
+    "username": "Trần Thị Hồng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T18:28:00+07:00",
+    "body": "Mong các CLB Việt Nam suy nghĩ kỹ trước khi ký hợp đồng với cầu thủ AI. V-League không cần. Để bóng đá vẫn là bóng đá.",
+    "likes": 12567
+  }
+]

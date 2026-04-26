@@ -1,0 +1,82 @@
+[
+  {
+    "id": "c1",
+    "username": "Phạm Quốc Long",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:18:00+07:00",
+    "body": "Cười đau bụng. Tài khoản ngủ AI cãi nhau về phí chung cư - đó là 2045 rồi đấy mọi người. Cảm ơn tác giả.",
+    "likes": 5672
+  },
+  {
+    "id": "c2",
+    "username": "Trần Hà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:35:00+07:00",
+    "body": "Tôi cũng có tài khoản ngủ. Lần đầu thấy nó cãi nhau với tài khoản của vợ, tôi nghĩ vợ giận mình thật. Sáng dậy hỏi vợ, vợ bảo: 'Em không nhớ.' Đời.",
+    "likes": 4521
+  },
+  {
+    "id": "c3",
+    "username": "Hoàng Mai",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T11:52:00+07:00",
+    "body": "Đệ nhất bình luận: tài khoản ngủ là phát minh tiện nhưng nguy hiểm. Khi AI thay ta cả lúc ngủ, ta còn lại gì?",
+    "likes": 3245
+  },
+  {
+    "id": "c4",
+    "username": "Đặng Phong",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:08:00+07:00",
+    "body": "Bài Cười tuần này hay. Cảm ơn báo.",
+    "likes": 891
+  },
+  {
+    "id": "c5",
+    "username": "Mẹ Bống",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T12:25:00+07:00",
+    "body": "Tôi không có tài khoản ngủ. Tôi ngủ thật. Đề nghị các cháu thử ngủ thật một đêm xem có khoẻ hơn không.",
+    "likes": 8923
+  },
+  {
+    "id": "c6",
+    "username": "Lê Quân",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:42:00+07:00",
+    "body": "Hài. Nhưng nếu tài khoản ngủ của tôi gửi thư tay xin lỗi cho tài khoản của vợ - đó là tiến bộ hôn nhân năm 2045.",
+    "likes": 4521
+  },
+  {
+    "id": "c7",
+    "username": "Hà Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:58:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c8",
+    "username": "Vũ Hoà",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T13:15:00+07:00",
+    "body": "Tài khoản ngủ giúp ta xử lý tin nhắn lúc đêm. Nhưng cãi nhau thay - đó là vượt quá uỷ quyền. Nhà sản xuất nên có giới hạn cho phép.",
+    "likes": 2891
+  },
+  {
+    "id": "c9",
+    "username": "Mai Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:32:00+07:00",
+    "body": "Đoạn cuối: 'sáng dậy chúng tôi cùng đi ăn phở, không ai nhắc đến vụ tài khoản' - đời sống vợ chồng 2045. Phở vẫn cứu được mọi tình huống.",
+    "likes": 11456
+  },
+  {
+    "id": "c10",
+    "username": "Phong Đỗ",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:48:00+07:00",
+    "body": "share để vợ tôi đọc và tắt tài khoản ngủ giùm",
+    "likes": 1789
+  }
+]

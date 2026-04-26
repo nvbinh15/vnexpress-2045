@@ -1,0 +1,132 @@
+[
+  {
+    "id": "c1",
+    "username": "Mai Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:02:00+07:00",
+    "body": "Đọc xong tôi ngồi yên một lúc, giống chị. Mẹ chồng nào cũng có lý của mẹ chồng, và mỗi nàng dâu cũng có sức chịu đựng riêng. Chị giữ vững nhé.",
+    "likes": 1456
+  },
+  {
+    "id": "c2",
+    "username": "Nguyễn Thị Hồng",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T07:18:00+07:00",
+    "body": "Người Bicol nhiệt tình lắm. Mẹ chồng chị thương thật đấy, không phải giả. Chị đừng giận bà.",
+    "likes": 892,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Tác giả",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T08:00:00+07:00",
+        "body": "Tôi không giận chị. Tôi chỉ mệt. Khác nhau.",
+        "likes": 2341
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Hoàng Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:35:00+07:00",
+    "body": "Câu cuối hay quá: 'kể cả một cái giường thừa'. Đọc xong tôi nhìn cái giường nhà mình, đúng là không có chỗ.",
+    "likes": 3782
+  },
+  {
+    "id": "c4",
+    "username": "Phạm Đức",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:52:00+07:00",
+    "body": "Vấn đề không phải Zalo. Vấn đề là kinh tế. Đẻ thì ai cũng muốn, nhưng tiền đâu, thời gian đâu, nhà đâu.",
+    "likes": 2456
+  },
+  {
+    "id": "c5",
+    "username": "Trần Thuý",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T08:08:00+07:00",
+    "body": "Ngày xưa khác bây giờ. Mẹ tôi đẻ 5 đứa trong căn nhà 30m2. Nhưng ngày xưa không có Zalo, cũng không có cô giáo ảo của con. Mỗi thời một kiểu khổ.",
+    "likes": 1789
+  },
+  {
+    "id": "c6",
+    "username": "anh hàng xóm",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:25:00+07:00",
+    "body": "thế thì sao, miễn sống tốt. đẻ hai đứa là đủ, đừng để ai ép. con của chị, đời của chị",
+    "likes": 4521
+  },
+  {
+    "id": "c7",
+    "username": "Lê Phương",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T08:42:00+07:00",
+    "body": "Phần cô giáo ảo của con gái nói chuyện với mẹ chồng - cái này hơi sợ. Trợ lý số trẻ con phải có lớp khoá cho người lạ chứ. Bộ Giáo dục có nghe không?",
+    "likes": 2891
+  },
+  {
+    "id": "c8",
+    "username": "Tâm sự muộn",
+    "location": "Khác",
+    "timestamp": "2045-04-25T08:58:00+07:00",
+    "body": "Tôi cũng có mẹ chồng nước ngoài. Bà người Lào. Cũng giục đẻ. Nhưng bà giục bằng tiếng Lào nên tôi giả vờ không hiểu. Hữu hiệu được 3 năm rồi.",
+    "likes": 3245
+  },
+  {
+    "id": "c9",
+    "username": "Bùi Quốc",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:15:00+07:00",
+    "body": "Đọc xong chỉ thương cả mẹ chồng và nàng dâu. Hai người đàn bà tốt, mỗi người ở một thế giới khác.",
+    "likes": 1234
+  },
+  {
+    "id": "c10",
+    "username": "Phương Đông",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:32:00+07:00",
+    "body": "Bạn ơi cố lên. Người nào cũng có cái khổ của họ. Nhưng câu chuyện này dễ thương lắm. Cảm ơn bạn đã chia sẻ.",
+    "likes": 1567
+  },
+  {
+    "id": "c11",
+    "username": "Mẹ ba con",
+    "location": "Hà Nam",
+    "timestamp": "2045-04-25T09:48:00+07:00",
+    "body": "Tôi có ba đứa, không chung cư, sống ở quê. Tôi không khuyên bạn đẻ thêm, vì hoàn cảnh khác. Nhưng nếu một ngày bạn nghĩ lại, đừng ngại - đứa thứ ba thật ra dễ nuôi hơn đứa đầu.",
+    "likes": 891
+  },
+  {
+    "id": "c12",
+    "username": "Hà",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:05:00+07:00",
+    "body": "Đoạn 'tối qua anh đã rửa bát rồi' - cười xong rớt nước mắt. Phụ nữ Việt Nam ai cũng có một cái danh sách 'không-được-giận' kiểu này.",
+    "likes": 5672
+  },
+  {
+    "id": "c13",
+    "username": "ngoc91",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:22:00+07:00",
+    "body": "tỷ lệ sinh xuống là việc của nhà nước, không phải việc của mẹ chồng. nhưng mẹ chồng thì vẫn dễ tiếp cận hơn nhà nước",
+    "likes": 2189
+  },
+  {
+    "id": "c14",
+    "username": "Trần Đình Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:38:00+07:00",
+    "body": "Bài viết của 'Tâm sự' VnExpress luôn hay nhất phần này. Cảm ơn ban biên tập.",
+    "likes": 678
+  },
+  {
+    "id": "c15",
+    "username": "Một người chồng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:55:00+07:00",
+    "body": "Tôi đọc bài này và nhận ra mình giống chồng tác giả. Tối nay tôi sẽ rửa bát, và sẽ nói 'không phải bây giờ' với mẹ. Cảm ơn chị.",
+    "likes": 4521
+  }
+]

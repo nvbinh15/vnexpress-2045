@@ -1,0 +1,118 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Trí",
+    "location": "Long An",
+    "timestamp": "2045-04-25T13:18:00+07:00",
+    "body": "Khởi tố là đúng. Luật AI 2042 đã quy định rõ: hệ thống cấp 7 trở lên phải có giám sát viên ban đêm. Chủ doanh nghiệp tiết kiệm chi phí, chấp nhận rủi ro thì gánh hậu quả.",
+    "likes": 8923
+  },
+  {
+    "id": "c2",
+    "username": "Trần Quốc",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:35:00+07:00",
+    "body": "Tôi làm logistics 14 năm. Thực tế là thuê giám sát viên đêm tốn 18 triệu/tháng. Nhiều DN nhỏ không cáng nổi. Luật cứng quá. Cần có khung phù hợp với SME.",
+    "likes": 5672,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Hà Anh",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T14:02:00+07:00",
+        "body": "Bác nói thật. Luật áp đồng đều, SME chết.",
+        "likes": 2891
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Đặng Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:52:00+07:00",
+    "body": "Để AI tự vận hành ca đêm là chuyện thường. Cả thế giới đang vậy. Việt Nam mình lại cứng nhắc.",
+    "likes": 1789,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Phong",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T14:18:00+07:00",
+        "body": "Bác có biết vụ 2043 ở Bình Dương không? AI logistics tự vận hành làm chết 2 công nhân. Đó là lý do có Luật 2042.",
+        "likes": 4521
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Lê Văn Phú",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T14:08:00+07:00",
+    "body": "Bài viết khô. Mong báo phỏng vấn thêm các giám sát viên đêm xem họ làm gì, lương bao nhiêu, thực tế công việc thế nào.",
+    "likes": 3245
+  },
+  {
+    "id": "c5",
+    "username": "Hoàng Mai",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T14:25:00+07:00",
+    "body": "Đệ nhất bình luận. Pháp luật mạnh, AI sợ.",
+    "likes": 234
+  },
+  {
+    "id": "c6",
+    "username": "Vũ Thanh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:42:00+07:00",
+    "body": "Câu hỏi tôi quan tâm: hệ thống AI logistics đó đã gây ra hậu quả gì chưa, hay khởi tố phòng ngừa? Báo viết chưa rõ.",
+    "likes": 7892
+  },
+  {
+    "id": "c7",
+    "username": "Phạm Quốc",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:58:00+07:00",
+    "body": "Tôi ủng hộ Luật AI 2042. Việt Nam đi đầu khu vực về quản trị AI - đó là điều đáng tự hào. Đừng vì SME mà nới lỏng nguyên tắc.",
+    "likes": 4521
+  },
+  {
+    "id": "c8",
+    "username": "Trần Hà",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T15:15:00+07:00",
+    "body": "Đúng",
+    "likes": 567
+  },
+  {
+    "id": "c9",
+    "username": "Mẹ ba con",
+    "location": "Long An",
+    "timestamp": "2045-04-25T15:32:00+07:00",
+    "body": "Tôi sống gần kho logistics đó. Đêm nào cũng có tiếng máy. Hôm trước tự nhiên cả khu mất điện vì AI quá tải. Khởi tố là đúng.",
+    "likes": 11456
+  },
+  {
+    "id": "c10",
+    "username": "Hà Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:48:00+07:00",
+    "body": "Bài viết hay. Cảm ơn báo đã giải thích Luật AI 2042 cho người đọc bình thường. Nhiều bài về AI khó hiểu lắm.",
+    "likes": 1234
+  },
+  {
+    "id": "c11",
+    "username": "Đoàn Phong",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:05:00+07:00",
+    "body": "Mong các DN logistics khác xem đây là bài học. Tiết kiệm vài chục triệu giờ trả giá bằng án hình sự.",
+    "likes": 6789
+  },
+  {
+    "id": "c12",
+    "username": "Phong T.",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T16:22:00+07:00",
+    "body": "Tôi làm giám sát viên đêm cho một kho. Lương 22 triệu, ca 12 tiếng. Việc nhàm, nhưng đáng đồng tiền vì tránh tai nạn. DN nào tiếc 18 triệu là DN không nghiêm túc.",
+    "likes": 9234
+  }
+]

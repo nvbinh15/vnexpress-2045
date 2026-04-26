@@ -1,0 +1,152 @@
+[
+  {
+    "id": "c1",
+    "username": "Lê Phương",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:18:00+07:00",
+    "body": "Ngủ ghép thương mại - tôi không biết nên gọi đó là tiến bộ hay là đáng buồn. Thuê người lạ ngủ cùng để đỡ cô đơn, 89 ngàn/đêm. Đời sống quận 7.",
+    "likes": 14523
+  },
+  {
+    "id": "c2",
+    "username": "Trần Đức Hùng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:35:00+07:00",
+    "body": "Tôi đã thử dịch vụ này. Không có gì lạ đâu mọi người. Chỉ là một người ngủ trên giường khác trong cùng phòng. Có người nói chuyện 10 phút trước khi ngủ. Hôm sau dậy ai đi đường nấy. An toàn, không bậy bạ.",
+    "likes": 8923,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Mai Anh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T09:02:00+07:00",
+        "body": "Em cũng từng thử. Đỡ cô đơn thật. Hôm sau đi làm vui hơn.",
+        "likes": 4521
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Hoàng Mai",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T08:52:00+07:00",
+    "body": "Bài viết hay. Cảm ơn phóng viên đã không phán xét. Đó là cách viết về cô đơn nên có.",
+    "likes": 12892
+  },
+  {
+    "id": "c4",
+    "username": "Phạm Văn Tâm",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:08:00+07:00",
+    "body": "Hết phòng từ 18h. Tức là cầu lớn hơn cung. Tức là quận 7 có rất nhiều người không muốn ngủ một mình tối nay. Đó là thông tin đáng nhớ hơn cả số 89.000.",
+    "likes": 21456
+  },
+  {
+    "id": "c5",
+    "username": "Mẹ Bống",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T09:25:00+07:00",
+    "body": "Ngày xưa nhà 8 anh em chen nhau ngủ trên một cái giường. Bây giờ trẻ thuê người lạ ngủ cùng cho đỡ cô đơn. Đời thay đổi quá nhiều.",
+    "likes": 18234
+  },
+  {
+    "id": "c6",
+    "username": "Đặng Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:42:00+07:00",
+    "body": "Đệ nhất bình luận: 89.000 đồng cho một đêm bớt cô đơn - rẻ hơn liệu pháp tâm lý 800.000 đồng/buổi. Logic kinh tế.",
+    "likes": 5672
+  },
+  {
+    "id": "c7",
+    "username": "Trần Quốc Hùng",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T09:58:00+07:00",
+    "body": "Tôi không hiểu. Sao không gọi điện cho mẹ, hoặc bạn? Sao phải thuê người lạ?",
+    "likes": 3245,
+    "replies": [
+      {
+        "id": "c7-r1",
+        "username": "Một người trẻ",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T10:25:00+07:00",
+        "body": "Bác ơi mẹ thì xa, bạn thì ai cũng bận. Người lạ thì có ngay từ 18h. Đời nó vậy.",
+        "likes": 11456
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "username": "Vũ Hà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:15:00+07:00",
+    "body": "Tôi 41 tuổi, đã ly hôn 5 năm. Đọc bài này tự nhiên muốn thử. Không nghĩ mình sẽ bao giờ thử dịch vụ kiểu này. Nhưng tối nay sẽ.",
+    "likes": 14892
+  },
+  {
+    "id": "c9",
+    "username": "Phong Đỗ",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:32:00+07:00",
+    "body": "Bài viết Đời sống VnExpress luôn hay nhất phần này. Cảm ơn ban biên tập.",
+    "likes": 567
+  },
+  {
+    "id": "c10",
+    "username": "Hà Trang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:48:00+07:00",
+    "body": "Quận 7 có 89.000/đêm, quận 1 chắc 250.000/đêm, quận Bình Tân chắc 45.000/đêm. Bất bình đẳng cô đơn.",
+    "likes": 7892
+  },
+  {
+    "id": "c11",
+    "username": "Mai Linh",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T11:05:00+07:00",
+    "body": "Tôi làm dịch vụ này 8 tháng, lương 12-15 triệu. Khách lớn nhất tôi gặp là một bà cụ 73 tuổi, mỗi tuần ngủ ghép 2 đêm vì sợ ngủ một mình sau khi chồng mất. Tôi không lấy phí. Cứ tự đi taxi đến nhà bà.",
+    "likes": 28923,
+    "replies": [
+      {
+        "id": "c11-r1",
+        "username": "Cảm ơn",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T11:32:00+07:00",
+        "body": "Bạn ơi cảm ơn bạn. Tử tế quá.",
+        "likes": 9234
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "username": "Trần Hùng",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T11:22:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c13",
+    "username": "Đoàn Phong",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:38:00+07:00",
+    "body": "Mong cơ quan chức năng quản lý chặt: kiểm tra giấy tờ, có app trung gian, có camera trong phòng (chỉ giám sát an toàn). Tránh biến tướng.",
+    "likes": 4521
+  },
+  {
+    "id": "c14",
+    "username": "Phạm An",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:55:00+07:00",
+    "body": "Cô đơn năm 2045 không phải là việc thiếu kết nối. Là việc thiếu một người thở cùng phòng.",
+    "likes": 18234
+  },
+  {
+    "id": "c15",
+    "username": "Linh Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:12:00+07:00",
+    "body": "share để mọi người biết về dịch vụ này, có thể ai đó cần",
+    "likes": 1789
+  }
+]

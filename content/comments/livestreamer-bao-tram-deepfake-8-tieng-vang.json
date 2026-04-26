@@ -1,0 +1,124 @@
+[
+  {
+    "id": "c1",
+    "username": "Lê Thị Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T16:25:00+07:00",
+    "body": "Tôi là cô Mai trong bài. Mua 4 nồi áp suất. Cảm ơn báo đã đưa tin. Tôi đã yêu cầu hoàn tiền sáng nay.",
+    "likes": 14523,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Hoài",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T16:48:00+07:00",
+        "body": "Cô Mai mạnh mẽ quá. Chia buồn cô. Nồi áp suất mà phải đem trả vì lý do AI - chuyện đời 2045.",
+        "likes": 4523
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Phạm Quốc Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:42:00+07:00",
+    "body": "Đệ nhất bình luận: 67% avatar. Vậy 33% Bảo Trâm thật. Doanh số 47 tỷ chia đôi đi cô.",
+    "likes": 18923
+  },
+  {
+    "id": "c3",
+    "username": "Trần Mỹ Linh",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T16:58:00+07:00",
+    "body": "Tôi follow Trâm 4 năm. Đêm nào cũng xem. Hoá ra 5 trong 8 tiếng tôi nhìn máy. Đầu tôi quay quay.",
+    "likes": 22456
+  },
+  {
+    "id": "c4",
+    "username": "Đặng Phong",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T17:15:00+07:00",
+    "body": "Phương Đình deepfake 31%, Bảo Trâm avatar 67%. Năm nay là mùa giải định lượng deepfake nghệ sĩ.",
+    "likes": 14892
+  },
+  {
+    "id": "c5",
+    "username": "Bùi Hùng",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T17:32:00+07:00",
+    "body": "Live Việt cũng có lỗi. Họ là người cấp tính năng 'Trợ lý hình ảnh'. Bây giờ lại đứng phán xét. Quy trình của ai?",
+    "likes": 11456
+  },
+  {
+    "id": "c6",
+    "username": "Mẹ Bống",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T17:48:00+07:00",
+    "body": "Mẹ tôi 72 tuổi, mỗi tối xem livestream 'Tuần lễ vàng' của Trâm để mua quà cho cháu. Bà tin Trâm như tin đứa cháu gái. Hôm nay tôi không biết kể lại với bà thế nào.",
+    "likes": 27892
+  },
+  {
+    "id": "c7",
+    "username": "Vũ Hoàng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T18:05:00+07:00",
+    "body": "Bài này nên gửi Cục Bản quyền Tác giả Số. 30% là ngưỡng phải dán nhãn. 67% là vượt mặt rồi.",
+    "likes": 8923
+  },
+  {
+    "id": "c8",
+    "username": "Hà Đan",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T18:22:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c9",
+    "username": "Nguyễn Trang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T18:38:00+07:00",
+    "body": "Tôi làm livestream sản phẩm gia dụng 6 năm. Phiên dài nhất tôi từng làm là 5 tiếng. 5 tiếng đó tôi muốn xỉu. 8 tiếng liên tục mà không có máy là không thể, ai làm livestream cũng biết.",
+    "likes": 12567
+  },
+  {
+    "id": "c10",
+    "username": "anh tài",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T18:55:00+07:00",
+    "body": "trâm xinh, giọng ngọt, nhưng sai là sai. ý kiến cá nhân.",
+    "likes": 5672
+  },
+  {
+    "id": "c11",
+    "username": "Phương Đình fan",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T19:12:00+07:00",
+    "body": "Nay sang Bảo Trâm. Mai sang ai. Cứ deepfake xong xin lỗi rồi quay lại. Cycle.",
+    "likes": 7234
+  },
+  {
+    "id": "c12",
+    "username": "Mai Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T19:28:00+07:00",
+    "body": "Đoạn cuối: nhãn đối tác có 60% đội ngũ AI. Bài viết khéo. Hoá ra cả ngành đang cười nhau.",
+    "likes": 14523
+  },
+  {
+    "id": "c13",
+    "username": "thầy Năm",
+    "location": "Tiền Giang",
+    "timestamp": "2045-04-25T19:45:00+07:00",
+    "body": "Ngày xưa các bà ngoài chợ bán trái cây giả nhãn vàng, cả phố biết. Bây giờ avatar bán nồi giả người, cả nước bị dắt mũi 8 tiếng. Tiến bộ không đơn giản.",
+    "likes": 9234
+  },
+  {
+    "id": "c14",
+    "username": "Phong N.",
+    "location": "Khác",
+    "timestamp": "2045-04-25T20:02:00+07:00",
+    "body": "Đọc từ Seoul. Bên này Hàn đã có quy định: livestream thương mại trên 4 giờ phải đổi người dẫn ít nhất 1 lần. Việt Nam còn lỏng quá.",
+    "likes": 4521
+  }
+]

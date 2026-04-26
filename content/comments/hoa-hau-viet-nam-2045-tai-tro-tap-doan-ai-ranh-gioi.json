@@ -1,0 +1,116 @@
+[
+  {
+    "id": "c1",
+    "username": "Lê Hồng Hạnh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:38:00+07:00",
+    "body": "Đệ nhất bình luận: cuộc thi sắc đẹp giờ là hợp đồng livestream 6 tháng. Mẹ tôi nghe câu này là không cho con cháu đi thi nữa.",
+    "likes": 4892
+  },
+  {
+    "id": "c2",
+    "username": "Phạm Trang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:52:00+07:00",
+    "body": "65/35 cho NeonMind là hơi tham. Thường livestream nội dung sao chia 50/50 đã là chuẩn ngành. Đây là BTC đã ký giùm các em.",
+    "likes": 3245
+  },
+  {
+    "id": "c3",
+    "username": "Cô Thi cũ",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:08:00+07:00",
+    "body": "Tôi từng là thí sinh top 10 năm 2018. Thời đó BTC chỉ tặng nước hoa và một bộ vest. Bây giờ tặng avatar AI - vừa đi thi vừa làm KOL trả góp.",
+    "likes": 6234
+  },
+  {
+    "id": "c4",
+    "username": "Hoàng Vân",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:25:00+07:00",
+    "body": "Mẹ một thí sinh đọc hợp đồng trước - quá đúng. Mẹ Việt Nam là tuyến phòng thủ cuối cùng của con gái trước hợp đồng nháp 47 trang.",
+    "likes": 11456
+  },
+  {
+    "id": "c5",
+    "username": "Bùi Mai",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T14:42:00+07:00",
+    "body": "Festival Đà Nẵng cũng do NeonMind tài trợ. Avatar thí sinh lên livestream Festival - vòng tròn khép kín. Marketing đỉnh.",
+    "likes": 2891
+  },
+  {
+    "id": "c6",
+    "username": "Nguyễn Thanh",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T14:58:00+07:00",
+    "body": "Đọc xong hỏi: cô Yến BTC nói 'avatar không phải nghĩa vụ' - vậy điều khoản 7.3 là gì? Báo chí nên hỏi tiếp câu này.",
+    "likes": 5723
+  },
+  {
+    "id": "c7",
+    "username": "Mai Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:15:00+07:00",
+    "body": "Bài hay. Nhưng đáng buồn cho các em 22 tuổi. Đi thi sắc đẹp vì mơ ước, ra về với một avatar không sở hữu trọn.",
+    "likes": 4521
+  },
+  {
+    "id": "c8",
+    "username": "fan Hoa hậu",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:32:00+07:00",
+    "body": "Ban tổ chức xưa giờ vẫn vậy. Đổi tên tài trợ thôi. Nội dung không đổi.",
+    "likes": 2189,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "Phong",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T15:48:00+07:00",
+        "body": "Đồng ý. 2025 là sữa, 2035 là ô tô điện, 2045 là AI. Cứ vậy mà chạy.",
+        "likes": 1289
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "Đan Trần",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:48:00+07:00",
+    "body": "Cô Phạm Thanh Hiền nói chuẩn. 'Thương vụ truyền thông kéo dài 6 tháng' - nên ghi vào thư mời thí sinh thật. Minh bạch xong rồi ai muốn ký thì ký.",
+    "likes": 3892
+  },
+  {
+    "id": "c10",
+    "username": "Mẹ ba con",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T16:05:00+07:00",
+    "body": "Tôi không cho con gái đi thi. Lý do: tôi không hiểu hợp đồng. 22 tuổi đầu mà đã ký thoả thuận avatar - nó đâu hiểu hết.",
+    "likes": 7234
+  },
+  {
+    "id": "c11",
+    "username": "Vũ Tú",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T16:22:00+07:00",
+    "body": "Đăng ký xong 6 tháng livestream cho Sao Chiếu. Thời gian đó còn đâu mà đi học, đi làm thiện nguyện. Hoa hậu Việt Nam đang trở thành nghề KOL có thi tuyển.",
+    "likes": 4892
+  },
+  {
+    "id": "c12",
+    "username": "Hà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:38:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c13",
+    "username": "Quỳnh Như",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T16:55:00+07:00",
+    "body": "Một thí sinh nói với báo: 'kiểu này con là người mẫu của họ trước khi con là hoa hậu'. Câu này đắng quá. Em ấy thông minh hơn cả BTC.",
+    "likes": 8923
+  }
+]

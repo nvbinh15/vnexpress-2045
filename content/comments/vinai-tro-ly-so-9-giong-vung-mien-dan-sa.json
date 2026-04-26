@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1",
+    "username": "Phạm Đức Long",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:18:00+07:00",
+    "body": "23 giọng vùng miền - VinAI làm tốt. Cuối cùng có một trợ lý nói được tiếng Quảng Trị quê tôi mà không phải dạng pha tạp.",
+    "likes": 8923
+  },
+  {
+    "id": "c2",
+    "username": "Trần Quang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:35:00+07:00",
+    "body": "Trợ lý số 9 dùng thử rồi - tốt nhưng đắt. 1,2 triệu/tháng cho bản gia đình. Đan Sa từ phần cứng nghe hay nhưng thật sự cần thiết với người dùng phổ thông?",
+    "likes": 4521
+  },
+  {
+    "id": "c3",
+    "username": "Đặng Tuấn",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T10:52:00+07:00",
+    "body": "VinAI đi đầu khu vực ASEAN về AI bản địa - đáng tự hào. Chấm điểm 9/10. Trừ điểm vì giá.",
+    "likes": 3245
+  },
+  {
+    "id": "c4",
+    "username": "Hoàng Mai",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T11:08:00+07:00",
+    "body": "Tôi thử giọng Cần Thơ trên Trợ lý Số 9. Hơi pha Tiền Giang. Nhưng OK. Lần đầu một AI hiểu 'đi nhậu' không có nghĩa 'travel for business meeting'.",
+    "likes": 12892
+  },
+  {
+    "id": "c5",
+    "username": "Lê Phong",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T11:25:00+07:00",
+    "body": "Đan Sa từ phần cứng là điều quan trọng. Mọi gói AI từ giờ phải vậy. Tránh hack giọng người mất như vụ 'AI thầy cúng' vừa rồi.",
+    "likes": 7892
+  },
+  {
+    "id": "c6",
+    "username": "Vũ Hoà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:42:00+07:00",
+    "body": "Đệ nhất bình luận: thử giọng Hà Tĩnh. AI có nói 'mô' và 'tê' đúng tone không? Quan trọng đấy.",
+    "likes": 5672
+  },
+  {
+    "id": "c7",
+    "username": "Phong",
+    "location": "Khác",
+    "timestamp": "2045-04-25T11:58:00+07:00",
+    "body": "Đọc từ Sydney. Bố mẹ tôi ở quê dùng VnAlpha vì rẻ. Trợ lý 9 đắt thì khó tiếp cận diện rộng. Mong VinAI có gói cho người cao tuổi nông thôn.",
+    "likes": 4521
+  },
+  {
+    "id": "c8",
+    "username": "Bùi Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:15:00+07:00",
+    "body": "Đặt mua sớm. Cảm ơn VinAI đã tiếp tục phát triển AI tiếng Việt. Đừng để chúng ta phụ thuộc vào AI Trung Quốc, Mỹ.",
+    "likes": 11456
+  },
+  {
+    "id": "c9",
+    "username": "Mẹ Bống",
+    "location": "Nghệ An",
+    "timestamp": "2045-04-25T12:32:00+07:00",
+    "body": "Có giọng Nghệ An không? Tôi mua liền cho mẹ tôi.",
+    "likes": 2891
+  },
+  {
+    "id": "c10",
+    "username": "Trần Đức",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:48:00+07:00",
+    "body": "Bài viết hơi quảng cáo. Báo nên phỏng vấn thêm chuyên gia độc lập đánh giá Trợ lý Số 9 so với VnAlpha, Bot Việt v.v.",
+    "likes": 6789
+  },
+  {
+    "id": "c11",
+    "username": "Phạm Quốc",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:05:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c12",
+    "username": "Hà Trang",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T13:22:00+07:00",
+    "body": "Tôi là cựu kỹ sư VinAI (đã nghỉ 2042). Trợ lý Số 9 tôi tự hào. Đội ngữ liệu vùng miền cực kỳ vất vả 3 năm. Cảm ơn các anh chị còn ở lại.",
+    "likes": 14523
+  }
+]

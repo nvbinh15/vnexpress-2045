@@ -1,0 +1,142 @@
+[
+  {
+    "id": "c1",
+    "username": "Phạm Đăng Khoa",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T12:11:00+07:00",
+    "body": "Tôi làm ở khu công nghiệp Đình Vũ. Đồng nghiệp Filipino và Bangladesh chiếm gần một nửa. Không có anh chị em đó thì dây chuyền pin VF dừng từ năm ngoái. Báo cáo ghi nhận đúng người đúng việc.",
+    "likes": 6234
+  },
+  {
+    "id": "c2",
+    "username": "Trần Quốc Long",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:28:00+07:00",
+    "body": "Lãi 1.847 tỷ sau 6 năm lỗ. Ai mua VFS đáy là vinh quang. Ai mua đỉnh thì... vẫn còn cách gồng.",
+    "likes": 4521,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "F0",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T12:54:00+07:00",
+        "body": "Đỉnh 2041 - giờ vẫn âm 62%. Chia sẻ ai đỡ.",
+        "likes": 1289
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Mai Lê",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:45:00+07:00",
+    "body": "Đoạn tri ân kỹ sư Hữu Nghị trong thư cổ đông là một bước đi rất khôn của Vingroup. Vừa PR thị trường Đông Nam Á, vừa xoa dịu công đoàn nội bộ, vừa đẹp mặt nhà nước. Một mũi tên ba đích.",
+    "likes": 8923
+  },
+  {
+    "id": "c4",
+    "username": "Reynaldo B.",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T13:02:00+07:00",
+    "body": "Tôi là người được phỏng vấn trong bài. Tôi không ngờ bài đăng. Cảm ơn báo. Vợ tôi (ở Manila) gửi link cho 47 người trong nhóm Zalo gia đình. Bà nội ở Tarlac hỏi 'tên nó đâu, sao không có tên?' Bà ơi, có 4.200 người, con là một trong số đó. Đủ rồi.",
+    "likes": 14567,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Lê Hoa",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T13:24:00+07:00",
+        "body": "Anh ơi cảm ơn anh đã ở lại Việt Nam làm việc với chúng tôi. Hải Phòng lạnh thật, chăn ấm là hai chữ. Chúc anh chị một ngày sớm đoàn tụ ở VN.",
+        "likes": 3421
+      },
+      {
+        "id": "c4-r2",
+        "username": "Nguyễn Anh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T13:41:00+07:00",
+        "body": "Cảm động quá anh ơi. Bà nội gửi malunggay về VN cho anh chưa?",
+        "likes": 1892
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Đặng Tuấn",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:18:00+07:00",
+    "body": "Lương kỹ sư VN tại VinFast giờ 28-32 triệu. Lương kỹ sư Hữu Nghị làm cùng vị trí 19-22 triệu. Báo cáo không đề cập. Tri ân là tốt, nhưng trả công bằng còn tốt hơn.",
+    "likes": 11234
+  },
+  {
+    "id": "c6",
+    "username": "thị trường",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:35:00+07:00",
+    "body": "khối ngoại mua ròng 7 phiên liên tiếp. tin nội bộ về lãi đã rò rỉ từ tuần trước rồi. F0 lúc nào cũng vào sau cùng",
+    "likes": 1567
+  },
+  {
+    "id": "c7",
+    "username": "Cụ Chiến",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:52:00+07:00",
+    "body": "Năm 2024 tôi chê VinFast. Năm 2030 tôi mua xe VinFast vì giá rẻ. Năm 2045 con tôi mua xe VinFast vì hết lựa chọn nội địa. Đời nó cứ thế.",
+    "likes": 5672
+  },
+  {
+    "id": "c8",
+    "username": "Đệ nhất",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T14:08:00+07:00",
+    "body": "Đệ nhất bình luận đất Cảng. VFS đặt mua rồi.",
+    "likes": 156
+  },
+  {
+    "id": "c9",
+    "username": "Lý Vân Anh",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T14:25:00+07:00",
+    "body": "Mẹ tôi là quản lý ca tại nhà máy Hữu Nghị Bình Dương. Bà bảo: 'Anh em Indonesia, Bangladesh, Filipino làm việc nghiêm túc, ít nghỉ phép, ít cãi nhau hơn người Việt mình. Họ xa nhà, họ có động lực. Mình ở nhà, mình lười.' Bà nói thẳng. Tôi không phản biện được.",
+    "likes": 4892
+  },
+  {
+    "id": "c10",
+    "username": "anh hai",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T14:42:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c11",
+    "username": "Bùi Quang Hoàng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:58:00+07:00",
+    "body": "Báo cáo tài chính ghi danh người lao động cụ thể là việc nên làm ở mọi doanh nghiệp niêm yết. Còn nhớ thời 2020 các báo cáo còn không thèm tách riêng giới tính nữa.",
+    "likes": 1892
+  },
+  {
+    "id": "c12",
+    "username": "Hà Phương",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:15:00+07:00",
+    "body": "Tôi làm tuyển dụng ngành điện tử 14 năm. Năm nay tuyển kỹ sư VN dưới 30 tuổi gần như không có ai nộp hồ sơ. Cú trượt dân số 2037 không phải dự báo, đó là CV của tôi.",
+    "likes": 6234
+  },
+  {
+    "id": "c13",
+    "username": "Nguyễn Quang",
+    "location": "Hà Tĩnh",
+    "timestamp": "2045-04-25T15:32:00+07:00",
+    "body": "Nhà máy Hà Tĩnh có 1 nhà thờ Hồi giáo nhỏ trong khu nội trú. Tôi thấy bình thường. Bố tôi (sinh 1962) thấy lạ. Chú tôi (sinh 1995) thấy bình thường. Một thế hệ là một thế giới khác.",
+    "likes": 3421
+  },
+  {
+    "id": "c14",
+    "username": "Phương N.",
+    "location": "Khác",
+    "timestamp": "2045-04-25T15:48:00+07:00",
+    "body": "Đọc từ San Jose. Cộng đồng người Việt ở đây cũng theo tin VinFast. Mừng cho công ty VN làm xe được. Mong giữ vững.",
+    "likes": 1234
+  }
+]

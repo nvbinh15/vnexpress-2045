@@ -1,0 +1,124 @@
+[
+  {
+    "id": "c1",
+    "username": "Phạm Quốc Đạt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:09:00+07:00",
+    "body": "VN làm 'quan sát viên tích cực' từ vòng 7 đến giờ. Tích cực bao nhiêu thì tốt, nhưng đến lúc cần ngồi vào bàn chính thức thì cũng nên có dũng khí xin ghế. ASEAN không thể mãi đứng giữa.",
+    "likes": 4521
+  },
+  {
+    "id": "c2",
+    "username": "Lê Mạnh Hùng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:26:00+07:00",
+    "body": "Cái Việt Nam có để mang ra bàn quốc tế là Luật AI 2042 và Đan Sa. Hai cái này là 'sản phẩm xuất khẩu' duy nhất trong lĩnh vực quản trị. Đoàn ngoại giao biết khai thác đúng vị trí.",
+    "likes": 6234
+  },
+  {
+    "id": "c3",
+    "username": "Đỗ Phương",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:43:00+07:00",
+    "body": "Đọc câu phát biểu của Thứ trưởng Đỗ Hùng Việt: 'đẩy mạnh đối thoại đa phương, chú trọng đóng góp kinh nghiệm thực tiễn... đồng bộ với chủ trương xây dựng một không gian quản trị AI quốc tế công bằng, bao trùm và có tính thực thi cao' - 51 từ, không sai một chữ. AI dịch sang tiếng Anh chắc cũng khóc.",
+    "likes": 8923,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Trần Hà",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T13:08:00+07:00",
+        "body": "Phong cách ngoại giao 'tích cực, chủ động, có trách nhiệm' truyền thống. Người Mỹ nghe xong gật đầu, người Trung nghe xong gật đầu, mình về VN cũng gật đầu. Cả ba bên đều OK.",
+        "likes": 3421
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "GS hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:00:00+07:00",
+    "body": "Lần đầu cả 5 nước ASEAN cùng dự là một bước tiến lớn. Trước đây Philippines hay đứng riêng do thân Mỹ, Indonesia thì chần chừ. Việc Hà Nội giữ vai trò triệu tập không chính thức cho khối là vai trò đáng ghi nhận.",
+    "likes": 5672
+  },
+  {
+    "id": "c5",
+    "username": "anh Tâm",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:18:00+07:00",
+    "body": "Mỹ Trung đàm phán 9 vòng. Mỗi vòng họ cho thêm vài câu chữ ngoại giao. Trong khi đó AI ở các nước khác chạy ầm ầm. Đàm phán càng lâu, hàng đã ra thị trường càng nhiều. Đan Sa cũng thế thôi.",
+    "likes": 2341
+  },
+  {
+    "id": "c6",
+    "username": "Nguyễn Trí",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T13:35:00+07:00",
+    "body": "Vai trò 'người đầu tiên có Luật AI thực thi được' của VN là vai trò thật. Cả Singapore, Hàn Quốc còn đang xây khung. Không nên tự ti.",
+    "likes": 1893
+  },
+  {
+    "id": "c7",
+    "username": "thị dân",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:52:00+07:00",
+    "body": "trong khi mỹ trung họp ở Geneva, ở nhà thì 'AI thầy cúng' lừa cả ngàn người. luật quốc tế đẹp đến mấy mà thực thi nội địa lỏng lẻo thì cũng vậy",
+    "likes": 4521
+  },
+  {
+    "id": "c8",
+    "username": "Đệ nhất",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:10:00+07:00",
+    "body": "Đệ nhất Hà Nội. Phấn đấu xây dựng VN thành quan sát viên tích cực toàn cầu, đồng bộ với chủ trương lớn.",
+    "likes": 567
+  },
+  {
+    "id": "c9",
+    "username": "Hoàng Phương",
+    "location": "Khác",
+    "timestamp": "2045-04-25T14:28:00+07:00",
+    "body": "Đọc từ Geneva. Tôi làm việc ở Liên Hợp Quốc 8 năm. Đoàn VN năm nay sang đông hơn mọi năm. Có cả đại diện Đan Sa - đây là lần đầu một cơ quan kỹ thuật phi-Bộ-Ngoại-Giao của VN đi đàm phán đa phương. Đáng chú ý.",
+    "likes": 12892
+  },
+  {
+    "id": "c10",
+    "username": "Cô giáo dạy sử",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T14:45:00+07:00",
+    "body": "Học sinh tôi hôm nay hỏi: 'Cô ơi VN trung lập giữa Mỹ Trung từ khi nào?' Tôi nói: 'Từ khi VN có VN đến giờ.' Lớp cười. Nhưng đúng vậy.",
+    "likes": 3421
+  },
+  {
+    "id": "c11",
+    "username": "Đoàn Mạnh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:02:00+07:00",
+    "body": "Đan Sa được công nhận tương đương ở Mỹ là điều khả thi nhất. Trung Quốc khó hơn vì họ có chuẩn riêng và không chịu nhả. Mục tiêu thực tế của đoàn VN có lẽ là đó: đẩy được công nhận chéo Mỹ-VN trong 12 tháng tới.",
+    "likes": 2156
+  },
+  {
+    "id": "c12",
+    "username": "anh tư",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T15:18:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  },
+  {
+    "id": "c13",
+    "username": "Lê Hà My",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:35:00+07:00",
+    "body": "Hài hoà chứng nhận an toàn AI là chuyện của chính phủ. Quan trọng với dân thường là: AI lừa đảo gọi điện vẫn gọi mỗi ngày. Geneva có quan tâm chuyện này không?",
+    "likes": 5234
+  },
+  {
+    "id": "c14",
+    "username": "Bùi Vinh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:52:00+07:00",
+    "body": "Mong VN đừng vội ký bất cứ điều gì. Mỹ Trung họp mỗi 6 tháng từ giờ - mình có thời gian quan sát. Cú trượt sai một chữ trong khung pháp lý quốc tế không sửa được trong 30 năm.",
+    "likes": 1789
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "c1",
+    "username": "Đoàn Văn Hải",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:08:00+07:00",
+    "body": "Lên Hà Giang để ngắm cao nguyên đá, không phải để ngủ chung 6 người một phòng. Năm sau tôi đi Y Tý.",
+    "likes": 2347
+  },
+  {
+    "id": "c2",
+    "username": "Phương Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:24:00+07:00",
+    "body": "ngủ ghép quận 7 còn có máy lạnh, có rèm dày, có khoá két. ngủ ghép Đồng Văn 12 độ trùm chăn 6 người tôi xin phép out",
+    "likes": 1893
+  },
+  {
+    "id": "c3",
+    "username": "Hoàng Thị Mây",
+    "location": "Hà Giang",
+    "timestamp": "2045-04-25T12:41:00+07:00",
+    "body": "Tôi là dân Đồng Văn. Mấy năm nay khách kéo lên đông quá. Đường mòn trekking thì rác đầy, ruộng bậc thang thì người ta đứng tạo dáng. Chúng tôi không ghét du khách, chúng tôi chỉ mong các bạn đi nhẹ nói khẽ. Năm ngoái có đoàn 18 người về để lại 23 chai nhựa trên đỉnh Mã Pí Lèng.",
+    "likes": 8924,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Trần An",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T13:02:00+07:00",
+        "body": "Cảm ơn chị. Em sẽ nhặt rác mỗi nơi em đi qua. Hứa.",
+        "likes": 2341
+      },
+      {
+        "id": "c3-r2",
+        "username": "Mạnh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T13:18:00+07:00",
+        "body": "Sở Du lịch nên đặt thùng rác mọi cung đường. Không thể trách hết du khách được.",
+        "likes": 567
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Phạm Quốc Việt",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:35:00+07:00",
+    "body": "Xếp hàng ở Bảo Tín mua vàng từ 4h, đi Hà Giang ngủ ghép từ 11h đêm. Đời người Việt 2045 là một chuỗi xếp hàng.",
+    "likes": 4521
+  },
+  {
+    "id": "c5",
+    "username": "thị dân",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:52:00+07:00",
+    "body": "220k/đêm. Trong khi Phú Quốc 6 triệu/đêm khách sạn 5 sao. Đất nước hai tốc độ.",
+    "likes": 1234
+  },
+  {
+    "id": "c6",
+    "username": "Hoàng Văn Toàn (homestay)",
+    "location": "Hà Giang",
+    "timestamp": "2045-04-25T14:08:00+07:00",
+    "body": "Tôi là chủ homestay được phỏng vấn. Tôi muốn nói thêm: ngày thường tôi không bao giờ làm ngủ ghép. Chỉ trong 4 ngày lễ. Vì khách không có chỗ thì biết đi đâu? Sở bảo phải đăng ký - tôi sẽ đăng ký. Nhưng các bác đừng nghĩ ngủ ghép Hà Giang giống ngủ ghép thành phố.",
+    "likes": 6783
+  },
+  {
+    "id": "c7",
+    "username": "Đệ nhất bình",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T14:25:00+07:00",
+    "body": "Đệ nhất Hải Phòng vào hóng. Năm sau lên Hà Giang chắc tôi mang theo cái lều cá nhân.",
+    "likes": 234
+  },
+  {
+    "id": "c8",
+    "username": "anh bốn",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T14:42:00+07:00",
+    "body": "trong nam mưa, ngoài bắc lạnh, miền tây thì kẹt phà cả ngày. lễ 30/4 năm nay tôi ở nhà ăn lẩu mắm.",
+    "likes": 3421
+  },
+  {
+    "id": "c9",
+    "username": "Lê Bích Thuỷ",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:58:00+07:00",
+    "body": "Nghe anh Park Hàn Quốc nói câu 'đi đâu cũng không thoát' - cười ra nước mắt. Du lịch Việt Nam giờ đã trở thành thương hiệu 'ngủ ghép.'",
+    "likes": 2156
+  },
+  {
+    "id": "c10",
+    "username": "Nguyễn Hùng",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T15:14:00+07:00",
+    "body": "Tỉnh nào cũng quá tải dịp lễ. Bộ Du lịch nên cho phép kéo dài kỳ nghỉ ra 2 tuần, mỗi vùng nghỉ một tuần khác nhau. Như Trung Quốc người ta giãn lịch lâu rồi.",
+    "likes": 1567
+  },
+  {
+    "id": "c11",
+    "username": "Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:32:00+07:00",
+    "body": "Tôi đặt phòng từ tháng 1. Ổn áp. Các bạn đặt sát giờ rồi than ngủ ghép, hơi vô lý.",
+    "likes": 892,
+    "replies": [
+      {
+        "id": "c11-r1",
+        "username": "Phương",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T15:55:00+07:00",
+        "body": "Tháng 1 chưa biết tháng 4 có rảnh không bạn ơi. Đời sống không ai book được trước 3 tháng.",
+        "likes": 2341
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "username": "Trí Bùi",
+    "location": "Khác",
+    "timestamp": "2045-04-25T15:48:00+07:00",
+    "body": "Đọc từ Tokyo. Bên này khách sạn capsule có từ 1979, văn hoá rồi. Việt Nam đang trên đường nội địa hoá khái niệm này. 20 năm sau sẽ thành chuyện thường.",
+    "likes": 723
+  },
+  {
+    "id": "c13",
+    "username": "Mẹ Bo",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:05:00+07:00",
+    "body": "Con tôi 19 tuổi đi với nhóm bạn. Tối qua nhắn về 'mẹ ơi con ngủ ghép với 5 anh chị lạ.' Tôi không ngủ được cả đêm. Sáng nay nhắn lại 'ổn không?' Nó bảo 'ổn mẹ, vui hơn ở khách sạn.' Tôi vừa lo vừa thấy nó đang lớn.",
+    "likes": 5234
+  },
+  {
+    "id": "c14",
+    "username": "Park Hàn",
+    "location": "Khác",
+    "timestamp": "2045-04-25T16:21:00+07:00",
+    "body": "Đúng",
+    "likes": 412
+  }
+]

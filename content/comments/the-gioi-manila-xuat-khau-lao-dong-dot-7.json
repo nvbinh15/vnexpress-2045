@@ -1,0 +1,160 @@
+[
+  {
+    "id": "c1",
+    "username": "Trần Văn Đức",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T12:12:00+07:00",
+    "body": "62.000 người trong tháng 5 thôi. Cộng dồn 7 đợt là gần nửa triệu lao động Filipino vào VN. Một thế hệ rưỡi nữa, con cháu họ sinh tại VN sẽ là một bộ phận không thể tách rời.",
+    "likes": 5234
+  },
+  {
+    "id": "c2",
+    "username": "Maricel D.C. (đã phỏng vấn)",
+    "location": "Khác",
+    "timestamp": "2045-04-25T12:28:00+07:00",
+    "body": "Tôi là Maricel trong bài. Tôi rất bất ngờ khi báo VN đăng ảnh phỏng vấn em. Cảm ơn anh phóng viên. Em sẽ cố gắng học tiếng Việt nhanh để đọc bình luận này. Lễ Phục Sinh năm sau em mong được đón ở nhà thờ Hải Phòng cùng chị họ.",
+    "likes": 18923,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Hải Phòng quê tôi",
+        "location": "Hải Phòng",
+        "timestamp": "2045-04-25T12:54:00+07:00",
+        "body": "Chào Maricel. Hải Phòng có nhà thờ Đức Bà ở phố Lương Khánh Thiện, đẹp lắm. Khu công nhân Đình Vũ có chợ cuối tuần bán đồ Filipino, em tìm là thấy. Chúc em thuận lợi.",
+        "likes": 6234
+      },
+      {
+        "id": "c2-r2",
+        "username": "Maria T.",
+        "location": "Hải Phòng",
+        "timestamp": "2045-04-25T13:11:00+07:00",
+        "body": "Em ơi chị làm caregiver Hải Phòng 3 năm rồi. Có nhóm Zalo dành cho người Filipino mới sang, em nhắn chị qua tin riêng nhé.",
+        "likes": 3421
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Nguyễn Mạnh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:45:00+07:00",
+    "body": "19.200 caregiver/đợt. Trong 5 năm tới chiếm đa số. Đến lượt mẹ tôi vào dưỡng lão sẽ là một cô gái Bicol pha sữa cho bà. Lạ một cái là tôi không thấy buồn. Có người chăm còn hơn không.",
+    "likes": 9234
+  },
+  {
+    "id": "c4",
+    "username": "Lê Hằng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:02:00+07:00",
+    "body": "Mẹ chồng tôi là người Bicol (đã đọc bài tâm sự nổi tiếng tuần trước). Bà làm caregiver tại VN từ 2038. Bây giờ thành mẹ chồng VN. Đời người không bao giờ đoán được.",
+    "likes": 14567,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Đan Hà",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T13:25:00+07:00",
+        "body": "Bài tâm sự đó tuần trước tôi đọc khóc. Chị có phải là tác giả không?",
+        "likes": 1892
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Phạm Bảo",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T13:18:00+07:00",
+    "body": "DOLE quan chức nói thẳng: 8-10 năm nữa caregiver sang VN là nhóm lớn nhất. Đó là tiên đoán dân số học, không phải chiến lược lao động. Cú trượt 2037 trượt suốt 30 năm.",
+    "likes": 4521
+  },
+  {
+    "id": "c6",
+    "username": "Hoàng Đông",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:35:00+07:00",
+    "body": "Bộ LĐ-TBXH có chuẩn bị tốt đào tạo trước xuất cảnh không? Năm ngoái có vụ 23 lao động Bangladesh bị chủ giữ hộ chiếu ở Bắc Ninh. Sau đó báo chí ngừng đưa tin. Chưa biết xử lý sao.",
+    "likes": 6789
+  },
+  {
+    "id": "c7",
+    "username": "Marlon R.",
+    "location": "Khác",
+    "timestamp": "2045-04-25T13:52:00+07:00",
+    "body": "Hello, I am Marlon in the article. Thank you for the report. Vietnam is my third country. The food is good. I will be a good caregiver. Salamat po.",
+    "likes": 12892,
+    "replies": [
+      {
+        "id": "c7-r1",
+        "username": "Hà Trang",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T14:18:00+07:00",
+        "body": "Welcome to Vietnam, anh Marlon. Hà Nội đang vào hè, nóng, nhưng phở thì ăn được quanh năm. Chúc anh khoẻ.",
+        "likes": 4521
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "username": "Cô Loan",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:08:00+07:00",
+    "body": "Tôi 64 tuổi. Tôi đang chuẩn bị tâm lý là 5 năm nữa người chăm tôi không nói tiếng Việt như tiếng mẹ đẻ. Học thêm vài câu Tagalog cũng nên. 'Salamat' và 'pasensya' - hai từ cơ bản.",
+    "likes": 8234
+  },
+  {
+    "id": "c9",
+    "username": "Đệ nhất",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T14:25:00+07:00",
+    "body": "Đệ nhất bình luận đất Cảng. Đình Vũ chào mừng anh chị em.",
+    "likes": 234
+  },
+  {
+    "id": "c10",
+    "username": "anh ba bến nhà",
+    "location": "Long An",
+    "timestamp": "2045-04-25T14:42:00+07:00",
+    "body": "trước 2034 mình xuất khẩu lao động đi nhật, hàn, đài. sau 2037 mình nhập khẩu lao động về. đời người Việt 30 năm thay vai.",
+    "likes": 5672
+  },
+  {
+    "id": "c11",
+    "username": "Trí Lê",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:58:00+07:00",
+    "body": "62k người mới đến cộng đồng cũ ~470k. Sách giáo khoa lớp 5 cần thêm bài 'cộng đồng người Filipino tại Việt Nam'. Bộ GD có dự định không?",
+    "likes": 2341
+  },
+  {
+    "id": "c12",
+    "username": "Lê Vân",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:15:00+07:00",
+    "body": "Đại sứ quán phát biểu 'phối hợp đồng bộ' - cụm từ này tôi đã đọc trong 200 bản tin năm 2025. 20 năm sau vẫn cụm từ đó. Tiếng Việt ngoại giao là một loài hoa khô.",
+    "likes": 3892
+  },
+  {
+    "id": "c13",
+    "username": "Mẹ Hai con",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T15:32:00+07:00",
+    "body": "Hàng xóm tôi là gia đình Bangladesh, sang VN từ 2039. Con họ chơi với con tôi. Bữa cơm nhà họ tôi đã ăn nhiều lần. Thay vì đợi DOLE phê duyệt thêm đợt nào, có lẽ Bộ Văn hoá nên làm chương trình 'bữa cơm hàng xóm' cho dân quen.",
+    "likes": 6234
+  },
+  {
+    "id": "c14",
+    "username": "Vũ Linh",
+    "location": "Khác",
+    "timestamp": "2045-04-25T15:48:00+07:00",
+    "body": "Đọc từ Manila. Em là người Việt sang đây làm IT. Nhìn dòng người ở sân bay Ninoy Aquino sáng nay tôi xúc động. Họ đi vì gia đình. Mình ở Manila làm IT cũng vì gia đình. Cùng một câu chuyện hai chiều.",
+    "likes": 4521
+  },
+  {
+    "id": "c15",
+    "username": "Phong",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:05:00+07:00",
+    "body": "Đúng",
+    "likes": 234
+  }
+]

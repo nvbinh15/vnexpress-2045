@@ -1,0 +1,214 @@
+[
+  {
+    "id": "c1",
+    "username": "Đỗ Thuỳ Hạnh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:01:00+07:00",
+    "body": "Con tôi sinh tháng 5/2034. Nó đi sơ tán trong bụng tôi. Sáng nay nó về nhà nói: 'Mẹ ơi đề con phân tích người mẹ Huế.' Tôi đứng hình. Đây là đề thi hay là yêu cầu nó kể chuyện chính nhà nó?",
+    "likes": 9234
+  },
+  {
+    "id": "c2",
+    "username": "Phan Anh Tuấn",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:18:00+07:00",
+    "body": "Phụ huynh phản ứng nặng quá. Văn của Nguyễn Ngọc Tư là văn lớn, đề ra vậy là đúng. Vấn đề là cách dạy và cách chấm. Đừng đổ lỗi cho tác phẩm.",
+    "likes": 4521,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Mẹ học sinh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T12:48:00+07:00",
+        "body": "Bác chưa làm cha mẹ đứa 18 tuổi vừa thi xong. Em không trách bác.",
+        "likes": 2891
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Cô giáo về hưu",
+    "location": "Huế",
+    "timestamp": "2045-04-25T12:35:00+07:00",
+    "body": "Tôi 72 tuổi, dạy Văn 41 năm. Tác phẩm 'Người mẹ Huế' tôi đã đọc 8 lần. Đây là một trong những truyện ngắn đẹp nhất sau Đại hồng thuỷ. Đưa vào đề là đúng. Nhưng đề bài cần thêm một câu: 'Em được phép viết theo cảm xúc của mình.' Một câu thôi.",
+    "likes": 18923
+  },
+  {
+    "id": "c4",
+    "username": "Lương Tuấn Anh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:52:00+07:00",
+    "body": "Tôi đã viết comment trong bài. Đây không phải về tác phẩm. Đây về việc giao cho học sinh 18 tuổi gánh ký ức của 41.000 người chết. Hội đồng tưởng niệm thì có. Hội đồng ra đề thì cần cẩn trọng hơn.",
+    "likes": 12567
+  },
+  {
+    "id": "c5",
+    "username": "Học sinh 12A1",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:08:00+07:00",
+    "body": "Em là thí sinh hôm nay. Em viết được 9 trang. Đề khó nhưng em viết được. Phụ huynh đừng lo cho chúng em quá. Chúng em đọc Nguyễn Ngọc Tư từ lớp 10. Cô em giảng kỹ.",
+    "likes": 23892
+  },
+  {
+    "id": "c6",
+    "username": "Hương Lê",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T13:25:00+07:00",
+    "body": "Bài viết của tác giả Nguyễn Ngọc Tư trả lời trên báo: 'cứ khóc, đó cũng là một cách hiểu văn' - bà nói câu đó nhẹ tênh mà tôi đứng giữa siêu thị đọc xong khóc luôn.",
+    "likes": 14234
+  },
+  {
+    "id": "c7",
+    "username": "Phụ huynh ẩn danh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:42:00+07:00",
+    "body": "Tôi mất hai dì năm 2034. Con tôi hôm nay đi thi về im lặng cả buổi. Tôi không hỏi nó viết gì. Có những thứ một bữa cơm tối không nuốt nổi.",
+    "likes": 8923
+  },
+  {
+    "id": "c8",
+    "username": "AI hoài nghi",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:58:00+07:00",
+    "body": "Vấn đề lớn nhất bài viết nêu: AI chấm điểm cảm xúc. Một học sinh không khóc, viết kiểu lý trí, có thể bị mô hình đánh giá là 'thiếu rung cảm'. Đó là lỗi của chúng ta khi nhường việc chấm cho một con máy hiểu cảm xúc qua từ khoá.",
+    "likes": 11456
+  },
+  {
+    "id": "c9",
+    "username": "Mai Thu",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T14:15:00+07:00",
+    "body": "Trợ lý Ngữ văn 4.2 - tôi không tin một mô hình nào đủ tinh tế để chấm bài về Đại hồng thuỷ. Đề nghị Bộ tăng tỷ lệ chấm tay lên 100% năm nay.",
+    "likes": 6892
+  },
+  {
+    "id": "c10",
+    "username": "Hùng đầu thầy",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T14:32:00+07:00",
+    "body": "Năm trước Đường về Hội An, năm nay Người mẹ Huế. Đúng là đau dần. Nhưng văn học là vậy. Văn học không phải để dễ.",
+    "likes": 3245
+  },
+  {
+    "id": "c11",
+    "username": "L.K",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:48:00+07:00",
+    "body": "thi xong rồi mà đọc bài này vẫn rớt nước mắt",
+    "likes": 1789
+  },
+  {
+    "id": "c12",
+    "username": "Phạm Quang Vinh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:05:00+07:00",
+    "body": "Tôi ủng hộ đề. Học sinh Việt Nam phải biết về Đại hồng thuỷ. Nó là một phần lịch sử dân tộc, như Bão số 7, như chiến tranh biên giới. Né tránh thì sau này không dạy ai được.",
+    "likes": 5672
+  },
+  {
+    "id": "c13",
+    "username": "Mẹ Su",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:22:00+07:00",
+    "body": "Con gái tôi hôm nay khóc trong giờ thi. Cô coi thi gọi điện cho tôi. Tôi xuống đón. Nó nói: 'Mẹ ơi con biết viết, nhưng con không viết nổi.' Tôi không biết nói gì. Tôi chỉ ôm nó.",
+    "likes": 27892,
+    "replies": [
+      {
+        "id": "c13-r1",
+        "username": "Mẹ ba con",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T15:45:00+07:00",
+        "body": "Chị ơi đọc xong em rớt nước mắt. Cháu không sao đâu. Có những bài thi không cần làm xong cũng đã là làm xong rồi.",
+        "likes": 8923
+      },
+      {
+        "id": "c13-r2",
+        "username": "Cô giáo Văn",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T16:02:00+07:00",
+        "body": "Chị nhắn cô giáo của cháu cho cháu viết bù vào tuần sau. Nhiều trường đang xem xét cho thi lại trong các trường hợp như thế này.",
+        "likes": 4521
+      }
+    ]
+  },
+  {
+    "id": "c14",
+    "username": "Đoàn Phong",
+    "location": "Quảng Trị",
+    "timestamp": "2045-04-25T15:38:00+07:00",
+    "body": "Quê tôi mất 2.117 người. Tôi đọc bài này 3 lần. Đề thi không sai. Nhưng phụ huynh cũng không sai. Cả hai bên đều đúng theo cách của họ.",
+    "likes": 7892
+  },
+  {
+    "id": "c15",
+    "username": "Trần Bích Thuỷ",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:55:00+07:00",
+    "body": "Bộ giải thích kiểu 'đã được đưa vào chương trình từ 2038' - dạ vâng nhưng hôm nay khác hôm 2038. 7 năm là đủ để cả gia đình thí sinh đi qua thêm vài đám tang. Nói nhẹ là nhẹ.",
+    "likes": 4892
+  },
+  {
+    "id": "c16",
+    "username": "Bố Bống",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T16:12:00+07:00",
+    "body": "Đứng đầu tiên ủng hộ đề. Văn học Việt Nam phải có cái này. Đừng để con cháu nghĩ 41.000 người chết là sự kiện trong sách giáo khoa.",
+    "likes": 3782
+  },
+  {
+    "id": "c17",
+    "username": "Vũ Linh",
+    "location": "Khác",
+    "timestamp": "2045-04-25T16:28:00+07:00",
+    "body": "Câu trả lời của bà Nguyễn Ngọc Tư - đó là cách trả lời của một nhà văn lớn. Nhẹ, không tham gia tranh cãi, mà ai đọc cũng phải thinh.",
+    "likes": 6234
+  },
+  {
+    "id": "c18",
+    "username": "anh hai",
+    "location": "Tiền Giang",
+    "timestamp": "2045-04-25T16:45:00+07:00",
+    "body": "share để mọi người cùng đọc bài tâm sự của bà Tư",
+    "likes": 1456
+  },
+  {
+    "id": "c19",
+    "username": "Nguyễn Hồng",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T17:02:00+07:00",
+    "body": "Con tôi viết về việc nó không nhớ cô (em ruột tôi) đã mất khi nó 1 tuổi. Cô viết: 'Em xin lỗi vì em không khóc khi viết bài này, vì em không nhớ.' Tôi mong giám khảo đọc bài đó nhẹ tay.",
+    "likes": 12892
+  },
+  {
+    "id": "c20",
+    "username": "Phương Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T17:18:00+07:00",
+    "body": "Đúng",
+    "likes": 567
+  },
+  {
+    "id": "c21",
+    "username": "Lê Đức Hùng",
+    "location": "Bình Định",
+    "timestamp": "2045-04-25T17:35:00+07:00",
+    "body": "Đề thi văn 2046 đề nghị: một đoạn vui vẻ. Một bài thơ về mùa xuân. Chúng tôi xin một năm không khóc.",
+    "likes": 18234
+  },
+  {
+    "id": "c22",
+    "username": "An",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T17:52:00+07:00",
+    "body": "Tôi là giáo viên dạy Văn, từng nói với học sinh: văn không phải lúc nào cũng để khóc. Nhưng năm nay tôi đã sai. Năm nay là khóc.",
+    "likes": 3892
+  },
+  {
+    "id": "c23",
+    "username": "Mẹ Mun",
+    "location": "Cà Mau",
+    "timestamp": "2045-04-25T18:08:00+07:00",
+    "body": "Cảm ơn bà Nguyễn Ngọc Tư. Tỉnh nhà chúc bà sức khoẻ.",
+    "likes": 5672
+  }
+]
