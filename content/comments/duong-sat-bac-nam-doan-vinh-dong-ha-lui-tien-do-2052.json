@@ -1,0 +1,171 @@
+[
+  {
+    "id": "c1",
+    "username": "Trần Hoàng Long",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:48:00+07:00",
+    "body": "Lần thứ năm. Đến lần thứ mười, mời các bác lên báo điện tử thông báo lùi nốt sang 2070.",
+    "likes": 18421,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Lê Quang Minh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T08:12:00+07:00",
+        "body": "Đến 2070 thì có taxi bay khắp nơi rồi, ai còn cần tàu nữa.",
+        "likes": 7124
+      },
+      {
+        "id": "c1-r2",
+        "username": "Phạm Văn Hùng",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T08:34:00+07:00",
+        "body": "Bác lạc quan quá. 2070 chỉ có người giàu mới có taxi bay. Còn tôi vẫn bắt xe khách giường nằm.",
+        "likes": 4892
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Đỗ Mạnh Cường",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:55:00+07:00",
+    "body": "Cát Linh – Hà Đông chậm 10 năm. Metro số 1 TP.HCM chậm 10 năm. Long Thành chậm 6 năm. Đường sắt Bắc Nam chậm 17 năm tính đến giờ và còn nữa. Đây là một loại di sản văn hoá phi vật thể của ngành giao thông Việt Nam.",
+    "likes": 24817,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Nguyễn Bích Hằng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T08:21:00+07:00",
+        "body": "Đề nghị Bộ VHTT&DL công nhận di sản này.",
+        "likes": 9314
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Phan Thị Mai",
+    "location": "Quảng Trị",
+    "timestamp": "2045-04-25T08:02:00+07:00",
+    "body": "Năm 2038 cán bộ về thu hồi đất nhà tôi để làm đường dẫn vào ga Đông Hà. Đền bù 4,2 triệu/m². Bây giờ đất xung quanh đó được rao 28 triệu/m² và ga vẫn chưa có. Tôi tính kiện nhưng sợ kiện 7 năm rồi đến lúc xét xử thì ga cũng xong rồi. Hoặc tôi xong trước.",
+    "likes": 11542,
+    "replies": []
+  },
+  {
+    "id": "c4",
+    "username": "Vũ Quang Thái",
+    "location": "Vinh",
+    "timestamp": "2045-04-25T08:09:00+07:00",
+    "body": "Đoạn Hà Nội – Vinh từ 2042 đến giờ tôi đi 280 lượt. Tàu chạy đẹp, đúng giờ, sạch. Cám ơn ngành đường sắt. Phải công bằng — phần đã xong là tốt thật.",
+    "likes": 6418,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Lê Tuyết Mai",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T08:42:00+07:00",
+        "body": "Bác đi đoạn dễ. Đoạn khó mới khó. Khen nguyên tuyến hơi sớm.",
+        "likes": 3271
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "ngocha2017",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T08:14:00+07:00",
+    "body": "phần phát sinh được bù đắp từ phát hành trái phiếu chính phủ. dịch ra: con cháu chúng ta sẽ trả.",
+    "likes": 13287,
+    "replies": []
+  },
+  {
+    "id": "c6",
+    "username": "Bùi Trung Đức",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T08:21:00+07:00",
+    "body": "Đoạn Sài Gòn – Nha Trang chạy ổn từ cuối 2044. Tôi đi tuần một lần. Trừ một lần kẹt ở Phan Rang vì cát phủ đường ray, còn lại ngon lành. Đừng vơ đũa cả nắm.",
+    "likes": 4127,
+    "replies": []
+  },
+  {
+    "id": "c7",
+    "username": "Hoàng Thị Hạnh",
+    "location": "Đông Hà",
+    "timestamp": "2045-04-25T08:28:00+07:00",
+    "body": "Quán cơm chị Hà trong bài là quán tôi hay ăn. Chị nói đúng. Cả thị xã quen rồi.",
+    "likes": 5894,
+    "replies": []
+  },
+  {
+    "id": "c8",
+    "username": "lt_nguyen",
+    "location": "Khác",
+    "timestamp": "2045-04-25T08:35:00+07:00",
+    "body": "đứng từ tokyo. shinkansen 1964. việt nam 2052 (hy vọng). chúng ta đi sau 88 năm.",
+    "likes": 8217,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "Nguyễn Mai Chi",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T09:04:00+07:00",
+        "body": "Bác so sánh đau lòng. Nhưng so với Indonesia bắt đầu cùng thời điểm với mình, mình vẫn đi nhanh hơn.",
+        "likes": 1923
+      },
+      {
+        "id": "c8-r2",
+        "username": "Đặng Thanh Tú",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T09:15:00+07:00",
+        "body": "Indonesia có Whoosh từ 2023 rồi bác.",
+        "likes": 2547
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "Pedro Santiago",
+    "location": "Quảng Trị",
+    "timestamp": "2045-04-25T08:43:00+07:00",
+    "body": "Tôi là người được phỏng vấn trong bài. Cảm ơn báo. Hợp đồng tôi đến 2049, nếu lùi đến 2052 thì có thể tôi sẽ ở lại Việt Nam thêm 3 năm. Vợ tôi ở Manila chắc không vui.",
+    "likes": 9418,
+    "replies": [
+      {
+        "id": "c9-r1",
+        "username": "Trần Thanh Hằng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T09:21:00+07:00",
+        "body": "Cảm ơn anh và các đồng nghiệp đã đóng góp cho hạ tầng Việt Nam. Mong gia đình anh sớm đoàn tụ.",
+        "likes": 7124
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "username": "Lê Văn Toản",
+    "location": "Nghệ An",
+    "timestamp": "2045-04-25T08:50:00+07:00",
+    "body": "Nhìn 95,2 tỷ USD mà choáng. Quy ra vàng SJC hôm nay là 540 tấn. Cả Ngân hàng Nhà nước cộng với Vingroup chắc không đủ.",
+    "likes": 3127,
+    "replies": []
+  },
+  {
+    "id": "c11",
+    "username": "minh.le.45",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T08:57:00+07:00",
+    "body": "đứng",
+    "likes": 184,
+    "replies": []
+  },
+  {
+    "id": "c12",
+    "username": "Tô Thị Lan",
+    "location": "Hà Tĩnh",
+    "timestamp": "2045-04-25T09:04:00+07:00",
+    "body": "Chồng tôi mất 2034 trong cơn bão. Đoạn miền Trung này lùi tiến độ vì thuỷ văn sau 2034. Mỗi lần đọc tin lùi là tôi nhớ lại. Mình vừa thua thiên nhiên, vừa thua thời gian.",
+    "likes": 14582,
+    "replies": []
+  }
+]

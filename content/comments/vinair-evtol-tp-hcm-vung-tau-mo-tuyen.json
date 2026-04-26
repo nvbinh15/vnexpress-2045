@@ -1,0 +1,163 @@
+[
+  {
+    "id": "c1",
+    "username": "Nguyễn Thanh Tùng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:48:00+07:00",
+    "body": "3,8 triệu/chiều. Chúc mừng 0,3% dân số Việt Nam có phương tiện đi lại mới.",
+    "likes": 14782,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Lê Văn Hưng",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T12:14:00+07:00",
+        "body": "0,3% mà xài cho 99% dân số nghe ồn. Hay thật.",
+        "likes": 8421
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Phan Thị Mai Anh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:54:00+07:00",
+    "body": "Tôi là người được phỏng vấn trong bài. Cảm ơn báo. Hôm qua phường mới nhận thêm 240 đơn nữa. Tổng đã hơn 1000.",
+    "likes": 6217,
+    "replies": []
+  },
+  {
+    "id": "c3",
+    "username": "tran_dang_khoi",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:02:00+07:00",
+    "body": "đợi tuyến hà nội - hạ long. cuối 46 nhanh đi please",
+    "likes": 423,
+    "replies": []
+  },
+  {
+    "id": "c4",
+    "username": "Đoàn Minh Quân",
+    "location": "Vũng Tàu",
+    "timestamp": "2045-04-25T12:09:00+07:00",
+    "body": "Khách Sài Gòn xuống nghỉ cuối tuần, giờ xuống thêm cả ngày trong tuần. Nhà hàng tôi đặt phòng kín tới tháng 6. Cảm ơn VinAir.",
+    "likes": 2891,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Nguyễn Bích Phương",
+        "location": "Vũng Tàu",
+        "timestamp": "2045-04-25T12:31:00+07:00",
+        "body": "Anh hồ hởi quá đấy. Cứ chờ giá thuê tăng theo nhé.",
+        "likes": 1456
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Bùi Đức Huy",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:16:00+07:00",
+    "body": "Anh Wilson trong bài nói câu cuối nhói lòng. 'Đời tôi chắc không bao giờ leo lên được.'",
+    "likes": 9714,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Lê Thị Thu",
+        "location": "Cần Thơ",
+        "timestamp": "2045-04-25T12:48:00+07:00",
+        "body": "Đọc xong tôi cũng thở dài. Nhiều người Việt mình cũng vậy thôi anh ạ.",
+        "likes": 4321
+      },
+      {
+        "id": "c5-r2",
+        "username": "Pham Quoc Anh",
+        "location": "Khác",
+        "timestamp": "2045-04-25T13:02:00+07:00",
+        "body": "Mình ở Singapore, đi taxi bay từ 2041. Thật ra ngồi cũng bình thường, không khác máy bay nhỏ. Nhưng giá thì đúng là lọc khách rất kỹ.",
+        "likes": 1893
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "ngocha2017",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:23:00+07:00",
+    "body": "23 phút bay nhưng phải ra Nhà Bè trước 1 tiếng, làm thủ tục an ninh 30 phút, từ Bãi Sau về trung tâm Vũng Tàu thêm 25 phút. Tổng đầu cuối cũng 2,5 tiếng. Đi xe khách giường nằm cũng vậy mà rẻ hơn 38 lần.",
+    "likes": 11247,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Hoàng Tuấn Linh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T12:51:00+07:00",
+        "body": "Đại gia không đếm thời gian như mình đâu bạn.",
+        "likes": 5128
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Đặng Quang Vinh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:30:00+07:00",
+    "body": "Chứng nhận Đan Sa cấp 2 là cấp gì? Có ai biết phân biệt cấp 1, 2, 3 không?",
+    "likes": 1672,
+    "replies": [
+      {
+        "id": "c7-r1",
+        "username": "Vũ Thanh Hà",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T13:08:00+07:00",
+        "body": "Cấp 1 là 'AI hỗ trợ ra quyết định, người vận hành chịu trách nhiệm'. Cấp 2 là 'AI tự ra quyết định, người giám sát có quyền can thiệp'. Cấp 3 là 'AI tự chủ' — chưa cấp nào ở VN được phê duyệt.",
+        "likes": 3456
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "username": "minh_le",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T12:38:00+07:00",
+    "body": "đứng",
+    "likes": 218,
+    "replies": []
+  },
+  {
+    "id": "c9",
+    "username": "Trần Văn Lộc",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T12:45:00+07:00",
+    "body": "Hành lang bay đi qua phía trên Phú Mỹ Hưng, đoạn nào cũng giá 80-150 triệu/m². Chủ đầu tư mấy chung cư đó chắc đang gọi điện cho UBND quận.",
+    "likes": 6731,
+    "replies": []
+  },
+  {
+    "id": "c10",
+    "username": "Bùi Thị Lan",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T12:53:00+07:00",
+    "body": "Quê tôi miền Tây 2,5 tiếng đi xe đến Sài Gòn, không có taxi bay nào, đường còn ngập. Đọc tin trên cùng cảm thấy như đang đọc về nước khác.",
+    "likes": 5247,
+    "replies": []
+  },
+  {
+    "id": "c11",
+    "username": "Lê Khánh Hoà",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:01:00+07:00",
+    "body": "Đến lúc nào VN có taxi bay phục vụ y tế khẩn cấp như Singapore, Hàn? Đó mới là điều cần. Còn taxi cho đại gia đi nghỉ cuối tuần thì dẹp.",
+    "likes": 8934,
+    "replies": []
+  },
+  {
+    "id": "c12",
+    "username": "Hoàng Việt",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T13:09:00+07:00",
+    "body": "Đợi 18 năm để có taxi bay, vẫn chưa có metro số 2 ở Đà Nẵng. Ưu tiên thật.",
+    "likes": 4527,
+    "replies": []
+  }
+]

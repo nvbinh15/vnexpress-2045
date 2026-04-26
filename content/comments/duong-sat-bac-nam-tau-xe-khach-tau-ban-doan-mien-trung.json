@@ -1,0 +1,155 @@
+[
+  {
+    "id": "c1",
+    "username": "Phạm Thu Trang",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:18:00+07:00",
+    "body": "Tôi là người trong bài. Cảm ơn chị Linh đã đi cùng cả hành trình. Hy vọng đến lúc cháu tôi học đại học thì chỉ cần một vé một chuyến.",
+    "likes": 8214,
+    "replies": []
+  },
+  {
+    "id": "c2",
+    "username": "Lê Văn Khánh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:24:00+07:00",
+    "body": "Câu cuối của bà Hồng làm tôi rưng rưng. 'Đến lúc tuyến thông, có thể tôi cũng hết đi lại. Nhưng cháu tôi đi được, là tôi vui.'",
+    "likes": 17428,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Trần Thị Bích",
+        "location": "Bến Tre",
+        "timestamp": "2045-04-25T09:51:00+07:00",
+        "body": "Đọc xong tôi cũng khóc. Dân miền Tây mình hiền lành như vậy đó.",
+        "likes": 5827
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Đỗ Quang Huy",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:31:00+07:00",
+    "body": "Tôi đi vé liên thông 6 lần năm 2044. Xác nhận: ngủ trên xe khách giường nằm vẫn ngon hơn ngủ trên ghế hạng phổ thông tàu cao tốc. Cảm giác lạ.",
+    "likes": 4287,
+    "replies": []
+  },
+  {
+    "id": "c4",
+    "username": "Mary-Ann de Leon",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:38:00+07:00",
+    "body": "Tôi cảm ơn chị Linh đã viết câu này về giấy tạm trú. Đây là một sự thật mà ít báo dám viết. Cộng đồng Hữu Nghị đọc bài này sẽ thấy được lắng nghe.",
+    "likes": 11248,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Nguyễn Hoàng Linh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T10:02:00+07:00",
+        "body": "Cảm ơn chị Mary-Ann. Mong cộng đồng người Việt đón nhận anh chị tốt hơn. Mình mang ơn các anh chị nhiều lắm.",
+        "likes": 6841
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "ngocha2017",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:45:00+07:00",
+    "body": "1,2 triệu chuyến/năm dùng vé liên thông. Một thị trường đẻ ra từ sự chậm trễ. Vẫn nuôi được kha khá doanh nghiệp xe khách. Mỗi đám mây có một viền bạc.",
+    "likes": 5128,
+    "replies": []
+  },
+  {
+    "id": "c6",
+    "username": "Trần Đức Minh",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T09:52:00+07:00",
+    "body": "Đọc xong nhớ thời tàu Thống Nhất hồi tôi học cấp 3. 32 tiếng Hà Nội – Sài Gòn, ăn cơm hộp trên tàu, mở cửa sổ lấy gió. Bao giờ con cháu mình cũng có cảm giác đó nhỉ?",
+    "likes": 7314,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Lương Anh Tuấn",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T10:08:00+07:00",
+        "body": "Cảm giác đó còn nguyên ở đoạn xe khách Đông Hà – Đà Nẵng đấy bác. Mở cửa sổ, gió biển vào, ngủ một giấc.",
+        "likes": 3672
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Bùi Thị Lan",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T09:59:00+07:00",
+    "body": "Tôi miền Tây ra Hà Nội thăm con đại học. Đi vé liên thông một chiều, máy bay một chiều. Tổng vẫn dưới 5 triệu. Cảm ơn VNR có cách nào đó cho dân không khá giả vẫn đi được.",
+    "likes": 4827,
+    "replies": []
+  },
+  {
+    "id": "c8",
+    "username": "Vũ Đình Phong",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:06:00+07:00",
+    "body": "Đoạn xe khách Đông Hà – Nha Trang đi qua đèo Hải Vân. Cảnh đẹp như tranh. Hành khách bay mất đoạn này là mất một phần Việt Nam.",
+    "likes": 6214,
+    "replies": []
+  },
+  {
+    "id": "c9",
+    "username": "kien_n",
+    "location": "Khác",
+    "timestamp": "2045-04-25T10:13:00+07:00",
+    "body": "đứng từ melbourne. tôi xa nhà 22 năm. đọc bài này như một bài địa lý cảm xúc. tàu - xe khách - tàu là việt nam mình",
+    "likes": 5418,
+    "replies": []
+  },
+  {
+    "id": "c10",
+    "username": "Nguyễn Thanh Tùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:20:00+07:00",
+    "body": "Bốn phương tiện, bảy lần xếp hàng, 15 tiếng, 2,18 triệu đồng. Đọc xong tôi đặt vé bay. Cảm ơn báo đã viết, nhưng đi lại có một lần.",
+    "likes": 9847,
+    "replies": [
+      {
+        "id": "c10-r1",
+        "username": "Hoàng Mai",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T10:38:00+07:00",
+        "body": "Đó là cách bài viết tránh được sự lãng mạn hoá. Có nhiều người không có lựa chọn đặt vé bay đâu bác.",
+        "likes": 4172
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "username": "Lê Quang Tuấn",
+    "location": "Vinh",
+    "timestamp": "2045-04-25T10:27:00+07:00",
+    "body": "Tôi làm hướng dẫn viên đoạn xe khách Đông Hà – Đà Nẵng. Mỗi tháng đưa khoảng 600 lượt khách. Khi tuyến cao tốc thông, tôi sẽ thất nghiệp. Nhưng tôi mong nó thông sớm hơn.",
+    "likes": 8912,
+    "replies": []
+  },
+  {
+    "id": "c12",
+    "username": "tu.phamn",
+    "location": "Đồng Nai",
+    "timestamp": "2045-04-25T10:34:00+07:00",
+    "body": "đứng",
+    "likes": 142,
+    "replies": []
+  },
+  {
+    "id": "c13",
+    "username": "Đặng Phương Thảo",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:41:00+07:00",
+    "body": "Bà Hồng ơi, cháu hứa sẽ đi tàu khi tuyến thông. Cháu sẽ ngồi đoạn Sài Gòn – Hà Nội nguyên một chuyến và nghĩ về bà. Cảm ơn bà.",
+    "likes": 12471,
+    "replies": []
+  }
+]
