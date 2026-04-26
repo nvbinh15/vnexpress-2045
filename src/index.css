@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
+  background: #fff;
+  font-size: 14px;
+  line-height: 1.4;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: none; }
+a:hover { color: #a4123f; }
+
+#root { min-height: 100vh; }
+
+/* VnExpress-style category nav: tight horizontal strip.
+   Slightly more compact on mobile so 6+ tabs are visible at once. */
+.vne-nav-link {
+  display: inline-flex;
+  align-items: center;
+  height: 40px;
+  padding: 0 7px;
+  font-size: 13px;
+  color: #222;
+  white-space: nowrap;
+  border-bottom: 2px solid transparent;
+}
+@media (min-width: 1024px) {
+  .vne-nav-link {
+    height: 44px;
+    padding: 0 8px;
+  }
+}
+.vne-nav-link:hover { color: #a4123f; }
+.vne-nav-link.active {
+  color: #a4123f;
+  font-weight: 700;
+  border-bottom-color: #a4123f;
+}
+.vne-nav-accent { color: #a4123f; font-weight: 700; }
+
+/* Section title bar (red top border + black bold heading) */
+.vne-section-title {
+  border-top: 3px solid #a4123f;
+  padding-top: 8px;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.vne-section-title h2 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #222;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+  margin: 0;
+}
+.vne-section-title .vne-section-subcats {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 12px;
+  font-size: 12px;
+  color: #4f4f4f;
+  text-transform: capitalize;
+  flex-wrap: wrap;
+}
+.vne-section-title .vne-section-subcats a {
+  color: #4f4f4f;
+}
+.vne-section-title .vne-section-subcats a:hover { color: #a4123f; }
+.vne-section-title > .vne-section-more {
+  font-size: 12px;
+  color: #777;
+  white-space: nowrap;
+}
+
+.vne-card a:hover h3,
+.vne-card a:hover h2,
+.vne-card a:hover .vne-card-title { color: #a4123f; }
+
+.vne-hero-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: #222;
+  margin: 0;
+}
+@media (min-width: 768px) {
+  .vne-hero-title {
+    font-size: 22px;
+    line-height: 30px;
+  }
+}
+.vne-card-title {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22px;
+  color: #222;
+  margin: 0;
+}
+.vne-card-title-sm {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  color: #222;
+  margin: 0;
+}
+.vne-card-title-xs {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 18px;
+  color: #222;
+  margin: 0;
+}
+.vne-desc {
+  font-size: 14px;
+  line-height: 19.6px;
+  color: #4f4f4f;
+  margin: 0;
+}
+
+.vne-comment {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  color: #a4123f;
+  font-size: 12px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+.vne-eyebrow {
+  display: inline-block;
+  color: #a4123f;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  margin-bottom: 4px;
+}
+
+.vne-meta-line {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #888;
+  font-size: 12px;
+  margin-top: 4px;
+}
+.vne-meta-line .sep {
+  width: 3px; height: 3px; border-radius: 50%;
+  background: #c4c4c4; display: inline-block;
+}
+
+.vne-scroll-x {
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.vne-scroll-x::-webkit-scrollbar { display: none; }
+
+/* Hero related-links strip — small thumb cards under main hero.
+   On mobile this becomes a horizontal touch-scroll strip (matching
+   m.vnexpress.net), then a 3-up grid at md and up. */
+.vne-related-strip {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #e5e5e5;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+.vne-related-strip::-webkit-scrollbar { display: none; }
+@media (min-width: 768px) {
+  .vne-related-strip {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    overflow: visible;
+  }
+}
+.vne-related-strip .related-item {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  width: 220px;
+}
+@media (min-width: 768px) {
+  .vne-related-strip .related-item {
+    width: auto;
+  }
+}
+.vne-related-strip .related-item .thumb {
+  width: 80px;
+  height: 50px;
+  flex-shrink: 0;
+  background: #e5e5e5;
+  overflow: hidden;
+}
+.vne-related-strip .related-item .thumb img {
+  width: 100%; height: 100%; object-fit: cover;
+}
+.vne-related-strip .related-item h4 {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 17px;
+  color: #222;
+  margin: 0;
+}
+.vne-related-strip .related-item a:hover h4 { color: #a4123f; }
+
+/* VnE-GO ribbon — stacks vertically on mobile so the badge sits above
+   a full-width touch-scroll strip; horizontal again at md and up. */
+.vne-go-ribbon {
+  background: linear-gradient(90deg, #ffe5ec 0%, #fff 60%);
+  border: 1px solid #f5d0d8;
+  border-left: 4px solid #a4123f;
+  padding: 10px 12px;
+  margin: 20px 0;
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  gap: 10px;
+}
+@media (min-width: 768px) {
+  .vne-go-ribbon {
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 16px;
+    margin: 24px 0;
+    gap: 16px;
+  }
+}
+.vne-go-ribbon .badge {
+  background: #a4123f;
+  color: #fff;
+  font-weight: 900;
+  letter-spacing: 1px;
+  padding: 5px 10px;
+  font-size: 13px;
+  flex-shrink: 0;
+  font-family: 'Arial Black', Arial, sans-serif;
+  align-self: flex-start;
+}
+@media (min-width: 768px) {
+  .vne-go-ribbon .badge { padding: 6px 10px; font-size: 14px; align-self: auto; }
+}
+.vne-go-ribbon .badge .small { font-weight: 700; font-size: 11px; opacity: 0.85; }
+.vne-go-ribbon .strip-list {
+  display: flex;
+  gap: 18px;
+  overflow-x: auto;
+  flex: 1;
+  scrollbar-width: none;
+}
+.vne-go-ribbon .strip-list::-webkit-scrollbar { display: none; }
+.vne-go-ribbon .strip-item {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-shrink: 0;
+  width: 200px;
+}
+@media (min-width: 768px) {
+  .vne-go-ribbon .strip-item { width: 230px; }
+}
+.vne-go-ribbon .strip-item .thumb {
+  width: 64px; height: 48px; background: #e5e5e5; flex-shrink: 0; overflow: hidden;
+  border-radius: 2px;
+}
+.vne-go-ribbon .strip-item .thumb img { width: 100%; height: 100%; object-fit: cover; }
+.vne-go-ribbon .strip-item h4 {
+  font-size: 13px; font-weight: 700; line-height: 17px; color: #222; margin: 0;
+}
+.vne-go-ribbon .strip-item a:hover h4 { color: #a4123f; }
+
+/* Sidebar variants */
+.vne-side-lead {
+  display: block;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 12px;
+}
+.vne-side-lead .thumb {
+  aspect-ratio: 16 / 9;
+  background: #e5e5e5;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+.vne-side-lead .thumb img { width: 100%; height: 100%; object-fit: cover; }
+
+.vne-side-row {
+  display: flex; gap: 10px;
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.vne-side-row:last-child { border-bottom: 0; }
+.vne-side-row .thumb {
+  width: 110px; height: 70px; flex-shrink: 0; background: #e5e5e5; overflow: hidden;
+}
+@media (min-width: 1024px) {
+  .vne-side-row .thumb { width: 90px; height: 56px; }
+}
+.vne-side-row .thumb img { width: 100%; height: 100%; object-fit: cover; }
+
+.vne-side-row-sm {
+  padding: 6px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.vne-side-row-sm:last-child { border-bottom: 0; }
+
+/* Sub-category chip row under section title */
+.vne-subcat-chip {
+  display: inline-block;
+  padding: 0 8px;
+  height: 22px;
+  line-height: 22px;
+  font-size: 12px;
+  background: #f4f4f4;
+  color: #4f4f4f;
+  border-radius: 2px;
+}
+.vne-subcat-chip:hover { background: #a4123f; color: #fff; }
