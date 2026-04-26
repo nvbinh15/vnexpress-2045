@@ -1,6 +1,7 @@
 // Batch hero-image generator for VnExpress 2045 satirical project.
-// Reads content/articles/*.mdx, generates a hero JPG for each via gpt-image-2,
-// tracks token spend with a hard cap, and is idempotent (skips files >200KB).
+// Reads content/articles/*.mdx, generates a hero AVIF for each via
+// gpt-image-2 (PNG bytes piped through sharp → AVIF q60), tracks token
+// spend with a hard cap, and is idempotent (skips files >40KB).
 //
 // Run: node --env-file=.env scripts/generate-images.mjs
 //      node --env-file=.env scripts/generate-images.mjs --retry
@@ -9,6 +10,9 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import matter from "gray-matter";
+import sharp from "sharp";
+
+const AVIF_QUALITY = 60;
 
 const ROOT = path.resolve(new URL("..", import.meta.url).pathname);
 const ARTICLES_DIR = path.join(ROOT, "content/articles");
@@ -68,12 +72,12 @@ const callImageApi = async (model, prompt) => {
 
 const generateOne = async (article, state) => {
   const slug = article.slug;
-  const outPath = path.join(IMAGES_DIR, `${slug}.jpg`);
+  const outPath = path.join(IMAGES_DIR, `${slug}.avif`);
 
-  // Idempotent skip
+  // Idempotent skip (AVIF heroes typically 40–200KB)
   try {
     const stat = await fs.stat(outPath);
-    if (stat.size > 200 * 1024 && !RETRY_ONLY) {
+    if (stat.size > 40 * 1024 && !RETRY_ONLY) {
       return { slug, status: "skip", reason: "exists", sizeKB: (stat.size / 1024).toFixed(0) };
     }
   } catch {
@@ -116,15 +120,21 @@ const generateOne = async (article, state) => {
   const item = result.json.data?.[0];
   if (!item) return { slug, status: "fail", error: "no image in response" };
 
+  let rawBytes;
   if (item.b64_json) {
-    await fs.writeFile(outPath, Buffer.from(item.b64_json, "base64"));
+    rawBytes = Buffer.from(item.b64_json, "base64");
   } else if (item.url) {
     const r = await fetch(item.url);
-    const buf = Buffer.from(await r.arrayBuffer());
-    await fs.writeFile(outPath, buf);
+    rawBytes = Buffer.from(await r.arrayBuffer());
   } else {
     return { slug, status: "fail", error: "unknown response shape" };
   }
+
+  // gpt-image-2 returns PNG by default — pipe through sharp to AVIF q60.
+  const avifBytes = await sharp(rawBytes)
+    .avif({ quality: AVIF_QUALITY, effort: 4 })
+    .toBuffer();
+  await fs.writeFile(outPath, avifBytes);
 
   const stat = await fs.stat(outPath);
   const tokens = result.json.usage?.output_tokens ?? 0;

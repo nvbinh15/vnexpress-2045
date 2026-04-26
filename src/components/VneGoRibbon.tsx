@@ -21,7 +21,7 @@ export default function VneGoRibbon({ items }: Props) {
         {items.slice(0, 6).map(it => (
           <Link key={it.slug} to={it.url} className="strip-item">
             <div className="thumb">
-              <img src={it.heroImage} alt="" />
+              <img src={it.heroImage} alt="" loading="lazy" decoding="async" />
             </div>
             <h4>{it.title}</h4>
           </Link>

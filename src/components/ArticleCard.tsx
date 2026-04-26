@@ -24,7 +24,7 @@ export default function ArticleCard({
       <article className="vne-card vne-side-lead">
         <Link to={article.url} className="block">
           <div className="thumb">
-            <img src={article.heroImage} alt="" />
+            <img src={article.heroImage} alt="" loading="lazy" decoding="async" />
           </div>
           <h3 className="vne-card-title">
             {article.title}
@@ -43,7 +43,7 @@ export default function ArticleCard({
     return (
       <article className="vne-card vne-side-row">
         <Link to={article.url} className="thumb">
-          <img src={article.heroImage} alt="" />
+          <img src={article.heroImage} alt="" loading="lazy" decoding="async" />
         </Link>
         <Link to={article.url} className="flex-1 min-w-0">
           <h3 className="vne-card-title-xs">
@@ -75,7 +75,7 @@ export default function ArticleCard({
       <article className="vne-card flex gap-3 py-2 border-b border-vne-line last:border-b-0">
         <Link to={article.url} className="shrink-0">
           <div className="w-[100px] h-[60px] bg-vne-line overflow-hidden">
-            <img src={article.heroImage} alt="" className="w-full h-full object-cover" />
+            <img src={article.heroImage} alt="" loading="lazy" decoding="async" className="w-full h-full object-cover" />
           </div>
         </Link>
         <Link to={article.url} className="flex-1 min-w-0">
@@ -93,7 +93,7 @@ export default function ArticleCard({
       <article className="vne-card">
         <Link to={article.url}>
           <div className="aspect-[16/9] bg-vne-line overflow-hidden">
-            <img src={article.heroImage} alt="" className="w-full h-full object-cover" />
+            <img src={article.heroImage} alt="" loading="lazy" decoding="async" className="w-full h-full object-cover" />
           </div>
           <div className="pt-2">
             {showSection && (
@@ -114,7 +114,7 @@ export default function ArticleCard({
     <article className="vne-card">
       <Link to={article.url}>
         <div className="aspect-[16/9] bg-vne-line overflow-hidden max-h-[300px]">
-          <img src={article.heroImage} alt="" className="w-full h-full object-cover" />
+          <img src={article.heroImage} alt="" loading="lazy" decoding="async" className="w-full h-full object-cover" />
         </div>
         <div className="pt-2">
           {showSection && (

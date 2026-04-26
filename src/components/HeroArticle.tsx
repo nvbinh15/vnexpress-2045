@@ -30,6 +30,8 @@ export default function HeroArticle({ article, related = [] }: Props) {
             alt={article.title}
             className="w-full h-full object-cover"
             loading="eager"
+            fetchPriority="high"
+            decoding="async"
           />
         </div>
         <div className="pt-3">
@@ -55,7 +57,7 @@ export default function HeroArticle({ article, related = [] }: Props) {
           {related.slice(0, 3).map(r => (
             <Link key={r.slug} to={r.url} className="related-item">
               <div className="thumb">
-                <img src={r.heroImage} alt="" />
+                <img src={r.heroImage} alt="" loading="lazy" decoding="async" />
               </div>
               <h4>
                 {r.title}
