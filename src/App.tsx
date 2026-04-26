@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { lazy, Suspense, useEffect, useState } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import TopBar from './components/TopBar'
 import Header from './components/Header'
@@ -7,7 +7,10 @@ import Footer from './components/Footer'
 import MobileMenu from './components/MobileMenu'
 import { CATEGORIES } from './lib/categories'
 import Home from './pages/Home'
-import Article from './pages/Article'
+
+// Article detail route + its comment data + body parser are deferred —
+// they only matter once a reader clicks into a story.
+const Article = lazy(() => import('./pages/Article'))
 
 function ScrollToTop() {
   const { pathname } = useLocation()
@@ -41,12 +44,14 @@ export default function App() {
         <TopBar />
         <Header onOpenMenu={() => setMenuOpen(true)} />
         <CategoryNav />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          {/* VnExpress URL convention: /:section/:slug.html */}
-          <Route path="/:section/:slug.html" element={<Article />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
+        <Suspense fallback={<div className="min-h-[60vh]" />}>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            {/* VnExpress URL convention: /:section/:slug.html */}
+            <Route path="/:section/:slug.html" element={<Article />} />
+            <Route path="*" element={<NotFound />} />
+          </Routes>
+        </Suspense>
         <Footer />
         <MobileMenu
           open={menuOpen}
