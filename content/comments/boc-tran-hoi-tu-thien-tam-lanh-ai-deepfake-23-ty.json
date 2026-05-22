@@ -1,0 +1,233 @@
+[
+  {
+    "id": "c1",
+    "username": "Vũ Tiến Hoà",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T06:54:00+07:00",
+    "body": "Tôi là người được phỏng vấn. Cảm ơn báo. 2 triệu của tôi nhỏ nhưng đại diện cho lòng tin lớn — và lòng tin lớn này họ đã lấy mất.",
+    "likes": 28471,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Trần Hồng Anh",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T07:21:00+07:00",
+        "body": "Anh ơi đừng vì vụ này mà mất lòng tin vào việc thiện. Vẫn còn nhiều quỹ thật ngoài kia.",
+        "likes": 12471
+      },
+      {
+        "id": "c1-r2",
+        "username": "Phan Tuấn Anh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T07:43:00+07:00",
+        "body": "Tôi không đồng ý. Phải mất lòng tin vào kênh nào không kiểm chứng được. Còn lòng tin vào việc thiện thì giữ.",
+        "likes": 14821
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Nguyễn Thị Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:02:00+07:00",
+    "body": "47 đứa trẻ không tồn tại. Đọc xong tôi sởn gai ốc. Mỗi đứa có tên, có hoàn cảnh, có giọng nói. Tôi từng khóc vì bé Phương. Hoá ra bé Phương không có thật.",
+    "likes": 31247,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Lê Quang Thái",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T07:38:00+07:00",
+        "body": "Cảm xúc của chị là thật. Đừng tự trách. Họ thiết kế để lấy cảm xúc của người tử tế.",
+        "likes": 9472
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Đỗ Mạnh Cường",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:09:00+07:00",
+    "body": "16 tỷ quy đổi vàng SJC gửi 8 biệt thự. Đây là cách dân Việt cất tiền lừa được. AI thay đổi gì, vàng vẫn là vàng.",
+    "likes": 18472,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Hoàng Văn Đức",
+        "location": "Hải Phòng",
+        "timestamp": "2045-04-25T07:45:00+07:00",
+        "body": "Vàng từ thời ông tôi đến nay vẫn là vàng. Đến năm 2080 lừa đảo vẫn quy ra chỉ vàng.",
+        "likes": 8421
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Phạm Quỳnh Như",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:16:00+07:00",
+    "body": "14 đại sứ là người nổi tiếng. Mong báo công bố danh tính khi đủ căn cứ. Người dân có quyền biết mình đã tin vào ai.",
+    "likes": 22471,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Trần Đăng Khoa",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T07:52:00+07:00",
+        "body": "Tôi là phóng viên viết bài. VnExpress sẽ công bố khi C03 cho phép. Tính đến giờ, một trong 14 người đã chủ động liên hệ chúng tôi xin được nói trước.",
+        "likes": 31284
+      },
+      {
+        "id": "c4-r2",
+        "username": "Nguyễn Hoài Linh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T08:11:00+07:00",
+        "body": "Mong báo cứng rắn với những đại sứ này. Họ đã nhận tiền từ nỗi đau của hàng trăm nghìn người.",
+        "likes": 9128
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Bùi Thanh Vân",
+    "location": "Quảng Trị",
+    "timestamp": "2045-04-25T07:24:00+07:00",
+    "body": "Tôi mồ côi bố mẹ thật sau Đại hồng thủy 2034. Đến bây giờ tôi 18 tuổi, học đại học, không nhận được đồng nào từ Hội Tâm Lành — cũng không nộp đơn vì không biết. Họ dùng câu chuyện của những người như tôi để lừa đảo. Tôi giận hơn nhiều người vì đây là cuộc đời tôi, không phải là kịch bản AI viết.",
+    "likes": 47128,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Lê Thị Hồng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T07:58:00+07:00",
+        "body": "Đọc xong tôi khóc. Cảm ơn em đã chia sẻ. Mong em vững vàng, đi tiếp.",
+        "likes": 18472
+      },
+      {
+        "id": "c5-r2",
+        "username": "Đặng Thị Hà",
+        "location": "Huế",
+        "timestamp": "2045-04-25T08:14:00+07:00",
+        "body": "Em ơi, cô là giáo viên trường THPT Đông Hà. Nếu em cần học bổng cô sẽ kết nối em với hội cựu học sinh. Liên hệ qua báo nhé.",
+        "likes": 12471
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "ngocha2017",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:31:00+07:00",
+    "body": "Pháp y AI tại Đà Nẵng cứu cả vụ này. Cảm ơn nhà phân tích. Sau Đan Sa 2041, ai cũng nói AI nội không đáng tin. Nhưng đôi khi chính AI nội phát hiện ra AI nội lừa đảo.",
+    "likes": 14821,
+    "replies": []
+  },
+  {
+    "id": "c7",
+    "username": "Lưu Quang Vinh",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T07:38:00+07:00",
+    "body": "Tôi là người báo tin cho VnExpress. Không xin tiền thưởng, không xin được nêu tên. Mong báo tiếp tục công việc tử tế. Đây không phải vụ đầu, cũng không phải vụ cuối.",
+    "likes": 21472,
+    "replies": []
+  },
+  {
+    "id": "c8",
+    "username": "Phan Thanh Nam",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:45:00+07:00",
+    "body": "Lưu Nguyên Khang phải tù chung thân. 23 tỷ đồng từ lòng tử tế của 187.000 người. Đây là tội ác chống lại nền tảng văn hoá.",
+    "likes": 28471,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "LS. Trần Đức Tuấn",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T08:21:00+07:00",
+        "body": "Theo BLHS hiện hành điều 174 sửa đổi 2041, mức án có thể đến chung thân khi giá trị tài sản chiếm đoạt trên 5 tỷ. Mức cụ thể tuỳ vào toà.",
+        "likes": 8472
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "Đoàn Thị Mai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:52:00+07:00",
+    "body": "Tôi là người trong bài, đã quyên 500k/tháng 14 tháng. Tổng 7 triệu. Mất tiền không tiếc bằng mất lòng tin. Bây giờ tôi không dám quyên tiền nữa, kể cả khi gặp người thực sự cần.",
+    "likes": 19284,
+    "replies": [
+      {
+        "id": "c9-r1",
+        "username": "Hoàng Thị Liên",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T08:24:00+07:00",
+        "body": "Chị Mai ơi đừng vậy. Hãy quyên qua các tổ chức có mã pháp nhân kiểm tra được. Lòng tốt của chị cần đến đúng người.",
+        "likes": 7128
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "username": "khanh.le",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T07:59:00+07:00",
+    "body": "đứng",
+    "likes": 184,
+    "replies": []
+  },
+  {
+    "id": "c11",
+    "username": "Lê Văn Toản",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T08:06:00+07:00",
+    "body": "Một đại sứ đã 'chủ động liên hệ xin được nói trước'. Showbiz lại chuẩn bị một mùa scandal. Đặt cược một chỉ vàng là ca sĩ nào trong top 5 livestreamer 2044.",
+    "likes": 12471,
+    "replies": [
+      {
+        "id": "c11-r1",
+        "username": "Vũ Thanh Hà",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T08:42:00+07:00",
+        "body": "Tôi đặt một chỉ vàng nói là Á hậu kia. Hẹn 7 ngày nữa biết.",
+        "likes": 4287
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "username": "Mary-Ann de Leon",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T08:13:00+07:00",
+    "body": "Cộng đồng Hữu Nghị đã quyên tổng hơn 800 triệu cho Hội Tâm Lành theo lời kêu gọi 'giúp trẻ em Việt sau 2034'. Một số người trong chúng tôi gửi nguyên tháng lương. Hôm nay đọc bài này, cả nhóm im lặng trên Zalo cả buổi sáng.",
+    "likes": 22471,
+    "replies": [
+      {
+        "id": "c12-r1",
+        "username": "Trần Hoàng Phong",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T08:51:00+07:00",
+        "body": "Chị Mary-Ann ơi, chúng tôi xin lỗi thay cho người Việt. Lòng tốt của các chị đáng quý hơn ai hết. Mong các chị giữ niềm tin.",
+        "likes": 18472
+      }
+    ]
+  },
+  {
+    "id": "c13",
+    "username": "Đặng Quốc Hùng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T08:20:00+07:00",
+    "body": "Đề nghị Bộ Công an mở chiến dịch rà soát các fanpage từ thiện trên 1 triệu lượt theo dõi. Đây là tầng lưới lừa đảo cấp độ công nghiệp.",
+    "likes": 14728,
+    "replies": []
+  },
+  {
+    "id": "c14",
+    "username": "Hồ Quỳnh Hương",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T08:27:00+07:00",
+    "body": "Đọc xong tôi chỉ biết thở dài. Khi nỗi đau trở thành miếng mồi ngon. Câu đó của chị Phương Anh đáng lên bia.",
+    "likes": 17284,
+    "replies": []
+  }
+]

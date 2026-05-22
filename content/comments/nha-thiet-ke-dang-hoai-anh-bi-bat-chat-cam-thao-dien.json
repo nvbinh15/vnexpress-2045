@@ -1,0 +1,173 @@
+[
+  {
+    "id": "c1",
+    "username": "Trần Thanh Bình",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:58:00+07:00",
+    "body": "Vụ thứ tư từ đầu năm. Sắp đủ một đội bóng đá showbiz cho cải tạo rồi.",
+    "likes": 24817,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Hoàng Đình Hùng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T14:14:00+07:00",
+        "body": "Có tiền thì để mua sản phẩm của họ, đừng để nuôi đường dây của họ.",
+        "likes": 8421
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Phạm Thuỳ Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:05:00+07:00",
+    "body": "Đầu tiên nói deepfake. Bị xác minh là thật thì im. Đây là kịch bản mẫu của showbiz Việt từ 2025 đến giờ. Đúng 20 năm rồi vẫn dùng một bài.",
+    "likes": 18247,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Lê Quang Vinh",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T14:31:00+07:00",
+        "body": "Tại lúc trước AI yếu nên còn cãi được. Giờ AI forensics cấp 2 ra kết quả 30 phút.",
+        "likes": 5128
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "ngocha2017",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:11:00+07:00",
+    "body": "Tài khoản ngủ đặt đơn ma tuý? Đến tài khoản ngủ của tôi cũng không dám nghĩ tới khả năng này.",
+    "likes": 12471,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Đặng Quang Vinh",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T14:42:00+07:00",
+        "body": "Tài khoản ngủ của tôi đi chối bill điện cho tôi xong. Đường dây này nghĩ nâng cấp tới sub-zero rồi.",
+        "likes": 4128
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Nguyễn Bích Hằng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:18:00+07:00",
+    "body": "Đã từng mặc đồ D.HA Couture đi đám cưới. Buồn thật. Áo của anh ấy thì đẹp.",
+    "likes": 6217,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Vũ Thị Lan",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T14:55:00+07:00",
+        "body": "Tay nghề là tay nghề. Đời sống là đời sống. Đừng trộn lẫn.",
+        "likes": 3892
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Hoàng Minh Quân",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:24:00+07:00",
+    "body": "Biệt thự đường Số 14 Thảo Điền giá 95 tỷ trở lên. Đường dây có khả năng tài chính cao. Mong xử nghiêm để răn đe.",
+    "likes": 9128,
+    "replies": []
+  },
+  {
+    "id": "c6",
+    "username": "ld_huong",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T14:31:00+07:00",
+    "body": "Crystal-K9 là cái gì mới vậy? Sao toàn ma tuý mới thế kỷ này có tên giống mã sản phẩm Amazon.",
+    "likes": 7842,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "BS. Trần Đức Anh",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T15:02:00+07:00",
+        "body": "Dạng dẫn xuất của methamphetamine, được tổng hợp lần đầu năm 2041 ở Đông Âu. Tác dụng mạnh gấp 4 lần meth thường, độc gấp 7 lần. Đề nghị các bạn trẻ tránh xa.",
+        "likes": 5471
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Đoàn Thanh Tuấn",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T14:38:00+07:00",
+    "body": "47 tuổi rồi. Anh có gia đình không? Ai sẽ ra toà thay anh? Tôi nhìn các vụ này luôn nghĩ về người thân ở nhà.",
+    "likes": 8214,
+    "replies": []
+  },
+  {
+    "id": "c8",
+    "username": "minh_le",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T14:44:00+07:00",
+    "body": "đứng",
+    "likes": 142,
+    "replies": []
+  },
+  {
+    "id": "c9",
+    "username": "Bùi Đức Huy",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:51:00+07:00",
+    "body": "Sở Văn hoá Hà Nội tạm dừng cấp phép trình diễn. Trong khi đó hàng trăm khách đã đặt vé. Hoàn tiền là chuyện của Sở hay của anh Phú? Mong báo theo tiếp.",
+    "likes": 4128,
+    "replies": []
+  },
+  {
+    "id": "c10",
+    "username": "kien_n",
+    "location": "Khác",
+    "timestamp": "2045-04-25T14:58:00+07:00",
+    "body": "đứng từ paris. theo dõi showbiz việt 22 năm. khoảng 30% tên tuổi tôi yêu thích đã bị bắt vì ma tuý. nghệ thuật và chất cấm hình như cùng một mẫu di truyền.",
+    "likes": 6427,
+    "replies": [
+      {
+        "id": "c10-r1",
+        "username": "Lê Phương Anh",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T15:24:00+07:00",
+        "body": "Không phải mẫu di truyền đâu chị. Là môi trường thôi.",
+        "likes": 2841
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "username": "Trần Quốc Khánh",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T15:04:00+07:00",
+    "body": "Phía sau 22 người còn lại có thêm bao nhiêu người? Cảnh sát hỏi 'bạn nghiện' kiểu gì là khai ra hết. Showbiz tuần sau sẽ có thêm danh sách.",
+    "likes": 11247,
+    "replies": []
+  },
+  {
+    "id": "c12",
+    "username": "Hồ Mai Linh",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T15:11:00+07:00",
+    "body": "Mẹ tôi vẫn còn thích anh Phú. Sáng nay tôi phải báo tin cho mẹ. Bà thở dài rồi nói: 'Đến đời mẹ vẫn chưa hết showbiz Việt scandal ma tuý.' Đúng thật.",
+    "likes": 13284,
+    "replies": []
+  },
+  {
+    "id": "c13",
+    "username": "Nguyễn Văn Tài",
+    "location": "Hà Tĩnh",
+    "timestamp": "2045-04-25T15:18:00+07:00",
+    "body": "Mời các cán bộ Công an TP.HCM tiếp tục. Đề nghị mở rộng. Một đường dây có 22 người dự không thể chỉ có một đầu mối.",
+    "likes": 5128,
+    "replies": []
+  }
+]
