@@ -1,0 +1,181 @@
+[
+  {
+    "id": "c1",
+    "username": "Lê Trí Dũng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T06:24:00+07:00",
+    "body": "Tôi là người được phỏng vấn trong bài. Cảm ơn báo. Bố tôi mất năm 2018. Lá cờ đỏ sao vàng trên Ba Đình sáng nay, tôi đứng nhìn lâu nhất từ trước đến nay.",
+    "likes": 47128,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Phạm Mai Anh",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T06:48:00+07:00",
+        "body": "Bác kính mến, cháu xin được nghiêng mình. Mong bác khoẻ để dự lễ chính thức ngày 2/9.",
+        "likes": 18472
+      },
+      {
+        "id": "c1-r2",
+        "username": "Đỗ Quang Vinh",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T07:02:00+07:00",
+        "body": "Cám ơn bác. Bố cháu cũng từng đi bộ đội. Mỗi lần đến Ba Đình cháu lại nhớ bố.",
+        "likes": 12471
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Nguyễn Thị Hồng",
+    "location": "Bến Tre",
+    "timestamp": "2045-04-25T06:31:00+07:00",
+    "body": "Năm nay tôi 74. Tôi nhớ lễ 50 năm Quốc khánh năm 1995, lúc đó tôi 24 tuổi, đứng xem diễu binh trên đường Nguyễn Huệ Sài Gòn. 50 năm nữa trôi qua nhanh đến không ngờ. Mong các cháu giữ gìn cho đến 200 năm.",
+    "likes": 32847,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Lê Hoài Phương",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T06:52:00+07:00",
+        "body": "Cô ơi, cháu sinh năm 2018, năm nay 27. Đến 200 năm cháu chắc không kịp. Nhưng cháu sẽ kể lại cho con cháu cháu, để chúng có mặt năm đó.",
+        "likes": 14821
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Trần Hoàng Phong",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T06:38:00+07:00",
+    "body": "Trồng 100 triệu cây xanh trong 130 ngày. Đây là điều có ý nghĩa thật sự cho thế hệ tiếp theo. Mong các địa phương triển khai nghiêm túc, không hình thức.",
+    "likes": 18471,
+    "replies": []
+  },
+  {
+    "id": "c4",
+    "username": "Maria Hoàng Anh Nguyen",
+    "location": "Khác",
+    "timestamp": "2045-04-25T06:45:00+07:00",
+    "body": "Tôi sinh tại Vương quốc Anh, mẹ Việt bố Anh. Năm nay 31 tuổi, lần đầu về Hà Nội dịp tháng 9 để dự lễ Quốc khánh. Tôi đang học tiếng Việt từ AI tutor. Mong gặp được nhiều người Việt tử tế.",
+    "likes": 21748,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Vũ Mai Linh",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T07:14:00+07:00",
+        "body": "Chào bạn về quê hương. Hà Nội tháng 9 đẹp lắm. Mời bạn ghé phố cổ ăn phở sáng, bún chả trưa. Cộng đồng kiều bào tổ chức gặp mặt ngày 31/8, có thể liên hệ qua Đại sứ quán.",
+        "likes": 9128
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Đặng Thị Hoa",
+    "location": "Quảng Trị",
+    "timestamp": "2045-04-25T06:52:00+07:00",
+    "body": "Quỹ học bổng Khát vọng 2050 dành cho 10.000 em. Cháu gái tôi đang học lớp 11, gia đình khó khăn sau 2034. Nếu được học bổng này sẽ thay đổi cả tương lai cháu. Cám ơn Nhà nước.",
+    "likes": 17284,
+    "replies": []
+  },
+  {
+    "id": "c6",
+    "username": "Hoàng Văn Quân",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T06:59:00+07:00",
+    "body": "Hoà nhạc giao hưởng tại Nhà hát Lớn đêm 1/9 — đợi đã lâu. Nhạc trưởng năm nay là ai vậy báo?",
+    "likes": 4287,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Hoàng Minh Tuấn",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T07:23:00+07:00",
+        "body": "Tôi là phóng viên viết bài. Theo lịch dự kiến, nhạc trưởng người Việt Nam Đặng Châu Anh dẫn dắt cùng dàn nhạc giao hưởng quốc gia mở rộng. Có ba khách mời quốc tế. Báo sẽ có bài chi tiết sau.",
+        "likes": 5128
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "tran.minh.bd",
+    "location": "Bình Dương",
+    "timestamp": "2045-04-25T07:06:00+07:00",
+    "body": "đứng",
+    "likes": 412,
+    "replies": []
+  },
+  {
+    "id": "c8",
+    "username": "Bùi Thanh Sơn",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T07:13:00+07:00",
+    "body": "Đà Nẵng vẫn còn nhiều dấu vết 2034. Nhưng nhìn bạn bè quốc tế đăng ký đến dự, mình thấy thành phố mình đã đi lên trở lại. Mong các bạn ghé thăm.",
+    "likes": 11247,
+    "replies": []
+  },
+  {
+    "id": "c9",
+    "username": "Nguyễn Đức Anh",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T07:20:00+07:00",
+    "body": "Đọc xong tôi rưng rưng. Đất nước mình trải qua bao biến cố — chiến tranh, bao cấp, dịch bệnh, đại hồng thuỷ — vẫn đứng đây sau 100 năm. Cảm ơn các thế hệ đi trước.",
+    "likes": 28471,
+    "replies": []
+  },
+  {
+    "id": "c10",
+    "username": "Ngô Thanh Hà",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T07:27:00+07:00",
+    "body": "Cờ Tổ quốc treo dọc đường Lạch Tray Hải Phòng từ sáng nay. Đẹp lắm. Trẻ con đi học sáng đều ngước nhìn. Đây là cách giáo dục lịch sử tự nhiên nhất.",
+    "likes": 9128,
+    "replies": []
+  },
+  {
+    "id": "c11",
+    "username": "Lê Thị Phương Trang",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:34:00+07:00",
+    "body": "Em Hà Phương trong bài có câu nói rất hay: 'Hôm nay con thấy nơi mà ngày xưa Bác đứng đọc.' Trẻ con dạy người lớn về sự kính trọng đôi khi rất ngắn gọn.",
+    "likes": 14721,
+    "replies": []
+  },
+  {
+    "id": "c12",
+    "username": "Phan Quốc Tuấn",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T07:41:00+07:00",
+    "body": "Sáng mai tôi sẽ đưa bố tôi 89 tuổi đến Quảng trường Ba Đình. Bố cụ ụi tôi đã không khoẻ nhiều năm nay, lần này có thể là lần cuối cụ ra đến đó. Mong sáng đẹp trời.",
+    "likes": 21472,
+    "replies": [
+      {
+        "id": "c12-r1",
+        "username": "Hồ Thị Lan",
+        "location": "Nghệ An",
+        "timestamp": "2045-04-25T08:02:00+07:00",
+        "body": "Anh ơi, đẹp lắm. Mong bác khoẻ. Cháu chỉ biết chúc.",
+        "likes": 8472
+      }
+    ]
+  },
+  {
+    "id": "c13",
+    "username": "Wilson Kalitiman",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T07:48:00+07:00",
+    "body": "Tôi là shipper Indonesia, sống tại quận 7 đã 4 năm. Năm nay là năm đầu tiên tôi được dự một lễ Quốc khánh Việt Nam. Tôi mua cờ nhỏ về dán xe máy, để tỏ lòng biết ơn đất nước cho mình một mái nhà.",
+    "likes": 26471,
+    "replies": [
+      {
+        "id": "c13-r1",
+        "username": "Trần Văn Đức",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T08:18:00+07:00",
+        "body": "Anh Wilson, cảm ơn anh. Việt Nam mang ơn các anh chị Hữu Nghị. Cờ trên xe anh là cờ của tất cả chúng ta.",
+        "likes": 18472
+      }
+    ]
+  }
+]
