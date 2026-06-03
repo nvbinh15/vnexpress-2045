@@ -35,3 +35,7 @@ scripts/.image-state.json
 *.njsproj
 *.sln
 *.sw?
+
+# Root-level review screenshots (Playwright sessions)
+/*.jpeg
+/*.png
