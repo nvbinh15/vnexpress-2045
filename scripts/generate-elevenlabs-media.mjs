@@ -208,10 +208,222 @@ function makeDialogueEpisode({ id, title, summary, articleSlugs, turns, posterSl
   return { id, kind, title, summary, articleSlugs, turns, posterSlug, publishedAt };
 }
 
+function makeLongform2045Episode(articleMap) {
+  const line = (slug) => truncateText(articleLine(articleMap.get(slug)), 260);
+  const chapters = [
+    {
+      label: "đại lễ và mục tiêu dời mốc",
+      slugs: [
+        "100-nam-quoc-khanh-khat-vong-viet-nam-cong-bo",
+        "tuyen-phong-thu-ven-bien-le-ky-niem-100-nam",
+        "duong-sat-bac-nam-doan-vinh-dong-ha-lui-tien-do-2052",
+      ],
+      frame: "một quốc gia tổ chức sinh nhật rất lớn, nhưng đồng thời học cách nói nhỏ hơn về những lời hứa chưa kịp hoàn thành",
+      continuity: "cách diễn đạt vẫn quen thuộc: đồng lòng, quyết tâm, biểu tượng, dự kiến; cái mới chỉ là bối cảnh khí hậu và công nghệ bao quanh các từ cũ",
+      question: "liệu người dân nghe thấy khát vọng, hay nghe thấy một lịch hẹn nữa được chuyển sang tương lai?",
+    },
+    {
+      label: "nhà ở, vàng và bản năng trú ẩn",
+      slugs: [
+        "boc-tham-vinhomes-can-gio-floating-city",
+        "kinh-doanh-vang-sjc-1-8-ty-xep-hang-ha-noi",
+        "kinh-doanh-vinfast-lai-tri-an-lao-dong-huu-nghi",
+      ],
+      frame: "thành phố có thể nổi trên biển, xe có thể bay, nhưng nỗi sợ mất chỗ đứng vẫn rất thấp, rất gần mặt đất",
+      continuity: "người Việt trong dòng thời gian này không chỉ mua tài sản; họ mua cảm giác mình chưa bị đẩy ra ngoài cuộc chơi",
+      question: "khi mọi thứ được gọi là cơ hội, vì sao cơ thể xã hội vẫn phản ứng như đang tìm nơi trú bão?",
+    },
+    {
+      label: "AI trong gia đình",
+      slugs: [
+        "goc-nhin-con-bot-cua-toi-noi-chuyen-voi-con-bot-cua-me",
+        "tam-su-me-chong-bicol-giuc-sinh-con-thu-ba",
+        "doi-song-co-giao-ao-gen-beta-yeu-me",
+      ],
+      frame: "nhà không chỉ có người, mà có đại diện số của người; tình thân được ủy quyền, lên lịch, nhắc lại và đôi khi trả phí theo tháng",
+      continuity: "áp lực gia đình không biến mất khi đi qua công nghệ, nó chỉ có giao diện mới và thông báo đẩy đều đặn hơn",
+      question: "nếu một agent nhớ ngày giỗ, gọi điện cho mẹ và trả lời tin nhắn trong nhóm nhà, phần nào của chữ hiếu còn thuộc về con người?",
+    },
+    {
+      label: "giáo dục và bất bình đẳng AI",
+      slugs: [
+        "cau-be-thu-vien-lang-thu-khoa-olympic-ai-quoc-gia",
+        "de-thi-van-2045-nguoi-me-hue-nguyen-ngoc-tu",
+        "doi-song-co-giao-ao-gen-beta-yeu-me",
+      ],
+      frame: "trường học tưởng như đã bước vào thời đại agent cá nhân, nhưng câu chuyện thủ khoa thư viện làng nhắc rằng hạ tầng công cộng vẫn có sức nặng đạo đức",
+      continuity: "mỗi thế hệ đều có một vật thay thế cho gia sư: sách tham khảo, lớp luyện thi, laptop, rồi agent; tranh luận cũ trở lại dưới tên mới",
+      question: "giáo dục đang dạy trẻ dùng máy, hay đang dùng máy để đo xem trẻ nào đã có sẵn lợi thế?",
+    },
+    {
+      label: "pháp luật, deepfake và lòng tin",
+      slugs: [
+        "boc-tran-hoi-tu-thien-tam-lanh-ai-deepfake-23-ty",
+        "ai-thay-cung-ai-tu-vi-lua-dao-ponzi-47-ty",
+        "khoi-to-giam-doc-logistics-vi-pham-luat-ai-2042",
+      ],
+      frame: "khi giọng nói, khuôn mặt và nước mắt đều có thể tổng hợp, pháp luật không chỉ xử lý hành vi mà phải xử lý cảm giác thật",
+      continuity: "lừa đảo vẫn dựa vào cùng một điểm yếu: người ta muốn tin điều làm mình bớt cô đơn, bớt tội lỗi, bớt sợ hãi",
+      question: "chuẩn Đan Sa là tường rào kỹ thuật, hay là một cách xã hội thừa nhận rằng mắt và tai đã không còn đủ?",
+    },
+    {
+      label: "lao động nhập cư và bản sắc mới",
+      slugs: [
+        "doi-tuyen-vong-loai-world-cup-2046-philippines",
+        "the-gioi-manila-xuat-khau-lao-dong-dot-7",
+        "kinh-doanh-vinfast-lai-tri-an-lao-dong-huu-nghi",
+      ],
+      frame: "Việt Nam hai nghìn không trăm bốn mươi lăm không chỉ xuất khẩu lao động như ký ức cũ, mà nhập khẩu con người, gia đình, giọng nói và tranh luận căn cước",
+      continuity: "câu hỏi ai là người Việt từng được trả lời bằng hộ khẩu, quê quán, tiếng nói; giờ nó đi qua sân bóng, nhà máy và lớp học",
+      question: "một chiến thắng thể thao có thể làm xã hội vui trong chín mươi phút, nhưng có đủ để mở rộng trí tưởng tượng về cộng đồng không?",
+    },
+    {
+      label: "đô thị, di chuyển và thời gian chờ",
+      slugs: [
+        "vinair-evtol-tp-hcm-vung-tau-mo-tuyen",
+        "ha-noi-han-che-xe-may-vanh-dai-3-2050",
+        "duong-sat-bac-nam-tau-xe-khach-tau-ban-doan-mien-trung",
+      ],
+      frame: "cùng một ngày có người bay qua kẹt xe, có người vẫn nối chuyến tàu xe tàu; đô thị tương lai không đến cùng tốc độ với mọi người",
+      continuity: "hạ tầng luôn là câu chuyện rất vật chất, nhưng niềm tin vào hạ tầng lại là thứ vô hình nhất và dễ mòn nhất",
+      question: "khi phương tiện đã bay lên, vì sao cảm giác bị bỏ lại vẫn nằm ở mặt đất?",
+    },
+    {
+      label: "giải trí và phần trăm thật",
+      slugs: [
+        "hoa-hau-quoc-te-2045-thi-sinh-viet-nam-tranh-cai-ai",
+        "scandal-ngoi-sao-deepfake-do-uong-co-con-xin-loi",
+        "livestreamer-bao-tram-deepfake-8-tieng-vang",
+        "nha-thiet-ke-dang-hoai-anh-bi-bat-chat-cam-thao-dien",
+      ],
+      frame: "showbiz trở thành phòng thí nghiệm công khai cho câu hỏi: một con người cần thật bao nhiêu phần trăm để vẫn được yêu, ghét, hủy theo dõi?",
+      continuity: "khán giả Việt vẫn rất giỏi soi lỗi, chỉ là lỗi bây giờ có thể nằm trong mô hình, trong pipeline, hoặc trong hợp đồng xử lý hình ảnh",
+      question: "khi lời xin lỗi cũng có thể qua hậu kỳ, thứ gì còn làm bằng chứng cho sự hối hận?",
+    },
+    {
+      label: "thể thao, máy móc và tranh cãi",
+      slugs: [
+        "doi-tuyen-vong-loai-world-cup-2046-philippines",
+        "v-league-hagl-thua-vff-ai-var-tranh-cai",
+        "ky-thu-le-bao-han-thang-ai-blitz-lien-doan-co-vua",
+      ],
+      frame: "thể thao là nơi công nghệ tưởng sẽ khép lại tranh cãi, nhưng lại chứng minh tranh cãi là một phần của nghi lễ tập thể",
+      continuity: "người hâm mộ không chỉ cần quyết định đúng; họ cần một câu chuyện có thủ phạm, có bất công, có chỗ để hét",
+      question: "nếu máy xử chính xác hơn người, vì sao cảm giác bị xử ép vẫn sống khỏe?",
+    },
+    {
+      label: "khí hậu và ký ức đại hồng thủy",
+      slugs: [
+        "10-nam-sau-dai-hong-thuy-chung-ta-da-hoc-duoc-gi",
+        "tuyen-phong-thu-ven-bien-le-ky-niem-100-nam",
+        "du-lich-ha-giang-ngu-ghep-le-30-4",
+      ],
+      frame: "Đại hồng thủy không còn là biến cố được giải thích mỗi ngày, mà là lớp nền tâm lý khiến mọi dự án biển, núi, du lịch và nhà ở đều mang một bóng dài",
+      continuity: "người Việt quen sống cùng nước, nhưng sống cùng ký ức về nước là một kiểu chính trị khác",
+      question: "một xã hội có thể xây tường biển rất cao, nhưng làm gì với phần ký ức vẫn tràn vào trong ngôn ngữ?",
+    },
+    {
+      label: "báo chí giả lập và cái thật của châm biếm",
+      slugs: [
+        "100-nam-quoc-khanh-khat-vong-viet-nam-cong-bo",
+        "goc-nhin-con-bot-cua-toi-noi-chuyen-voi-con-bot-cua-me",
+        "boc-tran-hoi-tu-thien-tam-lanh-ai-deepfake-23-ty",
+      ],
+      frame: "dự án này giả một tờ báo, nhưng chính khuôn báo quen thuộc khiến những chuyện phi lý có vẻ gần, có vẻ đã đọc ở đâu đó",
+      continuity: "satire hiệu quả không vì nó đoán đúng tương lai, mà vì nó làm hiện tại lộ ra khi bị đẩy lệch vài độ",
+      question: "nếu năm hai nghìn không trăm bốn mươi lăm nghe buồn cười, phần nào của tiếng cười ấy thật ra thuộc về hôm nay?",
+    },
+  ];
+
+  const turns = [
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[warm, long-form podcast opening] Chào mừng bạn đến với VnExpress Podcast bản dài. Hôm nay tôi và Quang Dũng sẽ dành khoảng ba mươi phút để đi chậm qua VnExpress hai nghìn không trăm bốn mươi lăm: không chỉ từng tin riêng lẻ, mà là cảm giác xã hội nằm sau chúng. Đây là một thế giới có tuyến phòng thủ ven biển, agent gia đình, luật A I, lao động hữu nghị, nhà nổi, vàng tỷ tám, và những cuộc cãi nhau rất quen trong nhóm chat nhà.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[measured] Điều thú vị là nhiều chi tiết nghe rất tương lai, nhưng cơ chế cảm xúc lại cũ. Người ta vẫn lo nhà, lo con, lo cha mẹ, lo mất giá, lo bị lừa, lo bị bỏ lại. Công nghệ trong những bài này không thay thế xã hội; nó làm xã hội nói to hơn. Và khi một tờ báo giả dùng đúng giọng điệu báo thật, cái tương lai ấy không còn xa như viễn tưởng. Nó giống một bản tin có thể xuất hiện sau vài lần cập nhật phần mềm.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[thoughtful] Vậy mình sẽ đi theo các lớp: quốc gia, tiền bạc, gia đình, giáo dục, pháp luật, lao động, đô thị, giải trí, thể thao, khí hậu, rồi quay lại câu hỏi vì sao hình thức báo chí quen thuộc lại làm châm biếm sắc hơn. Tôi muốn giữ nhịp trò chuyện, không biến nó thành bài giảng. Nhưng vì đây là bản dài, ta sẽ cho mỗi chủ đề đủ khoảng trống để thở.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[calm] Và tôi nghĩ điểm mấu chốt là đừng hỏi tương lai này đúng hay sai. Hãy hỏi nó soi ngược lại hiện tại như thế nào. Nếu một chi tiết làm ta bật cười, có thể vì nó vô lý. Nhưng cũng có thể vì nó quá hợp lý, chỉ cần thay ngày tháng và tên công nghệ là nhận ra ngay.`,
+    },
+  ];
+
+  for (const [index, chapter] of chapters.entries()) {
+    const storyLines = chapter.slugs.map((slug) => line(slug)).join(" ");
+    turns.push(
+      {
+        role: "host",
+        name: "Minh Anh",
+        text: `[chapter ${index + 1}] Bắt đầu với ${chapter.label}. ${chapter.frame}. Trong cụm tin này, ta có: ${storyLines} Điều làm tôi chú ý không chỉ là sự kiện, mà là giọng điệu rất bình thường của nó. Tin được kể như thể mọi thứ đã được hấp thụ vào đời sống hằng ngày, không còn cần giải thích dài dòng.`,
+      },
+      {
+        role: "analyst",
+        name: "Quang Dũng",
+        text: `[analytical] Đúng, và ${chapter.continuity}. Đây là thủ pháp rất mạnh: đặt một chi tiết lệch tương lai vào một câu văn hành chính hoặc một cấu trúc tin bài quen thuộc. Người nghe vừa nhận ra cái mới, vừa nhận ra cái cũ. Cảm giác hài không đến từ trò đùa trực tiếp, mà đến từ độ trễ giữa vật chất đã đổi và ngôn ngữ vẫn giữ nguyên nếp.`,
+      },
+      {
+        role: "host",
+        name: "Minh Anh",
+        text: `[curious] Nhưng tôi muốn kéo nó về phía người đọc bình thường. ${chapter.question} Vì trong từng tin, nhân vật không sống trong khái niệm lớn. Họ xếp hàng, đóng phí, chăm cha mẹ, cãi nhau, đi làm, mua vàng, đặt vé, xem bóng đá. Tương lai của họ không phải bầu trời neon, mà là một biểu mẫu mới phải điền trước mười bảy giờ.`,
+      },
+      {
+        role: "analyst",
+        name: "Quang Dũng",
+        text: `[reflective] Và đó là lý do các bài này có lực. Chúng không nói rằng năm hai nghìn không trăm bốn mươi lăm sẽ kỳ dị. Chúng nói rằng nếu những phản xạ cũ tiếp tục đi cùng công nghệ mới, sự kỳ dị sẽ được bình thường hóa rất nhanh. Một thế hệ sẽ thấy agent nói chuyện với agent là chuyện lạ; thế hệ sau sẽ hỏi tại sao ngày xưa người ta tự nhắn tin lấy. Chính lúc đó, cái cũ biến mất mà không ai tổ chức lễ chia tay.`,
+      },
+    );
+  }
+
+  turns.push(
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[closing] Nếu phải gom lại, tôi thấy VnExpress hai nghìn không trăm bốn mươi lăm không phải một dự báo, mà là một máy khuếch đại. Nó khuếch đại nỗi lo nhà đất, ký ức thiên tai, áp lực gia đình, khát vọng quốc gia, niềm tin vào học hành, và cả thói quen đọc báo để xác nhận rằng xã hội vẫn có trật tự nào đó.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[warm] Tôi đồng ý. Và điều buồn cười nhất có lẽ là hình thức báo điện tử vẫn rất bền. Có logo, chuyên mục, sapo, ảnh đại diện, comment, tin liên quan. Bên trong là A I, e V T O L, deepfake, đường sắt lùi đến hai nghìn không trăm năm mươi hai. Cái khung cũ khiến tương lai trông đáng tin hơn, và chính vì đáng tin nên nó mới buồn cười.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[soft] Cảm ơn Quang Dũng, và cảm ơn bạn đã nghe bản dài này. Nếu bản tin ngắn cho ta biết chuyện gì vừa xảy ra, thì podcast dài cho ta thời gian hỏi vì sao chuyện ấy nghe quen đến vậy. Bạn đang nghe VnExpress Podcast, bản đặc biệt từ tương lai giả lập hai nghìn không trăm bốn mươi lăm.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[gentle signoff] Hẹn gặp lại trong một tương lai khác, hoặc trong chính hiện tại nếu ta đọc chậm hơn một chút.`,
+    },
+  );
+
+  return makeDialogueEpisode({
+    id: "podcast-longform-2045-mot-tuong-lai-rat-quen",
+    kind: "podcast",
+    title: "Longform: 2045, một tương lai rất quen",
+    summary: "Minh Anh và Quang Dũng trò chuyện dài về các lớp xã hội trong VnExpress 2045: quốc gia, nhà đất, gia đình, AI, pháp luật, nhập cư, đô thị, giải trí và khí hậu.",
+    posterSlug: "100-nam-quoc-khanh-khat-vong-viet-nam-cong-bo",
+    articleSlugs: [...new Set(chapters.flatMap((chapter) => chapter.slugs))],
+    publishedAt: "2045-05-01T06:00:00+07:00",
+    turns,
+  });
+}
+
 function buildPodcastDefs(articleMap) {
   const pick = (slug) => articleMap.get(slug);
   const short = (slug) => truncateText(articleLine(pick(slug)), 210);
   return [
+    makeLongform2045Episode(articleMap),
     makeDialogueEpisode({
       id: "podcast-khat-vong-2050",
       kind: "podcast",
