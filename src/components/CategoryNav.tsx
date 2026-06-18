@@ -15,13 +15,23 @@ export default function CategoryNav() {
         </Link>
         <div className="vne-scroll-x flex flex-1">
           {CATEGORIES.map(c => (
-            <a
-              key={c.label}
-              href={c.href}
-              className={`vne-nav-link ${c.accent ? 'vne-nav-accent' : ''}`}
-            >
-              {c.label}
-            </a>
+            c.href.startsWith('/') ? (
+              <Link
+                key={c.label}
+                to={c.href}
+                className={`vne-nav-link ${c.accent ? 'vne-nav-accent' : ''}`}
+              >
+                {c.label}
+              </Link>
+            ) : (
+              <a
+                key={c.label}
+                href={c.href}
+                className={`vne-nav-link ${c.accent ? 'vne-nav-accent' : ''}`}
+              >
+                {c.label}
+              </a>
+            )
           ))}
         </div>
         {/* "Tất cả" shortcut only at desktop — on mobile the hamburger

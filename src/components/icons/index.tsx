@@ -140,6 +140,36 @@ export function PlayIcon({ size = 12, ...rest }: IconProps) {
   )
 }
 
+export function HeadphonesIcon({ size = 16, ...rest }: IconProps) {
+  return (
+    <svg {...baseProps(size)} {...rest}>
+      <path d="M4.5 13v-1.5a7.5 7.5 0 0 1 15 0V13" />
+      <path d="M4.5 13.5c0-1 .8-1.8 1.8-1.8h1.2v5.8H6.3c-1 0-1.8-.8-1.8-1.8v-2.2z" />
+      <path d="M19.5 13.5c0-1-.8-1.8-1.8-1.8h-1.2v5.8h1.2c1 0 1.8-.8 1.8-1.8v-2.2z" />
+    </svg>
+  )
+}
+
+export function RadioIcon({ size = 16, ...rest }: IconProps) {
+  return (
+    <svg {...baseProps(size)} {...rest}>
+      <path d="M5 10h14v8.5H5z" />
+      <path d="M8 10l8-5" />
+      <circle cx="9" cy="14.2" r="1.6" />
+      <path d="M13.5 13h3M13.5 16h2.2" />
+    </svg>
+  )
+}
+
+export function VideoIcon({ size = 16, ...rest }: IconProps) {
+  return (
+    <svg {...baseProps(size)} {...rest}>
+      <path d="M4.5 7.5c0-.9.7-1.6 1.6-1.6h8.1c.9 0 1.6.7 1.6 1.6v9c0 .9-.7 1.6-1.6 1.6H6.1c-.9 0-1.6-.7-1.6-1.6z" />
+      <path d="M15.8 10l3.7-2.2v8.4L15.8 14" />
+    </svg>
+  )
+}
+
 export function HomeIcon({ size = 14, ...rest }: IconProps) {
   return (
     <svg {...baseProps(size)} {...rest}>

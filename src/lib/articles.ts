@@ -27,7 +27,7 @@ function parseFrontmatter(raw: string): { data: Partial<ArticleFrontmatter>; bod
     const idx = line.indexOf(':')
     if (idx < 0) continue
     const key = line.slice(0, idx).trim()
-    let val = line.slice(idx + 1).trim()
+    const val = line.slice(idx + 1).trim()
     if (!val) { data[key] = ''; continue }
 
     // inline array  [a, b, c]

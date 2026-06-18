@@ -23,6 +23,7 @@ dist-ssr
 # Agent + Playwright artifacts
 .playwright-mcp/
 scripts/.image-state.json
+scripts/.audio-state.json
 *.png.tmp
 
 # Editor directories and files

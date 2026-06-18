@@ -10,6 +10,9 @@ export interface Category {
 export const CATEGORIES: Category[] = [
   { label: 'Mới nhất', href: '#' },
   { label: 'VnE-GO', href: '#vne-go', accent: true },
+  { label: 'Podcasts', href: '/podcasts', accent: true },
+  { label: 'Broadcasts', href: '/broadcasts' },
+  { label: '2045 FM', href: '/2045-fm', accent: true },
   { label: 'Thời sự', href: '#thoi-su' },
   { label: 'Thế giới', href: '#the-gioi' },
   { label: 'Kinh doanh', href: '#kinh-doanh' },

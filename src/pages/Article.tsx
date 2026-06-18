@@ -5,6 +5,8 @@ import { getCommentsForSlug } from '../lib/comments'
 import Comments from '../components/Comments'
 import SectionHeader from '../components/SectionHeader'
 import ArticleCard from '../components/ArticleCard'
+import MediaAudioPlayer from '../components/MediaAudioPlayer'
+import { getArticleNarration } from '../lib/media'
 import { ClockIcon } from '../components/icons'
 
 const VN_WEEKDAYS = ['Chủ Nhật', 'Thứ Hai', 'Thứ Ba', 'Thứ Tư', 'Thứ Năm', 'Thứ Sáu', 'Thứ Bảy']
@@ -136,6 +138,7 @@ export default function Article() {
   const comments = getCommentsForSlug(article.slug)
   const sectionLabel = SECTION_LABELS[article.section]
   const dateStr = formatVnDate(article.publishedAt)
+  const narration = getArticleNarration(article.slug)
 
   return (
     <main className="mx-auto max-w-[1200px] px-3 sm:px-4 pt-3 pb-10">
@@ -178,6 +181,17 @@ export default function Article() {
               <span className="italic text-vne-mute"> — {article.authorRole}</span>
             )}
           </div>
+
+          {narration && (
+            <div className="mt-4">
+              <MediaAudioPlayer
+                title={narration.title}
+                src={narration.src}
+                durationSeconds={narration.durationSeconds}
+                label="Nghe bài viết"
+              />
+            </div>
+          )}
 
           {/* Hero image */}
           <figure className="my-5">

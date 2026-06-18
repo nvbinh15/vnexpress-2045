@@ -333,3 +333,193 @@ a:hover { color: #a4123f; }
   border-radius: 2px;
 }
 .vne-subcat-chip:hover { background: #a4123f; color: #fff; }
+
+/* Audio and broadcast surfaces */
+.vne-audio-player {
+  border: 1px solid #e5e5e5;
+  border-left: 4px solid #a4123f;
+  background: #fff;
+  padding: 10px 12px;
+}
+.vne-audio-player.is-compact {
+  padding: 9px 10px;
+}
+.vne-audio-player-head {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 9px;
+  margin-bottom: 8px;
+}
+.vne-audio-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #a4123f;
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.vne-audio-label {
+  margin: 0;
+  color: #a4123f;
+  text-transform: uppercase;
+  font-size: 10px;
+  line-height: 13px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.vne-audio-player h3 {
+  margin: 0;
+  font-size: 14px;
+  line-height: 18px;
+  color: #222;
+  font-weight: 700;
+}
+.vne-audio-duration {
+  color: #777;
+  font-size: 12px;
+  white-space: nowrap;
+}
+.vne-audio-player audio {
+  width: 100%;
+  height: 34px;
+  display: block;
+}
+
+.vne-media-card {
+  min-width: 0;
+}
+.vne-media-card .media-thumb {
+  position: relative;
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #e5e5e5;
+}
+.vne-media-card .media-thumb img,
+.vne-media-card .media-thumb video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.vne-media-card .media-thumb video {
+  background: #111;
+}
+.vne-media-card .media-play {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: rgba(164, 18, 63, 0.95);
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.22);
+}
+.vne-media-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #888;
+  font-size: 12px;
+  line-height: 16px;
+  margin-bottom: 4px;
+}
+.vne-media-meta .sep {
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: #c4c4c4;
+}
+.vne-empty-media {
+  border: 1px dashed #d8d8d8;
+  background: #fafafa;
+  padding: 14px;
+  font-size: 13px;
+}
+
+.vne-fm-live {
+  border-top: 3px solid #a4123f;
+  background: #fafafa;
+  padding: 12px;
+}
+.vne-fm-live-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+  color: #a4123f;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.vne-fm-live h3 {
+  margin: 8px 0 4px;
+  font-size: 17px;
+  line-height: 23px;
+  font-weight: 700;
+  color: #222;
+}
+.vne-fm-live p {
+  margin: 0 0 10px;
+  color: #4f4f4f;
+  font-size: 13px;
+  line-height: 18px;
+}
+.vne-fm-hero {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 18px;
+}
+@media (min-width: 900px) {
+  .vne-fm-hero {
+    grid-template-columns: minmax(0, 1fr) 420px;
+    align-items: end;
+  }
+}
+.vne-fm-kicker {
+  color: #a4123f;
+  font-size: 12px;
+  line-height: 16px;
+  margin: 0 0 5px;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+}
+.vne-fm-hero h1 {
+  margin: 0;
+  color: #222;
+  font-family: Merriweather, Georgia, serif;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 39px;
+}
+.vne-fm-hero p {
+  max-width: 680px;
+  margin: 8px 0 0;
+  color: #4f4f4f;
+  font-size: 14px;
+  line-height: 20px;
+}
+.vne-transcript {
+  border-top: 1px solid #e5e5e5;
+  padding-top: 8px;
+  font-size: 13px;
+  color: #4f4f4f;
+}
+.vne-transcript summary {
+  cursor: pointer;
+  color: #a4123f;
+  font-weight: 700;
+}
+.vne-transcript p {
+  margin-top: 8px;
+  line-height: 20px;
+}

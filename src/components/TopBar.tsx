@@ -1,5 +1,6 @@
 import { format } from 'date-fns'
 import { vi } from 'date-fns/locale'
+import { Link } from 'react-router-dom'
 import WeatherWidget from './WeatherWidget'
 
 const VN_WEEKDAY: Record<number, string> = {
@@ -34,7 +35,11 @@ export default function TopBar() {
         <div className="flex items-center gap-3">
           <WeatherWidget />
           <span className="text-vne-line">|</span>
-          <a className="hover:text-vne-red">Podcasts</a>
+          <Link to="/podcasts" className="hover:text-vne-red">Podcasts</Link>
+          <span className="text-vne-line">|</span>
+          <Link to="/broadcasts" className="hover:text-vne-red">Broadcasts</Link>
+          <span className="text-vne-line">|</span>
+          <Link to="/2045-fm" className="hover:text-vne-red">2045 FM</Link>
           <span className="text-vne-line">|</span>
           <a className="hover:text-vne-red">Đăng ký</a>
         </div>

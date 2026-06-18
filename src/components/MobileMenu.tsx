@@ -104,7 +104,7 @@ export default function MobileMenu({ open, onClose, categories }: Props) {
             <span className="text-vne-line">|</span>
             <a className="hover:text-vne-red">RSS</a>
             <span className="text-vne-line">|</span>
-            <a className="hover:text-vne-red">Podcasts</a>
+            <Link to="/podcasts" onClick={onClose} className="hover:text-vne-red">Podcasts</Link>
           </div>
 
           {/* Weather */}
@@ -122,15 +122,27 @@ export default function MobileMenu({ open, onClose, categories }: Props) {
             <ul>
               {categories.map(c => (
                 <li key={c.label}>
-                  <a
-                    href={c.href}
-                    onClick={onClose}
-                    className={`flex items-center px-3 py-2.5 text-[15px] border-b border-vne-line/60 ${
-                      c.accent ? 'text-vne-red font-bold' : 'text-vne-ink'
-                    } hover:text-vne-red`}
-                  >
-                    {c.label}
-                  </a>
+                  {c.href.startsWith('/') ? (
+                    <Link
+                      to={c.href}
+                      onClick={onClose}
+                      className={`flex items-center px-3 py-2.5 text-[15px] border-b border-vne-line/60 ${
+                        c.accent ? 'text-vne-red font-bold' : 'text-vne-ink'
+                      } hover:text-vne-red`}
+                    >
+                      {c.label}
+                    </Link>
+                  ) : (
+                    <a
+                      href={c.href}
+                      onClick={onClose}
+                      className={`flex items-center px-3 py-2.5 text-[15px] border-b border-vne-line/60 ${
+                        c.accent ? 'text-vne-red font-bold' : 'text-vne-ink'
+                      } hover:text-vne-red`}
+                    >
+                      {c.label}
+                    </a>
+                  )}
                 </li>
               ))}
             </ul>

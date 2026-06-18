@@ -2,6 +2,7 @@ import HeroArticle from '../components/HeroArticle'
 import ArticleCard from '../components/ArticleCard'
 import SectionHeader from '../components/SectionHeader'
 import VneGoRibbon from '../components/VneGoRibbon'
+import MediaHub from '../components/MediaHub'
 import { getAllArticles, getBySection, getHero, getTopStories } from '../lib/articles'
 import { SECTION_LABELS, type Section } from '../types'
 
@@ -117,6 +118,8 @@ export default function Home() {
 
       {/* VnE-GO ribbon */}
       {vneGoSource.length > 0 && <VneGoRibbon items={vneGoSource} />}
+
+      <MediaHub />
 
       {/* Section blocks below */}
       <div className="mt-6 space-y-6">

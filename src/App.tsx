@@ -11,6 +11,9 @@ import Home from './pages/Home'
 // Article detail route + its comment data + body parser are deferred —
 // they only matter once a reader clicks into a story.
 const Article = lazy(() => import('./pages/Article'))
+const Podcasts = lazy(() => import('./pages/Podcasts'))
+const Broadcasts = lazy(() => import('./pages/Broadcasts'))
+const Fm2045 = lazy(() => import('./pages/Fm2045'))
 
 function ScrollToTop() {
   const { pathname } = useLocation()
@@ -47,6 +50,9 @@ export default function App() {
         <Suspense fallback={<div className="min-h-[60vh]" />}>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/podcasts" element={<Podcasts />} />
+            <Route path="/broadcasts" element={<Broadcasts />} />
+            <Route path="/2045-fm" element={<Fm2045 />} />
             {/* VnExpress URL convention: /:section/:slug.html */}
             <Route path="/:section/:slug.html" element={<Article />} />
             <Route path="*" element={<NotFound />} />

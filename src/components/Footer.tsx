@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import Wordmark from './Wordmark'
 
 export default function Footer() {
@@ -31,8 +32,9 @@ export default function Footer() {
           <h4 className="font-bold mb-2 uppercase text-[12px] tracking-wide">Tiện ích</h4>
           <ul className="space-y-1 text-vne-mute">
             <li><a className="hover:text-vne-red">RSS</a></li>
-            <li><a className="hover:text-vne-red">Podcasts</a></li>
-            <li><a className="hover:text-vne-red">Shorts</a></li>
+            <li><Link to="/podcasts" className="hover:text-vne-red">Podcasts</Link></li>
+            <li><Link to="/broadcasts" className="hover:text-vne-red">Broadcasts</Link></li>
+            <li><Link to="/2045-fm" className="hover:text-vne-red">2045 FM</Link></li>
             <li><a className="hover:text-vne-red">VnE-GO</a></li>
             <li><a className="hover:text-vne-red">Mở dữ liệu (CC BY 4.0)</a></li>
           </ul>
