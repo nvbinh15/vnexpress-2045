@@ -209,211 +209,244 @@ function makeDialogueEpisode({ id, title, summary, articleSlugs, turns, posterSl
 }
 
 function makeLongform2045Episode(articleMap) {
-  const line = (slug) => truncateText(articleLine(articleMap.get(slug)), 260);
-  const chapters = [
-    {
-      label: "đại lễ và mục tiêu dời mốc",
-      slugs: [
-        "100-nam-quoc-khanh-khat-vong-viet-nam-cong-bo",
-        "tuyen-phong-thu-ven-bien-le-ky-niem-100-nam",
-        "duong-sat-bac-nam-doan-vinh-dong-ha-lui-tien-do-2052",
-      ],
-      frame: "một quốc gia tổ chức sinh nhật rất lớn, nhưng đồng thời học cách nói nhỏ hơn về những lời hứa chưa kịp hoàn thành",
-      continuity: "cách diễn đạt vẫn quen thuộc: đồng lòng, quyết tâm, biểu tượng, dự kiến; cái mới chỉ là bối cảnh khí hậu và công nghệ bao quanh các từ cũ",
-      question: "liệu người dân nghe thấy khát vọng, hay nghe thấy một lịch hẹn nữa được chuyển sang tương lai?",
-    },
-    {
-      label: "nhà ở, vàng và bản năng trú ẩn",
-      slugs: [
-        "boc-tham-vinhomes-can-gio-floating-city",
-        "kinh-doanh-vang-sjc-1-8-ty-xep-hang-ha-noi",
-        "kinh-doanh-vinfast-lai-tri-an-lao-dong-huu-nghi",
-      ],
-      frame: "thành phố có thể nổi trên biển, xe có thể bay, nhưng nỗi sợ mất chỗ đứng vẫn rất thấp, rất gần mặt đất",
-      continuity: "người Việt trong dòng thời gian này không chỉ mua tài sản; họ mua cảm giác mình chưa bị đẩy ra ngoài cuộc chơi",
-      question: "khi mọi thứ được gọi là cơ hội, vì sao cơ thể xã hội vẫn phản ứng như đang tìm nơi trú bão?",
-    },
-    {
-      label: "AI trong gia đình",
-      slugs: [
-        "goc-nhin-con-bot-cua-toi-noi-chuyen-voi-con-bot-cua-me",
-        "tam-su-me-chong-bicol-giuc-sinh-con-thu-ba",
-        "doi-song-co-giao-ao-gen-beta-yeu-me",
-      ],
-      frame: "nhà không chỉ có người, mà có đại diện số của người; tình thân được ủy quyền, lên lịch, nhắc lại và đôi khi trả phí theo tháng",
-      continuity: "áp lực gia đình không biến mất khi đi qua công nghệ, nó chỉ có giao diện mới và thông báo đẩy đều đặn hơn",
-      question: "nếu một agent nhớ ngày giỗ, gọi điện cho mẹ và trả lời tin nhắn trong nhóm nhà, phần nào của chữ hiếu còn thuộc về con người?",
-    },
-    {
-      label: "giáo dục và bất bình đẳng AI",
-      slugs: [
-        "cau-be-thu-vien-lang-thu-khoa-olympic-ai-quoc-gia",
-        "de-thi-van-2045-nguoi-me-hue-nguyen-ngoc-tu",
-        "doi-song-co-giao-ao-gen-beta-yeu-me",
-      ],
-      frame: "trường học tưởng như đã bước vào thời đại agent cá nhân, nhưng câu chuyện thủ khoa thư viện làng nhắc rằng hạ tầng công cộng vẫn có sức nặng đạo đức",
-      continuity: "mỗi thế hệ đều có một vật thay thế cho gia sư: sách tham khảo, lớp luyện thi, laptop, rồi agent; tranh luận cũ trở lại dưới tên mới",
-      question: "giáo dục đang dạy trẻ dùng máy, hay đang dùng máy để đo xem trẻ nào đã có sẵn lợi thế?",
-    },
-    {
-      label: "pháp luật, deepfake và lòng tin",
-      slugs: [
-        "boc-tran-hoi-tu-thien-tam-lanh-ai-deepfake-23-ty",
-        "ai-thay-cung-ai-tu-vi-lua-dao-ponzi-47-ty",
-        "khoi-to-giam-doc-logistics-vi-pham-luat-ai-2042",
-      ],
-      frame: "khi giọng nói, khuôn mặt và nước mắt đều có thể tổng hợp, pháp luật không chỉ xử lý hành vi mà phải xử lý cảm giác thật",
-      continuity: "lừa đảo vẫn dựa vào cùng một điểm yếu: người ta muốn tin điều làm mình bớt cô đơn, bớt tội lỗi, bớt sợ hãi",
-      question: "chuẩn Đan Sa là tường rào kỹ thuật, hay là một cách xã hội thừa nhận rằng mắt và tai đã không còn đủ?",
-    },
-    {
-      label: "lao động nhập cư và bản sắc mới",
-      slugs: [
-        "doi-tuyen-vong-loai-world-cup-2046-philippines",
-        "the-gioi-manila-xuat-khau-lao-dong-dot-7",
-        "kinh-doanh-vinfast-lai-tri-an-lao-dong-huu-nghi",
-      ],
-      frame: "Việt Nam hai nghìn không trăm bốn mươi lăm không chỉ xuất khẩu lao động như ký ức cũ, mà nhập khẩu con người, gia đình, giọng nói và tranh luận căn cước",
-      continuity: "câu hỏi ai là người Việt từng được trả lời bằng hộ khẩu, quê quán, tiếng nói; giờ nó đi qua sân bóng, nhà máy và lớp học",
-      question: "một chiến thắng thể thao có thể làm xã hội vui trong chín mươi phút, nhưng có đủ để mở rộng trí tưởng tượng về cộng đồng không?",
-    },
-    {
-      label: "đô thị, di chuyển và thời gian chờ",
-      slugs: [
-        "vinair-evtol-tp-hcm-vung-tau-mo-tuyen",
-        "ha-noi-han-che-xe-may-vanh-dai-3-2050",
-        "duong-sat-bac-nam-tau-xe-khach-tau-ban-doan-mien-trung",
-      ],
-      frame: "cùng một ngày có người bay qua kẹt xe, có người vẫn nối chuyến tàu xe tàu; đô thị tương lai không đến cùng tốc độ với mọi người",
-      continuity: "hạ tầng luôn là câu chuyện rất vật chất, nhưng niềm tin vào hạ tầng lại là thứ vô hình nhất và dễ mòn nhất",
-      question: "khi phương tiện đã bay lên, vì sao cảm giác bị bỏ lại vẫn nằm ở mặt đất?",
-    },
-    {
-      label: "giải trí và phần trăm thật",
-      slugs: [
-        "hoa-hau-quoc-te-2045-thi-sinh-viet-nam-tranh-cai-ai",
-        "scandal-ngoi-sao-deepfake-do-uong-co-con-xin-loi",
-        "livestreamer-bao-tram-deepfake-8-tieng-vang",
-        "nha-thiet-ke-dang-hoai-anh-bi-bat-chat-cam-thao-dien",
-      ],
-      frame: "showbiz trở thành phòng thí nghiệm công khai cho câu hỏi: một con người cần thật bao nhiêu phần trăm để vẫn được yêu, ghét, hủy theo dõi?",
-      continuity: "khán giả Việt vẫn rất giỏi soi lỗi, chỉ là lỗi bây giờ có thể nằm trong mô hình, trong pipeline, hoặc trong hợp đồng xử lý hình ảnh",
-      question: "khi lời xin lỗi cũng có thể qua hậu kỳ, thứ gì còn làm bằng chứng cho sự hối hận?",
-    },
-    {
-      label: "thể thao, máy móc và tranh cãi",
-      slugs: [
-        "doi-tuyen-vong-loai-world-cup-2046-philippines",
-        "v-league-hagl-thua-vff-ai-var-tranh-cai",
-        "ky-thu-le-bao-han-thang-ai-blitz-lien-doan-co-vua",
-      ],
-      frame: "thể thao là nơi công nghệ tưởng sẽ khép lại tranh cãi, nhưng lại chứng minh tranh cãi là một phần của nghi lễ tập thể",
-      continuity: "người hâm mộ không chỉ cần quyết định đúng; họ cần một câu chuyện có thủ phạm, có bất công, có chỗ để hét",
-      question: "nếu máy xử chính xác hơn người, vì sao cảm giác bị xử ép vẫn sống khỏe?",
-    },
-    {
-      label: "khí hậu và ký ức đại hồng thủy",
-      slugs: [
-        "10-nam-sau-dai-hong-thuy-chung-ta-da-hoc-duoc-gi",
-        "tuyen-phong-thu-ven-bien-le-ky-niem-100-nam",
-        "du-lich-ha-giang-ngu-ghep-le-30-4",
-      ],
-      frame: "Đại hồng thủy không còn là biến cố được giải thích mỗi ngày, mà là lớp nền tâm lý khiến mọi dự án biển, núi, du lịch và nhà ở đều mang một bóng dài",
-      continuity: "người Việt quen sống cùng nước, nhưng sống cùng ký ức về nước là một kiểu chính trị khác",
-      question: "một xã hội có thể xây tường biển rất cao, nhưng làm gì với phần ký ức vẫn tràn vào trong ngôn ngữ?",
-    },
-    {
-      label: "báo chí giả lập và cái thật của châm biếm",
-      slugs: [
-        "100-nam-quoc-khanh-khat-vong-viet-nam-cong-bo",
-        "goc-nhin-con-bot-cua-toi-noi-chuyen-voi-con-bot-cua-me",
-        "boc-tran-hoi-tu-thien-tam-lanh-ai-deepfake-23-ty",
-      ],
-      frame: "dự án này giả một tờ báo, nhưng chính khuôn báo quen thuộc khiến những chuyện phi lý có vẻ gần, có vẻ đã đọc ở đâu đó",
-      continuity: "satire hiệu quả không vì nó đoán đúng tương lai, mà vì nó làm hiện tại lộ ra khi bị đẩy lệch vài độ",
-      question: "nếu năm hai nghìn không trăm bốn mươi lăm nghe buồn cười, phần nào của tiếng cười ấy thật ra thuộc về hôm nay?",
-    },
-  ];
-
   const turns = [
     {
       role: "host",
       name: "Minh Anh",
-      text: `[warm, long-form podcast opening] Chào mừng bạn đến với VnExpress Podcast bản dài. Hôm nay tôi và Quang Dũng sẽ dành khoảng ba mươi phút để đi chậm qua VnExpress hai nghìn không trăm bốn mươi lăm: không chỉ từng tin riêng lẻ, mà là cảm giác xã hội nằm sau chúng. Đây là một thế giới có tuyến phòng thủ ven biển, agent gia đình, luật A I, lao động hữu nghị, nhà nổi, vàng tỷ tám, và những cuộc cãi nhau rất quen trong nhóm chat nhà.`,
+      text: `[warm, intimate] Hôm nay mình không làm kiểu điểm tin. Tôi chỉ muốn rủ Quang Dũng ngồi xuống như hai người bạn vừa hết một tuần quá dài, gọi cà phê, nhìn thành phố ngoài cửa kính và tự hỏi: sống ở Việt Nam năm hai nghìn không trăm bốn mươi lăm thực ra có cảm giác như thế nào. Không phải cảm giác đọc tin, mà là cảm giác làm con, đi làm, trả tiền nhà, gọi về cho bố mẹ, và tự nhủ là chắc mình vẫn theo kịp thời đại.`,
     },
     {
       role: "analyst",
       name: "Quang Dũng",
-      text: `[measured] Điều thú vị là nhiều chi tiết nghe rất tương lai, nhưng cơ chế cảm xúc lại cũ. Người ta vẫn lo nhà, lo con, lo cha mẹ, lo mất giá, lo bị lừa, lo bị bỏ lại. Công nghệ trong những bài này không thay thế xã hội; nó làm xã hội nói to hơn. Và khi một tờ báo giả dùng đúng giọng điệu báo thật, cái tương lai ấy không còn xa như viễn tưởng. Nó giống một bản tin có thể xuất hiện sau vài lần cập nhật phần mềm.`,
+      text: `[measured] Tôi thích cách anh nói là cảm giác sống chứ không phải cảm giác đọc. Vì càng nhìn kỹ, tôi càng thấy cái năm hai nghìn không trăm bốn mươi lăm này không hề bay bổng như mấy poster tương lai hay vẽ. Nó không bắt đầu bằng xe bay hay robot. Nó bắt đầu bằng những thứ rất quen: một cuộc gọi lỡ của mẹ, một hóa đơn đến sớm hơn lương, một câu hỏi xem có nên mua vàng không, có nên chuyển nhà không, có nên để agent gọi thay mình không. Công nghệ có ở khắp nơi, nhưng nỗi lo vẫn là nỗi lo cũ. Chỉ là nó mặc quần áo mới và nói giọng lịch sự hơn.`,
     },
     {
       role: "host",
       name: "Minh Anh",
-      text: `[thoughtful] Vậy mình sẽ đi theo các lớp: quốc gia, tiền bạc, gia đình, giáo dục, pháp luật, lao động, đô thị, giải trí, thể thao, khí hậu, rồi quay lại câu hỏi vì sao hình thức báo chí quen thuộc lại làm châm biếm sắc hơn. Tôi muốn giữ nhịp trò chuyện, không biến nó thành bài giảng. Nhưng vì đây là bản dài, ta sẽ cho mỗi chủ đề đủ khoảng trống để thở.`,
+      text: `[thoughtful] Tôi có cảm giác rất lạ vào sáng mùng một tháng năm, sau cái không khí đại lễ một trăm năm Quốc khánh. Trên màn hình là cờ, là những lời rất lớn về khát vọng Việt Nam, là hình ảnh tuyến phòng thủ ven biển như một biểu tượng của ý chí quốc gia. Nhưng cùng lúc đó, có một bản tin khác về đoạn Vinh - Đông Hà của đường sắt cao tốc lại lùi thêm lần nữa. Tức là trong cùng một buổi sáng, mình vừa được mời bước vào một tương lai rất hùng tráng, vừa bị kéo lại bằng một cảm giác quen đến phát chán: à, lại hẹn tiếp.`,
     },
     {
       role: "analyst",
       name: "Quang Dũng",
-      text: `[calm] Và tôi nghĩ điểm mấu chốt là đừng hỏi tương lai này đúng hay sai. Hãy hỏi nó soi ngược lại hiện tại như thế nào. Nếu một chi tiết làm ta bật cười, có thể vì nó vô lý. Nhưng cũng có thể vì nó quá hợp lý, chỉ cần thay ngày tháng và tên công nghệ là nhận ra ngay.`,
+      text: `[calm] Đúng. Và điều làm tôi thấy buồn cười, nhưng cũng hơi chua, là mình đã quá quen với việc sống trong hai nhịp thời gian cùng một lúc. Một nhịp là ngôn ngữ chính thức: quyết tâm, biểu tượng, bước ngoặt, khát vọng, đồng lòng. Nhịp kia là ngôn ngữ đời thường: thôi kệ, chắc còn lâu, cứ liệu đường mà sống. Thành ra người dân không còn phản ứng mạnh khi nghe một mục tiêu được dời mốc. Họ chỉ lặng lẽ điều chỉnh kỳ vọng. Tôi nghĩ đó là tâm thế rất Việt Nam trong tương lai này: vẫn yêu những lời lớn, nhưng không còn đặt hết cuộc đời mình vào chúng.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[more personal] Tôi nhớ tối hôm đó gọi về cho bố mẹ. Bố tôi vừa xem đại lễ xong, giọng vẫn còn hào hứng. Ông nói nghe bài phát biểu mà thấy nở trong lòng, kiểu mình đã đi được một quãng rất dài. Rồi chỉ năm phút sau, ông hỏi luôn là thế giờ có nên chốt vàng không, tại thấy hàng xóm bảo sắp lên nữa. Tôi không cười nổi, vì tôi thấy thương. Thế hệ của bố mẹ mình vẫn giữ khả năng xúc động trước lịch sử, nhưng họ cũng đã trải qua đủ nhiều để biết cuối cùng mình vẫn phải tự lo phần an toàn cho gia đình. Hai tâm trạng đó ở trong cùng một con người, cùng một cuộc điện thoại, và tôi nghĩ đó là chân dung rất thật của xã hội này.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[gentle] Tức là mình vẫn xúc động thật khi xem đại lễ, nhưng xúc động xong vẫn phải mở ứng dụng ngân hàng, vẫn phải xem giá vàng, vẫn phải cân nhắc có nên đặt cọc một căn hộ nổi nào đó không. Tôi thấy cái tương lai của mình trong bộ bài này không phải là tương lai của những nhà hoạch định. Nó là tương lai của tầng lớp phải tự xoay. Và tự xoay ở đây không chỉ là kiếm tiền. Nó là liên tục đoán xem cuộc chơi đang đổi luật theo hướng nào để mình không bị văng ra ngoài.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[personal, descriptive] Sáng hôm sau tôi đi làm bằng tuyến commuter, đứng trên sân ga nhìn bảng điện tử cứ lùi từng phút một. Phía bên kia đường là màn hình công cộng chạy lại những hình ảnh rất đẹp của đại lễ đêm trước. Tôi không thấy mỉa mai theo kiểu cay độc đâu, chỉ thấy đó là trạng thái bình thường của đời sống mình bây giờ. Mình có thể thật lòng rung động trước một biểu tượng quốc gia, rồi ngay sau đó cũng thật lòng bực bội vì chuyến tàu chậm mười bảy phút và cuộc họp đầu ngày sắp trễ. Hai trạng thái không triệt tiêu nhau. Chúng chỉ sống cạnh nhau. Có lẽ trưởng thành trong xã hội này là học cách chứa đồng thời cả tự hào lẫn dè chừng mà không phát điên.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[conversational] Anh nói đến căn hộ nổi làm tôi nhớ ngay cái cơn sốt bốc thăm ở Cần Giờ. Tôi có một cậu em họ, hai vợ chồng làm không tệ, lương khá, đều có agent hỗ trợ công việc, nhìn trên giấy tờ là người đã bắt kịp thời đại. Nhưng đến lúc đứng trước bài toán mua nhà thì vẫn hoảng loạn y hệt bố mẹ mình ngày xưa. Họ biết tỷ lệ trúng cực thấp, biết căn hộ đó không phải giải pháp hoàn hảo, biết giá đã bị đẩy quá xa so với thu nhập. Thế mà họ vẫn nộp hồ sơ. Vì với họ, điều đáng sợ nhất không phải trả giá cao. Điều đáng sợ nhất là cảm giác nếu không tham gia thì mình sẽ bị bỏ lại ở bên ngoài cánh cửa duy nhất còn hé mở.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[half-laughing] Và nếu không lao vào nhà nổi thì lao vào vàng. Cái bản năng trú ẩn ấy không hề mất đi trong thời đại e V T O L và agent gia đình. Nó chỉ đổi từ chuyện tích gạo, tích đô, sang chuyện tích thứ gì có vẻ còn đứng yên khi xung quanh mọi thứ quá biến động. Tôi thấy buồn cười ở chỗ người ta có thể nói cả ngày về đổi mới sáng tạo, nhưng tới cuối ngày vẫn xếp hàng mua vàng như một nghi thức trấn an. Nó không hẳn là tham lam đâu. Nhiều khi nó là cách duy nhất để cảm thấy mình vẫn còn nắm được thứ gì đó không phụ thuộc vào thuật toán của ai.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[steady, anecdotal] Tôi có một người bạn làm đám cưới năm ngoái, rất hiện đại, rất tỉnh táo, hai người sống với nhau nhiều năm rồi mới tổ chức. Tưởng đâu phần khó nhất là lên danh sách khách mời, ai ngờ phần khó nhất lại là trả lời câu hỏi bao giờ mua nhà. Bạn bè thì hỏi kiểu xã giao, họ hàng thì hỏi như một nghĩa vụ, còn bản thân hai đứa tự hỏi nhau như tự tra tấn nhau. Bọn nó kiếm ra tiền, không phải thất nghiệp, không phải thiếu cố gắng. Nhưng chỉ cần thiếu một căn nhà đúng nghĩa là cả hai tự thấy mình vẫn chưa được phép bước sang giai đoạn kế tiếp của cuộc đời. Tôi nghĩ đó là chỗ đau nhất: xã hội này nói rất nhiều về tương lai, nhưng quyền được trưởng thành vẫn bị gắn vào những cột mốc vật chất cực kỳ cứng.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[lower, more intimate] Cái khó nói nhất là sự xấu hổ âm thầm đi cùng những cột mốc ấy. Không ai tuyên bố thẳng là nếu anh còn thuê nhà thì anh kém cỏi. Nhưng cả xã hội được thiết kế để anh tự cảm thấy điều đó. Từ mẫu quảng cáo, từ cách ngân hàng nói chuyện với anh, từ cách họ hàng hỏi thăm, từ cả những câu đùa tưởng như vô hại. Thành ra nhiều người lao đầu vào một căn nhà hay một khoản vàng không chỉ để bảo toàn tài sản. Họ lao vào để xin lại phẩm giá của người trưởng thành. Tôi nghĩ đó là lý do các cuộc xếp hàng luôn đông hơn tính toán kinh tế thuần túy rất nhiều.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[quietly amused] Tôi đang ở tuổi mà đi dự ba đám cưới liền thì sẽ nghe cùng một câu ở ba bàn khác nhau: thôi thương nhau đến đâu thì thương, chứ có chỗ ở ổn định rồi tính tiếp. Câu đó nghe như lời khuyên, nhưng thực ra là một triết lý xã hội. Nó bảo rằng tình cảm chỉ được công nhận trọn vẹn khi đã có hạ tầng đi kèm. Nên nhiều người trẻ thành ra vừa lãng mạn vừa rất kế toán. Yêu nhau xong phải mở bảng tính. Muốn sinh con phải mở app giá thuê, giá học, giá chăm sóc y tế, giá đi lại. Tôi nghĩ sự mỏi mệt trong những bài báo về nhà ở không đến từ giá cao đơn thuần. Nó đến từ cảm giác mọi quyết định riêng tư nhất của đời người đều đang bị một thị trường khổng lồ đứng cạnh gật đầu hay lắc đầu.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[reflective] Và từ câu chuyện tiền bạc, tôi thấy mình bước rất tự nhiên sang câu chuyện gia đình. Bởi vì ở Việt Nam, chuyện nhà không bao giờ chỉ là tài sản. Nó luôn là đạo đức. Có nhà hay không liên quan đến việc có dám cưới không, có sinh con không, có đón bố mẹ lên ở cùng được không, có giữ được cảm giác mình là người trưởng thành tử tế không. Thành ra công nghệ càng phát triển, áp lực gia đình càng không biến mất. Nó chỉ chui vào những chỗ tinh vi hơn. Ví dụ bây giờ người ta có thể thuê agent gọi điện hỏi thăm bố mẹ, nhắc lịch khám bệnh, đặt hoa giỗ. Bề ngoài, mọi thứ trơn tru và chu đáo hơn. Nhưng bên trong thì xuất hiện một câu hỏi rất khó chịu: nếu máy đã làm thay phần chăm sóc bề mặt, phần yêu thương thật sự còn nằm ở đâu.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[softer] Tôi nghĩ nhiều người nghe đoạn này sẽ thấy nhói. Vì nó quá gần. Rất nhiều người trẻ không vô tâm. Họ chỉ quá mệt. Họ ở giữa một công việc đòi phản hồi liên tục, một thành phố đắt đỏ, một hôn nhân mong manh, một cuộc sống mà ngay cả nghỉ ngơi cũng phải lên lịch. Nên agent xuất hiện như một lối thoát đạo đức: mình vẫn làm tròn, nhưng đỡ kiệt sức hơn. Chỉ có điều lối thoát nào cũng có cái giá của nó. Khi bot của mình nói chuyện với bot của mẹ, khi mẹ chồng nhắn qua Zalo rồi một trợ lý tự tóm tắt lại cho mình đọc sau, mình bắt đầu thấy gia đình không còn là một nơi nữa. Nó thành một hệ thống cần vận hành trơn tru.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[hesitant] Tôi thú thật là tôi từng thử để agent gọi trước cho mẹ vài hôm liên tiếp. Nó làm rất tốt. Quá tốt luôn. Nhắc đúng giờ uống thuốc, nhớ cả chuyện cuối tuần bà muốn sang thăm dì út, còn tự động gửi cả mấy tấm ảnh cây cối ngoài ban công cho đỡ trống. Vấn đề là tối đó khi tôi thật sự rảnh để gọi lại, tôi bỗng có cảm giác như cuộc trò chuyện quan trọng nhất trong ngày đã diễn ra rồi, chỉ là không có tôi ở trong đó. Mẹ vẫn vui, mọi việc vẫn ổn, nhưng tôi thấy mình bị rút ra khỏi chính vai trò mà mình tưởng là không thể thay thế. Cảm giác ấy không hẳn là ghen với máy. Nó giống xấu hổ hơn.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[gentle, probing] Tôi nghĩ rất nhiều người sẽ nhận ra mình trong cái xấu hổ đó. Bởi vì thế hệ mình được nuôi dạy bằng một thứ đạo đức khá nghiêm: làm con thì phải có mặt, làm chồng làm vợ thì phải san sẻ, làm cha làm mẹ thì phải dõi theo từng bước. Đến khi đời sống khiến mình không đủ sức có mặt theo nghĩa cũ nữa, mình bắt đầu thương lượng với công nghệ để bù vào khoảng thiếu. Điều khó chịu là công nghệ thường hoàn thành phần việc rất gọn ghẽ, nên nó vô tình phơi ra sự vụng về của chính mình. Mình không còn bảo rằng mình bận. Mình buộc phải đối diện với chuyện có những lúc mình mệt quá, trống quá, hoặc tê quá để làm người thân theo kiểu mình từng được dạy.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[warm] Nhưng tôi không muốn thành người than công nghệ làm hỏng tình thân. Vấn đề không nằm ở công nghệ. Vấn đề là xã hội này khiến người ta kiệt sức tới mức phải thuê cả sự hiện diện. Tôi nghĩ đó mới là câu chuyện buồn ở bên dưới. Agent chỉ là băng gạc. Vết thương là nhịp sống. Và khi mình nhìn sang giáo dục thì cũng thấy đúng cái logic ấy. Nhà nào có tiền thì mua cho con một agent tốt hơn, một môi trường học yên tĩnh hơn, một hệ sinh thái tối ưu hơn. Nhà không có tiền thì bám vào thư viện công cộng, vào gói miễn phí, vào trí thông minh và sự lì của đứa trẻ. Chuyện cậu bé học ở thư viện làng đỗ thủ khoa A I làm mọi người xúc động, nhưng nó cũng lộ ra một sự thật không dễ nghe: bất bình đẳng không biến mất khi công cụ thông minh hơn. Nó chỉ trở nên lịch sự hơn, khó gọi tên hơn.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[observational] Và cái bất bình đẳng lịch sự đó mới đáng ngại. Vì hồi xưa mình còn nhìn thấy nó khá rõ: nhà nào có tiền cho con học thêm, nhà nào không. Bây giờ mọi người đều có thể nói nền tảng này miễn phí, thư viện kia mở cửa, gói cơ bản vẫn dùng được. Nghe rất dân chủ. Nhưng ai từng làm việc với mấy hệ thống này đều biết sự khác biệt thật nằm ở chất lượng agent, chất lượng dữ liệu cá nhân hóa, tốc độ phản hồi, thời gian người lớn có thể ngồi cùng con. Chênh lệch không nằm ở cánh cửa vào nữa. Nó nằm ở độ sâu mà mỗi đứa trẻ được phép đi tiếp sau khi bước vào cánh cửa đó.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[curious, natural] Đúng, và cái đau ở đây là ai cũng có thể nói mình đang trao cơ hội. Trường nói đã phổ cập nền tảng học. Doanh nghiệp nói đã tài trợ. Chính quyền nói hạ tầng tiếp cận đang tốt lên. Tất cả đều đúng một phần. Nhưng cuối cùng, một đứa trẻ vẫn phải tự chiến đấu để chứng minh mình xứng đáng được nhìn thấy. Tôi luôn thấy những đề văn gây tranh cãi trong xã hội mình thú vị ở chỗ đó. Người lớn cãi nhau về một tác phẩm khó hay dễ, quá nặng hay quá cảm tính, nhưng phía sau là nỗi sợ lớn hơn nhiều: con mình có đang bị kéo vào một cuộc thi mà luật chơi thay đổi nhanh hơn khả năng thích nghi của nó không.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[considered] Và sâu hơn nữa là câu hỏi xã hội này đang định nghĩa người thông minh là gì. Nếu một đứa trẻ biết dùng agent thật trơn tru, biết tối ưu lịch học, biết tìm đường tắt trong mọi hệ thống, thì đó là năng lực đáng khen hay chỉ là khả năng thích ứng với một môi trường vốn đã bất công. Tôi không có câu trả lời gọn. Nhưng tôi thấy lo khi người lớn bắt đầu nhầm giữa sự thành thạo công cụ với chiều sâu nội tâm. Một đứa trẻ có thể xử lý bài tập rất nhanh, mà vẫn không có lấy một khoảng yên để hình thành tiếng nói riêng. Mà giáo dục, ở tầng cuối cùng, nếu không bảo vệ được tiếng nói riêng đó thì nguy hiểm.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[slow, personal] Có lẽ vì tôi chưa có con nên tôi nhìn chuyện này hơi vòng vo, đi qua bạn bè trước. Nhưng nhìn bạn bè nuôi con trong thời đại agent mới thấy làm cha mẹ bây giờ gần như là một nghề toàn thời gian cộng thêm một nghề kiểm định. Họ phải chọn nền tảng nào, giới hạn mức tự động hóa ra sao, khi nào để máy kèm, khi nào bắt buộc chính mình phải ngồi xuống cùng con dù đã kiệt sức. Họ không chỉ lo con học tốt. Họ lo con sẽ lớn lên với cảm giác thế nào về chính giá trị của mình. Nếu mọi thứ đều được tối ưu hóa xung quanh đứa trẻ, thì làm sao để nó không tưởng rằng mình chỉ đáng yêu khi hoạt động hiệu quả.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[lower, serious] Và khi xã hội bước sang lĩnh vực pháp luật, nỗi sợ ấy chuyển thành một dạng mất đất khác: mất đất dưới chân của sự thật. Những vụ deepfake từ thiện, những cuộc gọi bằng giọng người đã khuất, những mô hình tâm linh tự động hóa, với tôi, không chỉ là chuyện lừa đảo công nghệ cao. Nó là chuyện lòng tin của người Việt bị khai thác ở chính những chỗ mềm nhất. Người ta không bị lừa vì ngu. Người ta bị lừa vì nhớ một giọng nói, vì muốn cứu một đứa trẻ, vì cần ai đó bảo rằng số phận mình rồi sẽ bớt xấu. Khi công nghệ đủ giỏi để giả được sự chân thành, pháp luật không còn chỉ đuổi theo hành vi sai. Nó phải đuổi theo cả cảm xúc đã bị chiếm dụng.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[quiet] Tôi thấy đây là đoạn làm cho năm hai nghìn không trăm bốn mươi lăm bớt vui hẳn. Vì tới một lúc, mình nhận ra xã hội này không thiếu dữ liệu, không thiếu xác thực, không thiếu chuẩn an toàn như Đan Sa. Cái nó thiếu là khoảng tin cậy tự nhiên giữa người với người. Mọi thứ đều cần một lớp chứng thực nữa, một lớp kiểm tra nữa, một con dấu nữa. Về kỹ thuật thì có thể hợp lý. Nhưng về cảm xúc, nó làm con người kiệt quệ. Nếu mỗi cuộc gọi từ người thân cũng cần hỏi đây là mẹ thật hay agent, nếu mỗi video kêu gọi quyên góp cũng cần mở thêm ba lớp xác minh, thì đời sống tinh thần sẽ trở nên rất mệt.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[serious, human] Tôi nghĩ người ta hay đánh giá thấp sự mệt này vì nó không nhìn thấy bằng mắt. Nó không giống kẹt xe hay ngập đường. Nó là thứ âm ỉ hơn: một ngày bạn phải nghi ngờ năm thứ trước đây từng rất tự nhiên, và tối về não bạn kiệt pin mà không hiểu tại sao. Mẹ gọi đến, bạn phải nhìn xác thực sinh trắc. Một clip quyên góp xuất hiện, bạn phải xem nguồn dựng. Một lời xin lỗi của nghệ sĩ lan ra, bạn phải tự hỏi giọng này đã qua xử lý chưa. Tới một điểm nào đó, con người không còn sống trong môi trường thông tin nữa, mà sống trong môi trường kiểm chứng. Mà kiểm chứng liên tục thì rất cô độc.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[low, honest] Tôi thấy cái cô độc ấy còn kéo theo một phản xạ khác, là thu mình. Khi mọi thứ đều có thể giả, người ta bắt đầu co lại vào những vòng tròn tin cậy nhỏ hơn: gia đình ruột, vài người bạn cũ, vài nhóm chat kín, vài nguồn thông tin quen. Điều này có mặt tốt là giúp mình sống sót tinh thần. Nhưng mặt xấu là xã hội dễ bị chia thành những hòn đảo ngày càng ít nói chuyện với nhau. Người nào cũng bảo mình chỉ cẩn thận thôi, nhưng cộng lại thì thành một bầu không khí rất khó cho sự đồng cảm. Muốn tin một người lạ đã khó, muốn thay đổi ý kiến sau khi đã nghi ngờ họ lại còn khó hơn.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[thoughtful] Mà anh để ý không, đúng lúc lòng tin cá nhân mong manh hơn thì câu hỏi về cộng đồng lại lớn hơn. Câu chuyện lao động hữu nghị, những gia đình nhập cư, đội tuyển quốc gia có con em lao động Philippines, tất cả những chuyện ấy làm tôi nghĩ nhiều về việc một quốc gia tự kể mình là ai. Trước đây mình quen tưởng tượng bản sắc là cái gì khá cố định. Nhưng đến hai nghìn không trăm bốn mươi lăm, bản sắc rõ ràng đã trở thành một cuộc thương lượng đang diễn ra mỗi ngày, trong nhà máy, trong lớp học, ngoài sân bóng, trong tiếng nói con cái, trong thực đơn gia đình. Tôi thấy đây là phần thú vị nhất của thế giới này, và cũng là phần nhạy cảm nhất.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[engaged] Tôi đồng ý, và tôi thấy cái nhạy cảm ấy nằm ở chỗ mọi người thường chỉ chấp nhận sự thay đổi khi nó đi qua một khung cảm xúc quen thuộc. Ví dụ trên sân bóng thì dễ chấp nhận hơn, vì chiến thắng giúp mọi người thấy gần nhau ngay lập tức. Nhưng ở đời sống hằng ngày, sự gần nhau chậm hơn nhiều. Nó đi qua chuyện con mình ngồi cạnh ai trong lớp, khu trọ nói những thứ tiếng nào, mẹ mình có khó chịu khi cháu nội nói lẫn giọng hay không, bữa cơm gia đình xuất hiện món ăn nào, tên gọi nào nghe vẫn còn lạ. Tức là bản sắc không đổi bằng nghị quyết. Nó đổi bằng bữa tối, bằng tiếng ru, bằng cách trẻ con đùa với nhau.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[more animated] Vì nó đụng vào thứ người Việt rất dễ vừa tự hào vừa phòng thủ, đó là cảm giác thuộc về. Một trận bóng có thể khiến mọi người mở lòng rất nhanh. Một tấm huy chương có thể làm câu chuyện nhập cư nghe dễ chịu hơn nhiều. Nhưng đời sống thì dài hơn chín mươi phút. Sau khi tiếng còi mãn cuộc hết vang, xã hội vẫn phải trả lời những câu khó hơn: ai được coi là người trong nhà, ai chỉ là lao động tạm trú, ai có quyền mơ về tương lai ở đây như một điều bình thường chứ không phải ân huệ. Tôi thấy năm hai nghìn không trăm bốn mươi lăm này đang buộc Việt Nam phải lớn lên theo nghĩa đó, dù có muốn hay không.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[thoughtful, vivid] Và có một biểu hiện rất nhỏ nhưng tôi thấy hay: ngôn ngữ. Khi trẻ con lớn lên trong những gia đình pha trộn, trong các khu dân cư và trường học đủ giọng vùng miền lẫn giọng nhập cư, tiếng Việt của tụi nhỏ tự nhiên rộng ra. Ngày xưa người lớn thường coi chuyện đó là lệch chuẩn. Nhưng có khi đó lại là lúc một xã hội thật sự thay da. Không phải ở chỗ treo khẩu hiệu đa dạng, mà ở chỗ nó chấp nhận để ngữ điệu của mình thay đổi một chút. Tôi nghĩ tương lai của một quốc gia nhiều khi hiện ra trước hết trong giọng nói của trẻ con, trước khi hiện ra trong mọi văn kiện chính thức.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[casual, vivid] Và lớn lên thì luôn tốn kém. Nhìn vào giao thông và đô thị là thấy ngay. Có người đi e V T O L cuối tuần từ thành phố Hồ Chí Minh ra Vũng Tàu như thể bắt taxi trên trời, trong khi người khác vẫn sống trong hành trình tàu, xe khách, tàu. Có quận được làm sạch tiếng ồn để đón tầng lớp mới, có khu dân cư phản ứng vì bầu trời phía trên tự nhiên thành đường bay. Tương lai đến không đều. Nó đáp xuống một số mái nhà trước, còn những mái khác chỉ nghe tiếng quạt gió từ xa. Thế nên khi nghe ai đó nói đất nước đã bước sang một kỷ nguyên mới, tôi luôn muốn hỏi thêm: với ai.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[laughing softly] Và với chi phí nào. Tôi thấy người Việt trong cái thế giới này rất thực tế. Họ không phản đối tương lai theo kiểu lãng mạn. Họ phản đối tiếng ồn, tiền thuê, giá vé, phí duy trì, điều khoản ẩn, quyền ưu tiên, thời gian chờ. Nói cách khác, họ không cãi với ý tưởng hiện đại hóa. Họ cãi với hóa đơn của hiện đại hóa. Điều này làm cho các bài về nhà đất, phương tiện, thậm chí du lịch ngủ ghép đều có chung một cảm giác: tương lai không miễn phí, và thường người đến sau sẽ phải trả đắt hơn để được bước vào cùng một căn phòng.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[dry, observant] Cụm từ hóa đơn của hiện đại hóa rất đúng. Vì nhiều khi tranh luận ở ta nghe như tranh luận văn hóa, nhưng đào xuống một lớp là tranh luận kế toán. Bao nhiêu tiền một tháng để duy trì agent gia đình. Bao nhiêu cho một chỗ ở không ngập. Bao nhiêu cho một chuyến di chuyển bớt mất thời gian. Bao nhiêu để con không bị tụt so với lứa bạn. Bao nhiêu để dữ liệu của mình được bảo vệ ở mức đủ yên tâm. Từng khoản riêng lẻ nghe có vẻ hợp lý, nhưng cộng lại thì thành một thứ áp lực vô hình: muốn sống như người hiện đại thì phải liên tục trả phí để giữ chỗ trong chính tương lai của mình.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[lighter, then serious] Còn giải trí thì sao. Tôi nghĩ đó là nơi xã hội tập dượt cảm giác sống chung với cái giả mà vẫn phải phản ứng thật. Hoa hậu A I, scandal ba mươi mốt phần trăm deepfake, livestream kéo tám tiếng để chứng minh độ thật, lời xin lỗi ai cũng nghe nhưng không ai chắc nên tin đến đâu. Showbiz trong năm hai nghìn không trăm bốn mươi lăm không chỉ là một ngành công nghiệp giải trí. Nó là phòng thí nghiệm đạo đức của công chúng. Ở đó, người ta học cách nghi ngờ hình ảnh, nghi ngờ giọng nói, nghi ngờ cả cảm xúc của chính mình. Và nếu khán giả tập nghi ngờ ở đó đủ lâu, thói quen ấy sẽ mang theo sang đời sống chính trị, pháp lý, gia đình.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[half amused, half tired] Có lúc tôi nghĩ khán giả Việt trong giai đoạn này thật ra rất giỏi. Giỏi đến mức tội. Họ phải tự nâng cấp trực giác mỗi ngày. Ngày xưa chỉ cần hỏi tin này có thật không. Bây giờ phải hỏi thêm: thật bao nhiêu phần trăm, thật ở đoạn nào, giả ở tầng nào, người đăng đang lợi dụng cảm xúc gì của mình. Nghe thì như kỹ năng truyền thông số, nhưng sống với nó lâu sẽ thành mỏi mệt tinh thần. Cứ phải tỉnh táo liên tục cũng là một dạng lao động, mà lại là dạng lao động hầu như không ai trả công.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[slower] Có lẽ vì vậy mà tôi không coi chuyện deepfake chỉ là chuyện kỹ thuật nữa. Nó làm bào mòn một kỹ năng xã hội rất căn bản là khả năng ngồi trước một gương mặt và tin rằng người kia đang thật. Nếu kỹ năng đó mòn đi, mọi thứ đều trở nên mệt hơn: yêu nhau mệt hơn, tha thứ mệt hơn, làm báo mệt hơn, tranh luận mệt hơn. Và rồi tới cả thể thao, thứ tưởng như đơn giản nhất, cũng không còn là chỗ trú. A I V A R chính xác hơn con người nhưng lại không làm con người thanh thản hơn. Vì cái người ta cần không phải chỉ là quyết định đúng. Họ cần cảm giác công bằng được cảm nhận bằng tim, chứ không chỉ được tính bằng dữ liệu.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[reflective, deepening] Nên cuối cùng chúng ta quay lại với khí hậu, với đại hồng thủy, với những bóng dài mà xã hội này vẫn mang theo. Tôi nghĩ có một điều rất thật là sau một biến cố lớn, người ta không nhắc nó mỗi ngày nữa, nhưng đời sống sẽ bị tổ chức lại quanh ký ức ấy. Tuyến phòng thủ ven biển, cơn sốt nhà ở nơi cao ráo, cách người ta nói về mùa lễ, du lịch, đầu tư, mọi thứ đều có dấu nước ở đâu đó. Và khi một xã hội vừa phải thích ứng với khí hậu, vừa phải thích ứng với A I, vừa phải thích ứng với dịch chuyển dân số, thì sự mệt mỏi của nó không phải thất bại đạo đức. Nó là trạng thái nền.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[quiet memory] Tôi còn nhớ rất rõ cảm giác sau đại hồng thủy, không phải nước dâng đến đâu, mà là tiếng người lớn nói chuyện về tương lai nhỏ lại hẳn. Trước đó ai cũng hay nói mười năm nữa, hai mươi năm nữa. Sau biến cố, mọi câu hỏi đều co về gần hơn: mùa này thế nào, khu này còn ở được không, năm sau có phải chuyển không. Nên khi nghe các dự án lớn về thích ứng khí hậu bây giờ, tôi luôn nghe bằng hai lớp tai. Một lớp muốn tin thật sự. Một lớp còn giữ ký ức rằng nước đã từng đi vào nhà nhanh hơn mọi lời trấn an. Có lẽ vì thế mà tương lai ở xã hội này không bao giờ là một đường thẳng. Nó luôn có bóng của một trận mưa cũ đi kèm.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[soft, gathering threads] Tôi nghĩ đây là lý do làm tôi thấy cái thế giới này đáng tin, dù nó hư cấu. Nó không cố thuyết phục mình bằng những món đồ kỳ lạ. Nó thuyết phục bằng sự mệt mỏi rất nhận ra được. Bằng cảm giác vừa tự hào về đất nước vừa không hoàn toàn tin vào lời hứa. Vừa yêu gia đình vừa thấy ngộp. Vừa muốn công nghệ giúp mình nhẹ đi vừa sợ nó lấy mất cái gì đó không gọi tên được. Vừa cười vì một bản tin phi lý vừa chột dạ vì hình như nó chỉ đẩy hiện tại đi xa thêm vài bước.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[reflective, meta but natural] Có lẽ vì thế mà một tờ báo giả lại làm tôi tin vào cảm giác thật. Bởi nó dùng đúng cái khung mình đã quen từ nhỏ: logo, chuyên mục, sapo, ảnh minh họa, bình luận, tin liên quan. Mình bước vào với tâm thế của người đọc báo hằng ngày, nên khi gặp những chi tiết lệch đi, mình không phản ứng như đang xem khoa học viễn tưởng. Mình phản ứng như đang đọc chính đời sống của mình bị đẩy nghiêng thêm vài độ. Và cái lệch vài độ đó đủ để làm hiện ra rất nhiều điều bình thường ngày thường mình không gọi tên được.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[softer, hopeful] Nhưng tôi cũng không muốn kết thúc chỉ bằng sự mệt. Có một điều tôi thấy đẹp trong cái bức tranh này, dù hơi buồn, là con người vẫn cố giữ những cử chỉ rất nhỏ. Vẫn có người xếp hàng chờ mua nhà vì muốn cho con một chỗ ở ổn định. Vẫn có người gọi về cho mẹ dù agent đã gọi rồi. Vẫn có đứa trẻ ngồi ở thư viện làng học đến khuya. Vẫn có những khán giả còn muốn phân biệt cái thật với cái giả thay vì buông luôn cho tiện. Tôi nghĩ xã hội còn cứu được là nhờ những cử chỉ nhỏ đó. Chúng không tạo nên diễn văn lớn, nhưng chúng giữ cho đời sống không trượt hẳn vào sự lạnh lẽo tối ưu.`,
+    },
+    {
+      role: "analyst",
+      name: "Quang Dũng",
+      text: `[warm, natural close] Và có lẽ đó là storyline thật của năm hai nghìn không trăm bốn mươi lăm này. Không phải chuyện đất nước đã trở thành gì, mà là chuyện con người đang cố giữ mình nguyên vẹn như thế nào khi mọi thứ quanh họ tăng tốc. Ai cũng phải thương lượng một chút với thời đại: bớt tin một chút, bớt kỳ vọng một chút, thuê bớt sự hiện diện, mua thêm chút an tâm, và cố không đánh rơi phần người của mình giữa tất cả những hệ thống tối ưu hóa. Nếu nghe xong mà thấy tương lai này quen, thì có lẽ vì nó đã bắt đầu từ lâu rồi.`,
+    },
+    {
+      role: "host",
+      name: "Minh Anh",
+      text: `[gentle signoff] Cảm ơn Quang Dũng. Và cảm ơn bạn đã ngồi lại với tụi tôi lâu như thế. Nếu có một điều còn đọng lại sau cuộc trò chuyện này, tôi mong đó không phải là danh sách các công nghệ của năm hai nghìn không trăm bốn mươi lăm. Tôi mong đó là câu hỏi rất bình thường thôi: trong một xã hội ngày càng tiện, ngày càng nhanh, ngày càng biết cách nói trơn tru, mình còn muốn giữ lại điều gì cho chậm, cho thật, cho người. Hẹn gặp lại bạn ở tập sau.`,
     },
   ];
-
-  for (const [index, chapter] of chapters.entries()) {
-    const storyLines = chapter.slugs.map((slug) => line(slug)).join(" ");
-    turns.push(
-      {
-        role: "host",
-        name: "Minh Anh",
-        text: `[chapter ${index + 1}] Bắt đầu với ${chapter.label}. ${chapter.frame}. Trong cụm tin này, ta có: ${storyLines} Điều làm tôi chú ý không chỉ là sự kiện, mà là giọng điệu rất bình thường của nó. Tin được kể như thể mọi thứ đã được hấp thụ vào đời sống hằng ngày, không còn cần giải thích dài dòng.`,
-      },
-      {
-        role: "analyst",
-        name: "Quang Dũng",
-        text: `[analytical] Đúng, và ${chapter.continuity}. Đây là thủ pháp rất mạnh: đặt một chi tiết lệch tương lai vào một câu văn hành chính hoặc một cấu trúc tin bài quen thuộc. Người nghe vừa nhận ra cái mới, vừa nhận ra cái cũ. Cảm giác hài không đến từ trò đùa trực tiếp, mà đến từ độ trễ giữa vật chất đã đổi và ngôn ngữ vẫn giữ nguyên nếp.`,
-      },
-      {
-        role: "host",
-        name: "Minh Anh",
-        text: `[curious] Nhưng tôi muốn kéo nó về phía người đọc bình thường. ${chapter.question} Vì trong từng tin, nhân vật không sống trong khái niệm lớn. Họ xếp hàng, đóng phí, chăm cha mẹ, cãi nhau, đi làm, mua vàng, đặt vé, xem bóng đá. Tương lai của họ không phải bầu trời neon, mà là một biểu mẫu mới phải điền trước mười bảy giờ.`,
-      },
-      {
-        role: "analyst",
-        name: "Quang Dũng",
-        text: `[reflective] Và đó là lý do các bài này có lực. Chúng không nói rằng năm hai nghìn không trăm bốn mươi lăm sẽ kỳ dị. Chúng nói rằng nếu những phản xạ cũ tiếp tục đi cùng công nghệ mới, sự kỳ dị sẽ được bình thường hóa rất nhanh. Một thế hệ sẽ thấy agent nói chuyện với agent là chuyện lạ; thế hệ sau sẽ hỏi tại sao ngày xưa người ta tự nhắn tin lấy. Chính lúc đó, cái cũ biến mất mà không ai tổ chức lễ chia tay.`,
-      },
-    );
-  }
-
-  turns.push(
-    {
-      role: "host",
-      name: "Minh Anh",
-      text: `[closing] Nếu phải gom lại, tôi thấy VnExpress hai nghìn không trăm bốn mươi lăm không phải một dự báo, mà là một máy khuếch đại. Nó khuếch đại nỗi lo nhà đất, ký ức thiên tai, áp lực gia đình, khát vọng quốc gia, niềm tin vào học hành, và cả thói quen đọc báo để xác nhận rằng xã hội vẫn có trật tự nào đó.`,
-    },
-    {
-      role: "analyst",
-      name: "Quang Dũng",
-      text: `[warm] Tôi đồng ý. Và điều buồn cười nhất có lẽ là hình thức báo điện tử vẫn rất bền. Có logo, chuyên mục, sapo, ảnh đại diện, comment, tin liên quan. Bên trong là A I, e V T O L, deepfake, đường sắt lùi đến hai nghìn không trăm năm mươi hai. Cái khung cũ khiến tương lai trông đáng tin hơn, và chính vì đáng tin nên nó mới buồn cười.`,
-    },
-    {
-      role: "host",
-      name: "Minh Anh",
-      text: `[soft] Cảm ơn Quang Dũng, và cảm ơn bạn đã nghe bản dài này. Nếu bản tin ngắn cho ta biết chuyện gì vừa xảy ra, thì podcast dài cho ta thời gian hỏi vì sao chuyện ấy nghe quen đến vậy. Bạn đang nghe VnExpress Podcast, bản đặc biệt từ tương lai giả lập hai nghìn không trăm bốn mươi lăm.`,
-    },
-    {
-      role: "analyst",
-      name: "Quang Dũng",
-      text: `[gentle signoff] Hẹn gặp lại trong một tương lai khác, hoặc trong chính hiện tại nếu ta đọc chậm hơn một chút.`,
-    },
-  );
 
   return makeDialogueEpisode({
     id: "podcast-longform-2045-mot-tuong-lai-rat-quen",
     kind: "podcast",
     title: "Longform: 2045, một tương lai rất quen",
-    summary: "Minh Anh và Quang Dũng trò chuyện dài về các lớp xã hội trong VnExpress 2045: quốc gia, nhà đất, gia đình, AI, pháp luật, nhập cư, đô thị, giải trí và khí hậu.",
+    summary: "Một cuộc trò chuyện dài, tự nhiên giữa Minh Anh và Quang Dũng về cảm giác sống ở Việt Nam năm 2045: từ tiền nhà, gia đình, AI và lòng tin đến câu hỏi ai được bước vào tương lai trước.",
     posterSlug: "100-nam-quoc-khanh-khat-vong-viet-nam-cong-bo",
-    articleSlugs: [...new Set(chapters.flatMap((chapter) => chapter.slugs))],
+    articleSlugs: [
+      "100-nam-quoc-khanh-khat-vong-viet-nam-cong-bo",
+      "tuyen-phong-thu-ven-bien-le-ky-niem-100-nam",
+      "duong-sat-bac-nam-doan-vinh-dong-ha-lui-tien-do-2052",
+      "boc-tham-vinhomes-can-gio-floating-city",
+      "kinh-doanh-vang-sjc-1-8-ty-xep-hang-ha-noi",
+      "goc-nhin-con-bot-cua-toi-noi-chuyen-voi-con-bot-cua-me",
+      "cau-be-thu-vien-lang-thu-khoa-olympic-ai-quoc-gia",
+      "boc-tran-hoi-tu-thien-tam-lanh-ai-deepfake-23-ty",
+      "ai-thay-cung-ai-tu-vi-lua-dao-ponzi-47-ty",
+      "doi-tuyen-vong-loai-world-cup-2046-philippines",
+      "the-gioi-manila-xuat-khau-lao-dong-dot-7",
+      "vinair-evtol-tp-hcm-vung-tau-mo-tuyen",
+      "ha-noi-han-che-xe-may-vanh-dai-3-2050",
+      "hoa-hau-quoc-te-2045-thi-sinh-viet-nam-tranh-cai-ai",
+      "scandal-ngoi-sao-deepfake-do-uong-co-con-xin-loi",
+      "v-league-hagl-thua-vff-ai-var-tranh-cai",
+      "10-nam-sau-dai-hong-thuy-chung-ta-da-hoc-duoc-gi",
+    ],
     publishedAt: "2045-05-01T06:00:00+07:00",
     turns,
   });
